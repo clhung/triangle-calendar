@@ -1,0 +1,6 @@
+{
+  "name": "Triangle Kids Events Calendar Sync",
+  "description": "Automated scraper and iCalendar (.ics) generator for free and cheap kids events from Triangle on the Cheap, scheduled via GitHub Actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
