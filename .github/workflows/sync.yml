@@ -5,113 +5,34 @@ on:
     # Runs daily at 06:00 UTC (02:00 AM EDT / 01:00 AM EST)
     - cron: '0 6 * * *'
   workflow_dispatch:
-    inputs:
-      days_ahead:
-        description: 'Number of calendar days ahead to query'
-        required: false
-        default: '30'
-      output_filename:
-        description: 'Output filename for the calendar'
-        required: false
-        default: 'kids_events.ics'
 
-# Strict principle-of-least-privilege permissions
 permissions:
-  contents: write # Needed to commit the updated .ics and json artifacts back to the repository
-
-# Concurrency control to prevent parallel conflicting runs
-concurrency:
-  group: sync-events-${{ github.ref }}
-  cancel-in-progress: true
+  contents: write
 
 jobs:
-  scrape-and-sync:
-    name: Scrape Events & Generate ICS Calendar
+  sync:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          # Use GITHUB_TOKEN automatically provided as an encrypted secret by GitHub Actions
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Run sync_events.py
-        env:
-          # Secure environment variables configuration:
-          # Any optional external webhook, API tokens, or secrets must be provided via GitHub Secrets
-          OUTPUT_FILE: ${{ github.event.inputs.output_filename || 'kids_events.ics' }}
-          DAYS_AHEAD: ${{ github.event.inputs.days_ahead || '30' }}
-          SCRAPER_USER_AGENT: 'Mozilla/5.0 (compatible; TriangleKidsEventsBot/1.0; +https://github.com/${{ github.repository }})'
-          # If an external sync webhook or service notification is configured:
-          SYNC_WEBHOOK_URL: ${{ secrets.SYNC_WEBHOOK_URL }}
-        run: |
-          echo "::group::Starting Scraper"
-          python sync_events.py \
-            --output "${OUTPUT_FILE}" \
-            --days "${DAYS_AHEAD}" \
-            --json-output "public/events.json" \
-            --verbose
-          echo "::endgroup::"
-          
-          # Also copy calendar to public/ for web app or static GitHub Pages serving
-          mkdir -p public
-          cp -f "${OUTPUT_FILE}" "public/kids_events.ics"
-          cp -f "${OUTPUT_FILE}" "public/events.ics"
+      - name: Run Scraper
+        run: python3 sync_events.py kids_events.ics
 
-      - name: Validate Generated Calendar
+      - name: Commit and Push Calendar
         run: |
-          echo "::group::Validating iCalendar Format"
-          python -c "
-          import sys
-          with open('kids_events.ics', 'r', encoding='utf-8') as f:
-              data = f.read()
-          assert 'BEGIN:VCALENDAR' in data, 'Missing BEGIN:VCALENDAR'
-          assert 'END:VCALENDAR' in data, 'Missing END:VCALENDAR'
-          events_count = data.count('BEGIN:VEVENT')
-          print(f'Successfully validated iCalendar with {events_count} events.')
-          assert events_count > 0, 'No events found in generated calendar!'
-          "
-          echo "::endgroup::"
-
-      - name: Commit and Push Changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          git add kids_events.ics public/kids_events.ics public/events.ics public/events.json
-          
-          # Check if changes exist before attempting commit
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add kids_events.ics
           if git diff --staged --quiet; then
-            echo "No calendar changes detected; calendar is up-to-date."
+            echo "No calendar changes detected."
           else
-            EVENT_COUNT=$(grep -c "BEGIN:VEVENT" kids_events.ics || echo "0")
-            git commit -m "chore(calendar): update kids events ($EVENT_COUNT events) [skip ci]"
-            git push origin HEAD:${{ github.ref }}
-            echo "Successfully pushed updated .ics calendar to repository."
+            git commit -m "chore(calendar): update kids_events.ics [skip ci]"
+            git push
           fi
-
-      - name: Upload Calendar as Artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: kids-events-calendar
-          path: |
-            kids_events.ics
-            public/events.json
-          retention-days: 90
-
-      - name: Notify Optional Webhook (Healthcheck / Discord / Slack)
-        if: env.SYNC_WEBHOOK_URL != ''
-        run: |
-          # Safe post to encrypted webhook secret if configured
-          curl -s -X POST -H "Content-Type: application/json" \
-            -d "{\"status\": \"success\", \"repository\": \"${{ github.repository }}\", \"events_synced\": $(grep -c "BEGIN:VEVENT" kids_events.ics || echo 0)}" \
-            "${{ secrets.SYNC_WEBHOOK_URL }}" || true

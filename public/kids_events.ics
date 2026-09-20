@@ -1,12 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Triangle on the Cheap//Kids Events Calendar Sync//EN
+PRODID:-//Triangle on the Cheap//Kids Events//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Triangle Free & Cheap Kids Events
+X-WR-CALNAME:Triangle Kids Events
 X-WR-TIMEZONE:America/New_York
-X-WR-CALDESC:Free and cheap kids events in Raleigh, Durham, Chapel Hill & b
- eyond from Triangle on the Cheap
+X-WR-CALDESC:Free and cheap kids events from Triangle on the Cheap
 BEGIN:VTIMEZONE
 TZID:America/New_York
 X-LIC-LOCATION:America/New_York
@@ -26,2587 +25,2388 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6cae107e53a8418830042b6d@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:e68e4418a4bfad2373bbbada@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Asia Fest\, including dragon boat races
 DTSTART;TZID=America/New_York:20260919T090000
 DTEND;TZID=America/New_York:20260919T170000
 DESCRIPTION:Cost: $0-12.00\nTime: 9:00 am to 5:00 pm\nLocation: Koka Booth 
- Amphitheatre\nMore info: https://triangleonthecheap.com/dragon-boat-festi
- val-cary/\nSource: Triangle on the Cheap (Kids Events)
+ Amphitheatre\nInfo: https://triangleonthecheap.com/dragon-boat-festival-c
+ ary/\nSource: Triangle on the Cheap
 LOCATION:Koka Booth Amphitheatre
 URL:https://triangleonthecheap.com/dragon-boat-festival-cary/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:760ea989c54d9859a8b206fd@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:5440bd29fe278f33b1701cca@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260919T090000
 DTEND;TZID=America/New_York:20260919T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:98a81a809e3542c8c5211d58@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:79d6a8a7cc33984d6140ff7f@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:DISCover Ultimate Day: Intro to Ultimate for Youth
 DTSTART;TZID=America/New_York:20260919T093000
 DTEND;TZID=America/New_York:20260919T113000
 DESCRIPTION:Cost: FREE\nTime: 9:30 am to 11:30 am\nLocation: Mills Park\, C
- ary\nMore info: https://triangleonthecheap.com/discover-ultimate-day/\nSo
- urce: Triangle on the Cheap (Kids Events)
+ ary\nInfo: https://triangleonthecheap.com/discover-ultimate-day/\nSource:
+  Triangle on the Cheap
 LOCATION:Mills Park\, Cary
 URL:https://triangleonthecheap.com/discover-ultimate-day/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:98a81a809e3542c8c5211d58@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:e12aef751427d896c220bc4e@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:DISCover Ultimate Day: Intro to Ultimate for Youth
 DTSTART;TZID=America/New_York:20260919T100000
 DTEND;TZID=America/New_York:20260919T120000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 12:00 pm\nLocation: Piney Wood Pa
- rk\, Durham\nMore info: https://triangleonthecheap.com/discover-ultimate-
- day/\nSource: Triangle on the Cheap (Kids Events)
+ rk\, Durham\nInfo: https://triangleonthecheap.com/discover-ultimate-day/\
+ nSource: Triangle on the Cheap
 LOCATION:Piney Wood Park\, Durham
 URL:https://triangleonthecheap.com/discover-ultimate-day/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6566d47455be351f626bef03@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:5c515cdac4fff5657be0dd65@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:CenterFest Downtown Durham Arts Festival
 DTSTART;TZID=America/New_York:20260919T100000
 DTEND;TZID=America/New_York:20260919T180000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 6:00 pm\nLocation: CCB Plaza\, Du
- rham\nMore info: https://triangleonthecheap.com/centerfest-arts-festival-
- durham/\nSource: Triangle on the Cheap (Kids Events)
+ rham\nInfo: https://triangleonthecheap.com/centerfest-arts-festival-durha
+ m/\nSource: Triangle on the Cheap
 LOCATION:CCB Plaza\, Durham
 URL:https://triangleonthecheap.com/centerfest-arts-festival-durham/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:86d8d036679144fb3515e72d@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:0ef9b66acb27b77f665c488a@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Hillsborough Hog Day
 DTSTART;TZID=America/New_York:20260919T100000
 DTEND;TZID=America/New_York:20260919T180000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 6:00 pm\nLocation: River Park\, H
- illsborough\nMore info: https://triangleonthecheap.com/hillsborough-hog-d
- ay/\nSource: Triangle on the Cheap (Kids Events)
+ illsborough\nInfo: https://triangleonthecheap.com/hillsborough-hog-day/\n
+ Source: Triangle on the Cheap
 LOCATION:River Park\, Hillsborough
 URL:https://triangleonthecheap.com/hillsborough-hog-day/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e25850ceb26598f58743f745@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:bebccc2f490bcfba4ab39d68@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:NC Museum of Natural Science's BugFest
 DTSTART;TZID=America/New_York:20260919T100000
 DTEND;TZID=America/New_York:20260919T190000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 7:00 pm\nLocation: North Carolina
-  Museum of Natural Sciences\, Raleigh\nMore info: https://triangleonthech
- eap.com/bugfest-nc-museum-natural-sciences/\nSource: Triangle on the Chea
- p (Kids Events)
+  Museum of Natural Sciences\, Raleigh\nInfo: https://triangleonthecheap.c
+ om/bugfest-nc-museum-natural-sciences/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Museum of Natural Sciences\, Raleigh
 URL:https://triangleonthecheap.com/bugfest-nc-museum-natural-sciences/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8ba3127d881fd8d63fcb9f1e@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:abebe2a184f1bc2e9814794b@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Grand Opening Weekend of Juliet Books
 DTSTART;TZID=America/New_York:20260919T100000
 DTEND;TZID=America/New_York:20260919T190000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 7:00 pm\nLocation: Juliet Books\,
-  Cary\nMore info: https://triangleonthecheap.com/juliet-books/\nSource: T
- riangle on the Cheap (Kids Events)
+  Cary\nInfo: https://triangleonthecheap.com/juliet-books/\nSource: Triang
+ le on the Cheap
 LOCATION:Juliet Books\, Cary
 URL:https://triangleonthecheap.com/juliet-books/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:293a881e403d0c36b53015d2@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:9676cd6935c4c3b39b6e2f3a@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Hobbit Fest: Movie marathon and Lord of the Ring activities
 DTSTART;TZID=America/New_York:20260919T100000
 DTEND;TZID=America/New_York:20260919T200000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 8:00 pm\nLocation: Moore Square\,
-  Raleigh\nMore info: https://triangleonthecheap.com/hobbit-fest/\nSource:
-  Triangle on the Cheap (Kids Events)
+  Raleigh\nInfo: https://triangleonthecheap.com/hobbit-fest/\nSource: Tria
+ ngle on the Cheap
 LOCATION:Moore Square\, Raleigh
 URL:https://triangleonthecheap.com/hobbit-fest/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e37cea989af7a5b70e7b29f9@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:0855a4bbcd8d8a3bd65bdc60@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Open Farm at Sunrise Community Farm Center
 DTSTART;TZID=America/New_York:20260919T100000
 DTEND;TZID=America/New_York:20260919T170000
 DESCRIPTION:Cost: $8.00\nTime: 10:00 am to 5:00 pm\nLocation: Sunrise Commu
- nity Farm Center\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /open-farm-sunrise-community-farm-center/\nSource: Triangle on the Cheap 
- (Kids Events)
+ nity Farm Center\, Chapel Hill\nInfo: https://triangleonthecheap.com/open
+ -farm-sunrise-community-farm-center/\nSource: Triangle on the Cheap
 LOCATION:Sunrise Community Farm Center\, Chapel Hill
 URL:https://triangleonthecheap.com/open-farm-sunrise-community-farm-center/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6a1e8f7d925cc5f50469c657@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:77a960c29ece4c5d208e37a8@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Cary Farmers Fall Festival
 DTSTART;TZID=America/New_York:20260919T110000
 DTEND;TZID=America/New_York:20260919T160000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 4:00 pm\nLocation: Downtown Cary 
- Park\nMore info: https://triangleonthecheap.com/cary-downtown-farmers-mar
- ket/\nSource: Triangle on the Cheap (Kids Events)
+ Park\nInfo: https://triangleonthecheap.com/cary-downtown-farmers-market/\
+ nSource: Triangle on the Cheap
 LOCATION:Downtown Cary Park
 URL:https://triangleonthecheap.com/cary-downtown-farmers-market/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ff123a1e0ad180f5a8101065@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:ef51a8bfc5144f510a3045e6@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Festa Italiana in Apex
 DTSTART;TZID=America/New_York:20260919T110000
 DTEND;TZID=America/New_York:20260919T190000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 7:00 pm\nLocation: Apex Town Hall
- \nMore info: https://triangleonthecheap.com/festa-italiana-raleigh/\nSour
- ce: Triangle on the Cheap (Kids Events)
+ \nInfo: https://triangleonthecheap.com/festa-italiana-raleigh/\nSource: T
+ riangle on the Cheap
 LOCATION:Apex Town Hall
 URL:https://triangleonthecheap.com/festa-italiana-raleigh/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:af10fa96aee50abc966344af@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:f29f894287a6600a14ecb53d@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Taste of Lebanon Festival
 DTSTART;TZID=America/New_York:20260919T110000
 DTEND;TZID=America/New_York:20260919T220000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 10:00 pm\nLocation: Saint Sharbel
-  Church\nMore info: https://triangleonthecheap.com/taste-of-lebanon-festi
- val/\nSource: Triangle on the Cheap (Kids Events)
+  Church\nInfo: https://triangleonthecheap.com/taste-of-lebanon-festival/\
+ nSource: Triangle on the Cheap
 LOCATION:Saint Sharbel Church
 URL:https://triangleonthecheap.com/taste-of-lebanon-festival/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f42b604649848dcfc8b3a13d@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:11607a2b72865871ade3984a@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Free Guided Tour of N.C. State Capitol (three start times: 11 a.m.\
  , 1 p.m.\, and 3 p.m.)
 DTSTART;TZID=America/New_York:20260919T110000
 DTEND;TZID=America/New_York:20260919T160000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 4:00 pm\nLocation: North Carolina
-  State Capitol\, Raleigh\nMore info: https://triangleonthecheap.com/tours
- -north-carolina-state-capitol/\nSource: Triangle on the Cheap (Kids Event
- s)
+  State Capitol\, Raleigh\nInfo: https://triangleonthecheap.com/tours-nort
+ h-carolina-state-capitol/\nSource: Triangle on the Cheap
 LOCATION:North Carolina State Capitol\, Raleigh
 URL:https://triangleonthecheap.com/tours-north-carolina-state-capitol/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:50a454f141f8235b60f01141@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:51ad3d675acc3f9f9e924d21@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Come Out and Play sculpture show
 DTSTART;TZID=America/New_York:20260919T120000
 DTEND;TZID=America/New_York:20260919T190000
-DESCRIPTION:Cost: FREE\nTime: 12:00 pm to 7:00 pm\nLocation: JimGin Farm\nM
- ore info: https://triangleonthecheap.com/come-play-sculpture-show/\nSourc
- e: Triangle on the Cheap (Kids Events)
+DESCRIPTION:Cost: FREE\nTime: 12:00 pm to 7:00 pm\nLocation: JimGin Farm\nI
+ nfo: https://triangleonthecheap.com/come-play-sculpture-show/\nSource: Tr
+ iangle on the Cheap
 LOCATION:JimGin Farm
 URL:https://triangleonthecheap.com/come-play-sculpture-show/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c64382cc0dc18d4267fcebf7@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:132671245905ae05aefa9a1d@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Good Neighbor Day in Wake Forest
 DTSTART;TZID=America/New_York:20260919T130000
 DTEND;TZID=America/New_York:20260919T160000
 DESCRIPTION:Cost: FREE\nTime: 1:00 pm to 4:00 pm\nLocation: E. Carroll Joyn
- er Park\, Wake Forest\nMore info: https://triangleonthecheap.com/wake-for
- est-good-neighbor-day/\nSource: Triangle on the Cheap (Kids Events)
+ er Park\, Wake Forest\nInfo: https://triangleonthecheap.com/wake-forest-g
+ ood-neighbor-day/\nSource: Triangle on the Cheap
 LOCATION:E. Carroll Joyner Park\, Wake Forest
 URL:https://triangleonthecheap.com/wake-forest-good-neighbor-day/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:dee5f3aac994568173b33a26@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:40cccdd0bf87e1eb2abbfb37@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Gold and Gem Panning
 DTSTART;TZID=America/New_York:20260919T130000
 DTEND;TZID=America/New_York:20260919T160000
 DESCRIPTION:Cost: $15.00\nTime: 1:00 pm to 4:00 pm\nLocation: Hi-Wire Brewi
- ng at Golden Belt\, Durham\nMore info: https://triangleonthecheap.com/hi-
- wire-brewing-golden-belt/\nSource: Triangle on the Cheap (Kids Events)
+ ng at Golden Belt\, Durham\nInfo: https://triangleonthecheap.com/hi-wire-
+ brewing-golden-belt/\nSource: Triangle on the Cheap
 LOCATION:Hi-Wire Brewing at Golden Belt\, Durham
 URL:https://triangleonthecheap.com/hi-wire-brewing-golden-belt/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6ad675f8f1da955c74286758@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:4a0245eac97b6fd529d2bbc7@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Chapel Hill Soap Box Derby (free to watch)
 DTSTART;TZID=America/New_York:20260919T130000
 DTEND;TZID=America/New_York:20260919T180000
 DESCRIPTION:Cost: FREE\nTime: 1:00 pm to 6:00 pm\nLocation: Homestead Commu
- nity Park\, Chapel Hill\nMore info: https://triangleonthecheap.com/chapel
- -hill-soap-box-derby/\nSource: Triangle on the Cheap (Kids Events)
+ nity Park\, Chapel Hill\nInfo: https://triangleonthecheap.com/chapel-hill
+ -soap-box-derby/\nSource: Triangle on the Cheap
 LOCATION:Homestead Community Park\, Chapel Hill
 URL:https://triangleonthecheap.com/chapel-hill-soap-box-derby/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b4b35578b1c5c877d0687874@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:c8d916e72cc8646aac19351b@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Free fencing class with Research Triangle Fencing
 DTSTART;TZID=America/New_York:20260919T150000
 DTEND;TZID=America/New_York:20260919T163000
 DESCRIPTION:Cost: FREE\nTime: 3:00 pm to 4:30 pm\nLocation: Research Triang
- le Fencing\nMore info: https://triangleonthecheap.com/free-fencing-class-
- durham/\nSource: Triangle on the Cheap (Kids Events)
+ le Fencing\nInfo: https://triangleonthecheap.com/free-fencing-class-durha
+ m/\nSource: Triangle on the Cheap
 LOCATION:Research Triangle Fencing
 URL:https://triangleonthecheap.com/free-fencing-class-durham/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5d131fb540f060946c4ed59d@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:4be95aeac98e50074c523181@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Morrisville International Festival
 DTSTART;TZID=America/New_York:20260919T160000
 DTEND;TZID=America/New_York:20260919T190000
 DESCRIPTION:Cost: FREE\nTime: 4:00 pm to 7:00 pm\nLocation: Indian Creek Pa
- rk in Morrisville\nMore info: https://triangleonthecheap.com/morrisville-
- international-festival/\nSource: Triangle on the Cheap (Kids Events)
+ rk in Morrisville\nInfo: https://triangleonthecheap.com/morrisville-inter
+ national-festival/\nSource: Triangle on the Cheap
 LOCATION:Indian Creek Park in Morrisville
 URL:https://triangleonthecheap.com/morrisville-international-festival/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bf68d7fe5882cb99e7828d82@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:8b5b6c98d2fe51b47ce126e6@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260920T090000
 DTEND;TZID=America/New_York:20260920T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0872d5e8e3d801a3c7b14a9f@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:6e6d751176a74a9c0dd3b65e@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:CenterFest Downtown Durham Arts Festival
 DTSTART;TZID=America/New_York:20260920T110000
 DTEND;TZID=America/New_York:20260920T170000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 5:00 pm\nLocation: CCB Plaza\, Du
- rham\nMore info: https://triangleonthecheap.com/centerfest-arts-festival-
- durham/\nSource: Triangle on the Cheap (Kids Events)
+ rham\nInfo: https://triangleonthecheap.com/centerfest-arts-festival-durha
+ m/\nSource: Triangle on the Cheap
 LOCATION:CCB Plaza\, Durham
 URL:https://triangleonthecheap.com/centerfest-arts-festival-durham/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1580370814ed245ef032489a@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:95131bf912b76b288ab499e9@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Cervantino Bilingual Book Fair
 DTSTART;TZID=America/New_York:20260920T120000
 DTEND;TZID=America/New_York:20260920T153000
 DESCRIPTION:Cost: FREE\nTime: 12:00 pm to 3:30 pm\nLocation: City of Raleig
- h Museum\nMore info: https://triangleonthecheap.com/cervantino-bilingual-
- book-fair/\nSource: Triangle on the Cheap (Kids Events)
+ h Museum\nInfo: https://triangleonthecheap.com/cervantino-bilingual-book-
+ fair/\nSource: Triangle on the Cheap
 LOCATION:City of Raleigh Museum
 URL:https://triangleonthecheap.com/cervantino-bilingual-book-fair/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e1e5c9ecb6a8b35215ff3060@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:12900068081b1adca7a8b9cd@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Taste of Lebanon Festival
 DTSTART;TZID=America/New_York:20260920T120000
 DTEND;TZID=America/New_York:20260920T180000
 DESCRIPTION:Cost: FREE\nTime: 12:00 pm to 6:00 pm\nLocation: Saint Sharbel 
- Church\nMore info: https://triangleonthecheap.com/taste-of-lebanon-festiv
- al/\nSource: Triangle on the Cheap (Kids Events)
+ Church\nInfo: https://triangleonthecheap.com/taste-of-lebanon-festival/\n
+ Source: Triangle on the Cheap
 LOCATION:Saint Sharbel Church
 URL:https://triangleonthecheap.com/taste-of-lebanon-festival/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e222d8bebb81a25aa90b3a8c@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:6d61add1742c6a00f0546732@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Mama Afrika Festival
 DTSTART;TZID=America/New_York:20260920T130000
 DTEND;TZID=America/New_York:20260920T180000
 DESCRIPTION:Cost: FREE\nTime: 1:00 pm to 6:00 pm\nLocation: Southeast Ralei
- gh YMCA\nMore info: https://triangleonthecheap.com/mama-afrika-festival/\
- nSource: Triangle on the Cheap (Kids Events)
+ gh YMCA\nInfo: https://triangleonthecheap.com/mama-afrika-festival/\nSour
+ ce: Triangle on the Cheap
 LOCATION:Southeast Raleigh YMCA
 URL:https://triangleonthecheap.com/mama-afrika-festival/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:89bd2053203d3b1365a7c623@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:d7571cb3dcda90913190fe15@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Instrument Petting Zoo
 DTSTART;TZID=America/New_York:20260920T140000
 DTEND;TZID=America/New_York:20260920T160000
 DESCRIPTION:Cost: FREE\nTime: 2:00 pm to 4:00 pm\nLocation: Gipson Play Pla
- za\, Dix Park\, Raleigh\nMore info: https://triangleonthecheap.com/instru
- ment-petting-zoo-dix-park/\nSource: Triangle on the Cheap (Kids Events)
+ za\, Dix Park\, Raleigh\nInfo: https://triangleonthecheap.com/instrument-
+ petting-zoo-dix-park/\nSource: Triangle on the Cheap
 LOCATION:Gipson Play Plaza\, Dix Park\, Raleigh
 URL:https://triangleonthecheap.com/instrument-petting-zoo-dix-park/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bf466762a61377bfe2120cc6@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:1c95306e12b55f23842d9971@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Black August Book Drive's Really Free Book Fair
 DTSTART;TZID=America/New_York:20260920T140000
 DTEND;TZID=America/New_York:20260920T180000
 DESCRIPTION:Cost: FREE\nTime: 2:00 pm to 6:00 pm\nLocation: Moore Square\, 
- Raleigh\nMore info: https://triangleonthecheap.com/black-august-book-driv
- e/\nSource: Triangle on the Cheap (Kids Events)
+ Raleigh\nInfo: https://triangleonthecheap.com/black-august-book-drive/\nS
+ ource: Triangle on the Cheap
 LOCATION:Moore Square\, Raleigh
 URL:https://triangleonthecheap.com/black-august-book-drive/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:16a3d2fb509b5ba070c13210@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:2e9f12e5e7972094439b5da6@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Family Day
 DTSTART;TZID=America/New_York:20260920T140000
 DTEND;TZID=America/New_York:20260920T200000
 DESCRIPTION:Cost: FREE\nTime: 2:00 pm to 8:00 pm\nLocation: Clouds Brewing 
- Taproom\, Raleigh\nMore info: https://triangleonthecheap.com/clouds-brewi
- ng/\nSource: Triangle on the Cheap (Kids Events)
+ Taproom\, Raleigh\nInfo: https://triangleonthecheap.com/clouds-brewing/\n
+ Source: Triangle on the Cheap
 LOCATION:Clouds Brewing Taproom\, Raleigh
 URL:https://triangleonthecheap.com/clouds-brewing/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:06a3e1c84ad0e3accae16bd8@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:a55675d5201cc41f3007acda@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:3rd Annual "Love Your Falls Lake" Special Event
 DTSTART;TZID=America/New_York:20260921T100000
 DTEND;TZID=America/New_York:20260921T140000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 2:00 pm\nLocation: Falls Lake Dam
- \, Wake Forest\nMore info: https://triangleonthecheap.com/love-your-falls
- -lake/\nSource: Triangle on the Cheap (Kids Events)
+ \, Wake Forest\nInfo: https://triangleonthecheap.com/love-your-falls-lake
+ /\nSource: Triangle on the Cheap
 LOCATION:Falls Lake Dam\, Wake Forest
 URL:https://triangleonthecheap.com/love-your-falls-lake/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:56a3863d24faa9f5652724d1@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:9c86854f7e20a7670a9ab760@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Total Tot Time: free play program for kids up to age 5
 DTSTART;TZID=America/New_York:20260921T100000
 DTEND;TZID=America/New_York:20260921T120000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 12:00 pm\nLocation: W.D. Hill Rec
- reation Center\, Durham\nMore info: https://triangleonthecheap.com/total-
- tot-time/\nSource: Triangle on the Cheap (Kids Events)
+ reation Center\, Durham\nInfo: https://triangleonthecheap.com/total-tot-t
+ ime/\nSource: Triangle on the Cheap
 LOCATION:W.D. Hill Recreation Center\, Durham
 URL:https://triangleonthecheap.com/total-tot-time/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5e4d9f05d60d015b00ed4846@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:4558baf7da99b4834158c7b7@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260922T090000
 DTEND;TZID=America/New_York:20260922T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fe6e5c425f5c81ba1c3875af@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:22404659903a015c86d5fb7d@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:North Hills Kids: Autumn Adventures
 DTSTART;TZID=America/New_York:20260922T093000
 DTEND;TZID=America/New_York:20260922T110000
 DESCRIPTION:Cost: FREE\nTime: 9:30 am to 11:00 am\nLocation: The Commons at
-  North Hills\, Raleigh\nMore info: https://triangleonthecheap.com/north-h
- ills-kids/\nSource: Triangle on the Cheap (Kids Events)
+  North Hills\, Raleigh\nInfo: https://triangleonthecheap.com/north-hills-
+ kids/\nSource: Triangle on the Cheap
 LOCATION:The Commons at North Hills\, Raleigh
 URL:https://triangleonthecheap.com/north-hills-kids/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:830d21a93f64f82bd1eb9718@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:1f43b03552211f6ca8143009@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Durham Community Day at Museum of Life + Science: free admission fo
  r Durham County residents
 DTSTART;TZID=America/New_York:20260922T100000
 DTEND;TZID=America/New_York:20260922T170000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 5:00 pm\nLocation: Museum of Life
- +Science\, Durham\nMore info: https://triangleonthecheap.com/museum-life-
- science/\nSource: Triangle on the Cheap (Kids Events)
+ +Science\, Durham\nInfo: https://triangleonthecheap.com/museum-life-scien
+ ce/\nSource: Triangle on the Cheap
 LOCATION:Museum of Life+Science\, Durham
 URL:https://triangleonthecheap.com/museum-life-science/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3d05593f80b8ac971cbc6883@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:3d5297b52ef7e1c01960bd75@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Swift Night Out on Rooftop of The Durham Hotel
 DTSTART;TZID=America/New_York:20260922T183000
 DTEND;TZID=America/New_York:20260922T210000
 DESCRIPTION:Cost: FREE\nTime: 6:30 pm to 9:00 pm\nLocation: The Durham Hote
- l\nMore info: https://triangleonthecheap.com/swift-night-rooftop-durham-h
- otel/\nSource: Triangle on the Cheap (Kids Events)
+ l\nInfo: https://triangleonthecheap.com/swift-night-rooftop-durham-hotel/
+ \nSource: Triangle on the Cheap
 LOCATION:The Durham Hotel
 URL:https://triangleonthecheap.com/swift-night-rooftop-durham-hotel/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:aa55dcd7697b8da19f15fd81@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:ec2cdc9653749bf794c8d9c5@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260923T090000
 DTEND;TZID=America/New_York:20260923T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1e2f5dcc39edebc0db04823a@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:507346dee98c0d2b51216f09@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Total Tot Time: free play program for kids up to age 5
 DTSTART;TZID=America/New_York:20260923T100000
 DTEND;TZID=America/New_York:20260923T120000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 12:00 pm\nLocation: W.D. Hill Rec
- reation Center\, Durham\nMore info: https://triangleonthecheap.com/total-
- tot-time/\nSource: Triangle on the Cheap (Kids Events)
+ reation Center\, Durham\nInfo: https://triangleonthecheap.com/total-tot-t
+ ime/\nSource: Triangle on the Cheap
 LOCATION:W.D. Hill Recreation Center\, Durham
 URL:https://triangleonthecheap.com/total-tot-time/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:706a342f900bea41cef4d394@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:0d6950230d9cae67c8e97498@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Market Bunch Kids' Activities
 DTSTART;TZID=America/New_York:20260923T150000
 DTEND;TZID=America/New_York:20260923T180000
 DESCRIPTION:Cost: FREE\nTime: 3:00 pm to 6:00 pm\nLocation: Carrboro Farmer
- s’ Market\nMore info: https://triangleonthecheap.com/carrboro-farmers-m
- arket/\nSource: Triangle on the Cheap (Kids Events)
+ s’ Market\nInfo: https://triangleonthecheap.com/carrboro-farmers-market
+ /\nSource: Triangle on the Cheap
 LOCATION:Carrboro Farmers’ Market
 URL:https://triangleonthecheap.com/carrboro-farmers-market/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d5eaf1e6fa3ddaecbf9b2a1e@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:e8be2e968bc770eac4d219ab@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Math Makers: Free playful math exploration
 DTSTART;TZID=America/New_York:20260923T160000
 DTEND;TZID=America/New_York:20260923T180000
 DESCRIPTION:Cost: FREE\nTime: 4:00 pm to 6:00 pm\nLocation: Gipson Play Pla
- za\, Dix Park\, Raleigh\nMore info: https://triangleonthecheap.com/math-m
- akers/\nSource: Triangle on the Cheap (Kids Events)
+ za\, Dix Park\, Raleigh\nInfo: https://triangleonthecheap.com/math-makers
+ /\nSource: Triangle on the Cheap
 LOCATION:Gipson Play Plaza\, Dix Park\, Raleigh
 URL:https://triangleonthecheap.com/math-makers/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:995c9bb4f85ae187e418ce96@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:afa896b2cbdb40edb8a49920@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Free Sensory Friendly Playtime and Movie at Marbles Kids Museum
 DTSTART;TZID=America/New_York:20260923T170000
 DTEND;TZID=America/New_York:20260923T193000
 DESCRIPTION:Cost: FREE\nTime: 5:00 pm to 7:30 pm\nLocation: Marbles Kids Mu
- seum\, Raleigh\nMore info: https://triangleonthecheap.com/family-night-ma
- rbles-kids-museum/\nSource: Triangle on the Cheap (Kids Events)
+ seum\, Raleigh\nInfo: https://triangleonthecheap.com/family-night-marbles
+ -kids-museum/\nSource: Triangle on the Cheap
 LOCATION:Marbles Kids Museum\, Raleigh
 URL:https://triangleonthecheap.com/family-night-marbles-kids-museum/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2fa000cfd3bbdd13076135b5@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:26f22e398f99bb034936f17e@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sunset Music Series at Waverly Place: North Tower
 DTSTART;TZID=America/New_York:20260923T173000
 DTEND;TZID=America/New_York:20260923T203000
 DESCRIPTION:Cost: FREE\nTime: 5:30 pm to 8:30 pm\nLocation: Waverly Place\,
-  Cary\nMore info: https://triangleonthecheap.com/waverly-place-summer-mus
- ic/\nSource: Triangle on the Cheap (Kids Events)
+  Cary\nInfo: https://triangleonthecheap.com/waverly-place-summer-music/\n
+ Source: Triangle on the Cheap
 LOCATION:Waverly Place\, Cary
 URL:https://triangleonthecheap.com/waverly-place-summer-music/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:63338c47ca1192f653ab86eb@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:cef0c04ee4a6828c4f45debb@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Raleigh Drum Circle and Hoop Jam
 DTSTART;TZID=America/New_York:20260923T190000
 DTEND;TZID=America/New_York:20260923T203000
 DESCRIPTION:Cost: FREE\nTime: 7:00 pm to 8:30 pm\nLocation: Pullen Park\, R
- aleigh\nMore info: https://triangleonthecheap.com/raleigh-drum-circle-hoo
- p-jam/\nSource: Triangle on the Cheap (Kids Events)
+ aleigh\nInfo: https://triangleonthecheap.com/raleigh-drum-circle-hoop-jam
+ /\nSource: Triangle on the Cheap
 LOCATION:Pullen Park\, Raleigh
 URL:https://triangleonthecheap.com/raleigh-drum-circle-hoop-jam/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:78bb41f420ca4bda642bcaae@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:56856b7753498fae79686795@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Movie Night Under the Stars: Monsters Inc
 DTSTART;TZID=America/New_York:20260923T193000
 DTEND;TZID=America/New_York:20260923T213000
 DESCRIPTION:Cost: FREE\nTime: 7:30 pm to 9:30 pm\nLocation: Sertoma Amphith
- eatre at Bond Park\, Cary\nMore info: https://triangleonthecheap.com/movi
- e-night-sertoma/\nSource: Triangle on the Cheap (Kids Events)
+ eatre at Bond Park\, Cary\nInfo: https://triangleonthecheap.com/movie-nig
+ ht-sertoma/\nSource: Triangle on the Cheap
 LOCATION:Sertoma Amphitheatre at Bond Park\, Cary
 URL:https://triangleonthecheap.com/movie-night-sertoma/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f5e4454b0c0161bb0b0dff2c@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:c351f671e619ef8d9f63fe6a@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260924T090000
 DTEND;TZID=America/New_York:20260924T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a34a6d6e7a7461db37b0cf10@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:5c6e148bfe9d760b1580f06d@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Benson Mule Days
 DTSTART;TZID=America/New_York:20260924T150000
 DTEND;TZID=America/New_York:20260924T230000
 DESCRIPTION:Cost: FREE\nTime: 3:00 pm to 11:00 pm\nLocation: Downtown Benso
- n\nMore info: https://triangleonthecheap.com/benson-mule-days/\nSource: T
- riangle on the Cheap (Kids Events)
+ n\nInfo: https://triangleonthecheap.com/benson-mule-days/\nSource: Triang
+ le on the Cheap
 LOCATION:Downtown Benson
 URL:https://triangleonthecheap.com/benson-mule-days/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:dbaa85a71dc4a026ef723d65@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:0bb5012e182759b6ea0f4ebb@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Benson Mule Days
 DTSTART;TZID=America/New_York:20260925T090000
 DTEND;TZID=America/New_York:20260925T230000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 11:00 pm\nLocation: Downtown Benso
- n\nMore info: https://triangleonthecheap.com/benson-mule-days/\nSource: T
- riangle on the Cheap (Kids Events)
+ n\nInfo: https://triangleonthecheap.com/benson-mule-days/\nSource: Triang
+ le on the Cheap
 LOCATION:Downtown Benson
 URL:https://triangleonthecheap.com/benson-mule-days/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:46aca9cebcdd7df28f413f30@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:e0754fbf0d5b863c7e680842@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260925T090000
 DTEND;TZID=America/New_York:20260925T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e82705c32910c53281a53616@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:35c93308810e7b6882ed8201@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Garden Storytime
 DTSTART;TZID=America/New_York:20260925T100000
 DTEND;TZID=America/New_York:20260925T110000
 DESCRIPTION:Cost: $5.00\nTime: 10:00 am to 11:00 am\nLocation: JC Raulston 
- Arboretum\nMore info: https://triangleonthecheap.com/jc-raulston-arboretu
- m/\nSource: Triangle on the Cheap (Kids Events)
+ Arboretum\nInfo: https://triangleonthecheap.com/jc-raulston-arboretum/\nS
+ ource: Triangle on the Cheap
 LOCATION:JC Raulston Arboretum
 URL:https://triangleonthecheap.com/jc-raulston-arboretum/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:74f1d3f2a03d1738c4d7f216@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:414b3721f0764a37fe28e794@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Last Fridays Makers Market
 DTSTART;TZID=America/New_York:20260925T173000
 DTEND;TZID=America/New_York:20260925T203000
 DESCRIPTION:Cost: FREE\nTime: 5:30 pm to 8:30 pm\nLocation: Old Courthouse
- Hillsborough\nMore info: https://triangleonthecheap.com/hillsborough-la
- st-fridays-art-walk/\nSource: Triangle on the Cheap (Kids Events)
+ Hillsborough\nInfo: https://triangleonthecheap.com/hillsborough-last-fr
+ idays-art-walk/\nSource: Triangle on the Cheap
 LOCATION:Old Courthouse–Hillsborough
 URL:https://triangleonthecheap.com/hillsborough-last-fridays-art-walk/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:89a4357b4517b16a7e80bd13@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:5945c0364069593599738a5a@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Last Fridays Art Walk in Hillsborough
 DTSTART;TZID=America/New_York:20260925T173000
 DTEND;TZID=America/New_York:20260925T210000
 DESCRIPTION:Cost: FREE\nTime: 5:30 pm to 9:00 pm\nLocation: Downtown Hillsb
- orough\nMore info: https://triangleonthecheap.com/hillsborough-last-frida
- ys-art-walk/\nSource: Triangle on the Cheap (Kids Events)
+ orough\nInfo: https://triangleonthecheap.com/hillsborough-last-fridays-ar
+ t-walk/\nSource: Triangle on the Cheap
 LOCATION:Downtown Hillsborough
 URL:https://triangleonthecheap.com/hillsborough-last-fridays-art-walk/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:75e371f04fb9f61f5ede8ff3@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:c3176201afac38324501f8c4@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Front Porch Friday at Haven Farm
 DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T220000
 DESCRIPTION:Cost: FREE\nTime: 6:00 pm to 10:00 pm\nLocation: Haven Farm\, K
- nightdale\nMore info: https://triangleonthecheap.com/front-porch-fridays-
- haven-farm/\nSource: Triangle on the Cheap (Kids Events)
+ nightdale\nInfo: https://triangleonthecheap.com/front-porch-fridays-haven
+ -farm/\nSource: Triangle on the Cheap
 LOCATION:Haven Farm\, Knightdale
 URL:https://triangleonthecheap.com/front-porch-fridays-haven-farm/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3c0656785583d8116de03d62@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:00c10fd4f8e919e761c0d29e@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Movie on the Lawn at Halifax Park: Toy Story 5
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T210000
 DESCRIPTION:Cost: FREE\nTime: 6:30 pm to 9:00 pm\nLocation: Halifax Park an
- d Community Center\, Raleigh\nMore info: https://triangleonthecheap.com/o
- utdoor-movie-halifax-park/\nSource: Triangle on the Cheap (Kids Events)
+ d Community Center\, Raleigh\nInfo: https://triangleonthecheap.com/outdoo
+ r-movie-halifax-park/\nSource: Triangle on the Cheap
 LOCATION:Halifax Park and Community Center\, Raleigh
 URL:https://triangleonthecheap.com/outdoor-movie-halifax-park/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:70e7a2fdf7272a30cb0d3226@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:004ded4feb169c4f2a440875@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Movies Under the Stars in Chapel Hill: A Nightmare Before Christmas
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T213000
 DESCRIPTION:Cost: FREE\nTime: 6:30 pm to 9:30 pm\nLocation: Hargraves Commu
- nity Center\, Chapel Hill\nMore info: https://triangleonthecheap.com/movi
- es-under-stars-chapel-hill/\nSource: Triangle on the Cheap (Kids Events)
+ nity Center\, Chapel Hill\nInfo: https://triangleonthecheap.com/movies-un
+ der-stars-chapel-hill/\nSource: Triangle on the Cheap
 LOCATION:Hargraves Community Center\, Chapel Hill
 URL:https://triangleonthecheap.com/movies-under-stars-chapel-hill/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f9a4343eb9841266ccf4ad48@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:1e7a5e3042e825c966f2e544@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Hillsborough Street Makers & Music Series: Relay Relay
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T213000
 DESCRIPTION:Cost: FREE\nTime: 6:30 pm to 9:30 pm\nLocation: Compiègne Park
- \, Raleigh\nMore info: https://triangleonthecheap.com/hillsborough-street
- -makers-music-series/\nSource: Triangle on the Cheap (Kids Events)
+ \, Raleigh\nInfo: https://triangleonthecheap.com/hillsborough-street-make
+ rs-music-series/\nSource: Triangle on the Cheap
 LOCATION:Compiègne Park\, Raleigh
 URL:https://triangleonthecheap.com/hillsborough-street-makers-music-series/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9624b65f0d72a2725fd10630@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:493fd188f91c6bf185c07943@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260926T090000
 DTEND;TZID=America/New_York:20260926T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:292da840560ac358c6c9fc74@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:221b582644d14dee28bcf09a@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Benson Mule Days
 DTSTART;TZID=America/New_York:20260926T090000
 DTEND;TZID=America/New_York:20260926T230000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 11:00 pm\nLocation: Downtown Benso
- n\nMore info: https://triangleonthecheap.com/benson-mule-days/\nSource: T
- riangle on the Cheap (Kids Events)
+ n\nInfo: https://triangleonthecheap.com/benson-mule-days/\nSource: Triang
+ le on the Cheap
 LOCATION:Downtown Benson
 URL:https://triangleonthecheap.com/benson-mule-days/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bca56005aa834712d332be95@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:45475183996ddb65673d9944@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Open Farm at Sunrise Community Farm Center
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T170000
 DESCRIPTION:Cost: $8.00\nTime: 10:00 am to 5:00 pm\nLocation: Sunrise Commu
- nity Farm Center\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /open-farm-sunrise-community-farm-center/\nSource: Triangle on the Cheap 
- (Kids Events)
+ nity Farm Center\, Chapel Hill\nInfo: https://triangleonthecheap.com/open
+ -farm-sunrise-community-farm-center/\nSource: Triangle on the Cheap
 LOCATION:Sunrise Community Farm Center\, Chapel Hill
 URL:https://triangleonthecheap.com/open-farm-sunrise-community-farm-center/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a0a2fa3fff0e2756ff1c07dd@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:58c908a9c71849e05256a328@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:AppleFest at Weaver Street Market
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T130000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 1:00 pm\nLocation: Weaver Street 
- Market Carrboro\nMore info: https://triangleonthecheap.com/applefest-weav
- er-street-market/\nSource: Triangle on the Cheap (Kids Events)
+ Market Carrboro\nInfo: https://triangleonthecheap.com/applefest-weaver-st
+ reet-market/\nSource: Triangle on the Cheap
 LOCATION:Weaver Street Market Carrboro
 URL:https://triangleonthecheap.com/applefest-weaver-street-market/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c1a74b1e2c9dcd4860e2c50d@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:16e24291de941cdeddbbe22b@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Raleigh Tamale Festival
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T140000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 2:00 pm\nLocation: Moore Square\,
-  Raleigh\nMore info: https://triangleonthecheap.com/raleigh-tamale-festiv
- al/\nSource: Triangle on the Cheap (Kids Events)
+  Raleigh\nInfo: https://triangleonthecheap.com/raleigh-tamale-festival/\n
+ Source: Triangle on the Cheap
 LOCATION:Moore Square\, Raleigh
 URL:https://triangleonthecheap.com/raleigh-tamale-festival/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:051d801943f4ec8e9ffc4dbc@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:ccfb13ae27f0dff48c1cef4e@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Crooktober Family Fest
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T160000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 4:00 pm\nLocation: Crooked Hammoc
- k Brewery\, Raleigh\nMore info: https://triangleonthecheap.com/crooked-ha
- mmock-brewery/\nSource: Triangle on the Cheap (Kids Events)
+ k Brewery\, Raleigh\nInfo: https://triangleonthecheap.com/crooked-hammock
+ -brewery/\nSource: Triangle on the Cheap
 LOCATION:Crooked Hammock Brewery\, Raleigh
 URL:https://triangleonthecheap.com/crooked-hammock-brewery/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e864d858055cd79b74712040@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:67f44dd7f361c2b3c3433a57@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:St. Eugene International Food & Music Festival
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T170000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 5:00 pm\nLocation: J. Ashley Wall
-  Towne Square\, Wendell\nMore info: https://triangleonthecheap.com/st-eug
- ene-international-food-music-festival/\nSource: Triangle on the Cheap (Ki
- ds Events)
+  Towne Square\, Wendell\nInfo: https://triangleonthecheap.com/st-eugene-i
+ nternational-food-music-festival/\nSource: Triangle on the Cheap
 LOCATION:J. Ashley Wall Towne Square\, Wendell
 URL:https://triangleonthecheap.com/st-eugene-international-food-music-festi
  val/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:81112f1993c8b9e004b1777e@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:49d192ab492cf5a2dab38fa2@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sensory-Friendly Film Series: Kung Fu Panda
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T120000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am\nLocation: The Carolina Theatre\, Du
- rham\nMore info: https://triangleonthecheap.com/carolina-theatre-durham-s
- ensory-friendly-film-series/\nSource: Triangle on the Cheap (Kids Events)
+ rham\nInfo: https://triangleonthecheap.com/carolina-theatre-durham-sensor
+ y-friendly-film-series/\nSource: Triangle on the Cheap
 LOCATION:The Carolina Theatre\, Durham
 URL:https://triangleonthecheap.com/carolina-theatre-durham-sensory-friendly
  -film-series/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f99fda06f8b9764cb24f5f4c@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:469256dace20cacbc6d85751@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Free Guided Tour of N.C. State Capitol (three start times: 11 a.m.\
  , 1 p.m.\, and 3 p.m.)
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T160000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 4:00 pm\nLocation: North Carolina
-  State Capitol\, Raleigh\nMore info: https://triangleonthecheap.com/tours
- -north-carolina-state-capitol/\nSource: Triangle on the Cheap (Kids Event
- s)
+  State Capitol\, Raleigh\nInfo: https://triangleonthecheap.com/tours-nort
+ h-carolina-state-capitol/\nSource: Triangle on the Cheap
 LOCATION:North Carolina State Capitol\, Raleigh
 URL:https://triangleonthecheap.com/tours-north-carolina-state-capitol/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5315aa7840cbddfc3ec55253@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:92af2db023beaa2cd50729bd@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Mead Fest at Starrlight Mead: Like a Free mini-Renaissance Festival
 DTSTART;TZID=America/New_York:20260926T120000
 DTEND;TZID=America/New_York:20260926T170000
 DESCRIPTION:Cost: FREE\nTime: 12:00 pm to 5:00 pm\nLocation: Starrlight Mea
- d\, Pittsboro\nMore info: https://triangleonthecheap.com/mead-fest-starrl
- ight-mead/\nSource: Triangle on the Cheap (Kids Events)
+ d\, Pittsboro\nInfo: https://triangleonthecheap.com/mead-fest-starrlight-
+ mead/\nSource: Triangle on the Cheap
 LOCATION:Starrlight Mead\, Pittsboro
 URL:https://triangleonthecheap.com/mead-fest-starrlight-mead/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0d7bf63ca1570338dce8cdc6@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:9c7217a4ec4df4172808f345@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Come Out and Play sculpture show
 DTSTART;TZID=America/New_York:20260926T120000
 DTEND;TZID=America/New_York:20260926T190000
-DESCRIPTION:Cost: FREE\nTime: 12:00 pm to 7:00 pm\nLocation: JimGin Farm\nM
- ore info: https://triangleonthecheap.com/come-play-sculpture-show/\nSourc
- e: Triangle on the Cheap (Kids Events)
+DESCRIPTION:Cost: FREE\nTime: 12:00 pm to 7:00 pm\nLocation: JimGin Farm\nI
+ nfo: https://triangleonthecheap.com/come-play-sculpture-show/\nSource: Tr
+ iangle on the Cheap
 LOCATION:JimGin Farm
 URL:https://triangleonthecheap.com/come-play-sculpture-show/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0bc00b7f87090d372793abbd@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:d6d7e24ff3c8fbd53c379093@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Free pumpkin painting (with purchase of pumpkin)
 DTSTART;TZID=America/New_York:20260926T130000
 DTEND;TZID=America/New_York:20260926T160000
 DESCRIPTION:Time: 1:00 pm to 4:00 pm\nLocation: For Garden’s Sake\, Durha
- m\nMore info: https://triangleonthecheap.com/for-gardens-sake-garden/\nSo
- urce: Triangle on the Cheap (Kids Events)
+ m\nInfo: https://triangleonthecheap.com/for-gardens-sake-garden/\nSource:
+  Triangle on the Cheap
 LOCATION:For Garden’s Sake\, Durham
 URL:https://triangleonthecheap.com/for-gardens-sake-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f1b76059698e1c3c0944115b@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:9a0da0e2b15c74611ca35598@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Free open house at Duke Lemur Center Museum of Natural History
 DTSTART;TZID=America/New_York:20260926T130000
 DTEND;TZID=America/New_York:20260926T160000
 DESCRIPTION:Cost: FREE\nTime: 1:00 pm to 4:00 pm\nLocation: Duke Lemur Cent
- er\, Museum of Natural History\, Durham\nMore info: https://triangleonthe
- cheap.com/duke-lemur-center-museum-natural-history/\nSource: Triangle on 
- the Cheap (Kids Events)
+ er\, Museum of Natural History\, Durham\nInfo: https://triangleonthecheap
+ .com/duke-lemur-center-museum-natural-history/\nSource: Triangle on the C
+ heap
 LOCATION:Duke Lemur Center\, Museum of Natural History\, Durham
 URL:https://triangleonthecheap.com/duke-lemur-center-museum-natural-history
  /
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b1facf4a8a749a9031f40ba0@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:5d1cc735a77a2353eeb04baf@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Apex Latino Arts Festival
 DTSTART;TZID=America/New_York:20260926T150000
 DTEND;TZID=America/New_York:20260926T190000
 DESCRIPTION:Cost: FREE\nTime: 3:00 pm to 7:00 pm\nLocation: Apex Town Hall\
- nMore info: https://triangleonthecheap.com/apex-latino-arts-festival/\nSo
- urce: Triangle on the Cheap (Kids Events)
+ nInfo: https://triangleonthecheap.com/apex-latino-arts-festival/\nSource:
+  Triangle on the Cheap
 LOCATION:Apex Town Hall
 URL:https://triangleonthecheap.com/apex-latino-arts-festival/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9e0cd4fb4080d4ea6371b597@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:12a2a15e7a814f0bd1f914d5@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:The Common Market Durham's 3rd Anniversary Party
 DTSTART;TZID=America/New_York:20260926T150000
 DTEND;TZID=America/New_York:20260926T200000
 DESCRIPTION:Cost: FREE\nTime: 3:00 pm to 8:00 pm\nLocation: The Common Mark
- et\, Durham\nMore info: https://triangleonthecheap.com/common-market-durh
- am-anniversary/\nSource: Triangle on the Cheap (Kids Events)
+ et\, Durham\nInfo: https://triangleonthecheap.com/common-market-durham-an
+ niversary/\nSource: Triangle on the Cheap
 LOCATION:The Common Market\, Durham
 URL:https://triangleonthecheap.com/common-market-durham-anniversary/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:dfc555e5b92ca75048ade94d@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:946f29b0ab85f0bfe533e520@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Durham Oktoberfest at Durham Central Park\, presented by The Glass 
  Jug Beer Lab
 DTSTART;TZID=America/New_York:20260926T150000
 DTEND;TZID=America/New_York:20260926T220000
 DESCRIPTION:Cost: FREE\nTime: 3:00 pm to 10:00 pm\nLocation: Durham Central
-  Park\nMore info: https://triangleonthecheap.com/durham-oktoberfest-durha
- m-central-park/\nSource: Triangle on the Cheap (Kids Events)
+  Park\nInfo: https://triangleonthecheap.com/durham-oktoberfest-durham-cen
+ tral-park/\nSource: Triangle on the Cheap
 LOCATION:Durham Central Park
 URL:https://triangleonthecheap.com/durham-oktoberfest-durham-central-park/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1ddd98703cdd7d449d1e6b3e@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:05010aa46f6a552fab361b36@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Cars and Coffee Raleigh
 DTSTART;TZID=America/New_York:20260927T080000
 DTEND;TZID=America/New_York:20260927T110000
 DESCRIPTION:Cost: FREE\nTime: 8:00 am to 11:00 am\nLocation: 6270 Glenwood 
- Avenue\, Raleigh\nMore info: https://triangleonthecheap.com/cars-and-coff
- ee-raleigh/\nSource: Triangle on the Cheap (Kids Events)
+ Avenue\, Raleigh\nInfo: https://triangleonthecheap.com/cars-and-coffee-ra
+ leigh/\nSource: Triangle on the Cheap
 LOCATION:6270 Glenwood Avenue\, Raleigh
 URL:https://triangleonthecheap.com/cars-and-coffee-raleigh/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:86457d7cfe6df363a7a7f79d@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:d98d348ce424e45727287c28@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260927T090000
 DTEND;TZID=America/New_York:20260927T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0317969071b409fba76661eb@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:a4cb2e9bdef4488bb77c8127@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Benson Mule Days
 DTSTART;TZID=America/New_York:20260927T120000
 DTEND;TZID=America/New_York:20260927T170000
 DESCRIPTION:Cost: FREE\nTime: 12:00 pm to 5:00 pm\nLocation: Downtown Benso
- n\nMore info: https://triangleonthecheap.com/benson-mule-days/\nSource: T
- riangle on the Cheap (Kids Events)
+ n\nInfo: https://triangleonthecheap.com/benson-mule-days/\nSource: Triang
+ le on the Cheap
 LOCATION:Downtown Benson
 URL:https://triangleonthecheap.com/benson-mule-days/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2f6e8b3b8afabce2df656f49@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:62d4edc7f9799b6c2a650d5c@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Free pumpkin painting (with purchase of pumpkin)
 DTSTART;TZID=America/New_York:20260927T130000
 DTEND;TZID=America/New_York:20260927T160000
 DESCRIPTION:Time: 1:00 pm to 4:00 pm\nLocation: For Garden’s Sake\, Durha
- m\nMore info: https://triangleonthecheap.com/for-gardens-sake-garden/\nSo
- urce: Triangle on the Cheap (Kids Events)
+ m\nInfo: https://triangleonthecheap.com/for-gardens-sake-garden/\nSource:
+  Triangle on the Cheap
 LOCATION:For Garden’s Sake\, Durham
 URL:https://triangleonthecheap.com/for-gardens-sake-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:05cd9dc4630a0fabad52c7b1@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:8fb14306b574fbb5a0625d81@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Kermes\, Community Fiesta
 DTSTART;TZID=America/New_York:20260927T150000
 DTEND;TZID=America/New_York:20260927T190000
 DESCRIPTION:Cost: FREE\nTime: 3:00 pm to 7:00 pm\nLocation: El Futuro\, Dur
- ham\nMore info: https://triangleonthecheap.com/el-futuro-hispanic-heritag
- e/\nSource: Triangle on the Cheap (Kids Events)
+ ham\nInfo: https://triangleonthecheap.com/el-futuro-hispanic-heritage/\nS
+ ource: Triangle on the Cheap
 LOCATION:El Futuro\, Durham
 URL:https://triangleonthecheap.com/el-futuro-hispanic-heritage/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b88e43f4f6f9985782a4e9c0@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:419ccec7f84f0762abf16d61@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Total Tot Time: free play program for kids up to age 5
 DTSTART;TZID=America/New_York:20260928T100000
 DTEND;TZID=America/New_York:20260928T120000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 12:00 pm\nLocation: W.D. Hill Rec
- reation Center\, Durham\nMore info: https://triangleonthecheap.com/total-
- tot-time/\nSource: Triangle on the Cheap (Kids Events)
+ reation Center\, Durham\nInfo: https://triangleonthecheap.com/total-tot-t
+ ime/\nSource: Triangle on the Cheap
 LOCATION:W.D. Hill Recreation Center\, Durham
 URL:https://triangleonthecheap.com/total-tot-time/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2bc413fc14e9dc35127a9a35@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:9997c9d021fc57c704f0fa80@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260929T090000
 DTEND;TZID=America/New_York:20260929T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6ce611dc9cce77c46917a30e@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:a1f2239066bb721438632a6c@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:North Hills Kids: Fall\, Fun & Fitness
 DTSTART;TZID=America/New_York:20260929T093000
 DTEND;TZID=America/New_York:20260929T110000
 DESCRIPTION:Cost: FREE\nTime: 9:30 am to 11:00 am\nLocation: The Commons at
-  North Hills\, Raleigh\nMore info: https://triangleonthecheap.com/north-h
- ills-kids/\nSource: Triangle on the Cheap (Kids Events)
+  North Hills\, Raleigh\nInfo: https://triangleonthecheap.com/north-hills-
+ kids/\nSource: Triangle on the Cheap
 LOCATION:The Commons at North Hills\, Raleigh
 URL:https://triangleonthecheap.com/north-hills-kids/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a0a584507a2ad0ed09fc5868@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:3da2d44ec4910ff6baba818b@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260930T090000
 DTEND;TZID=America/New_York:20260930T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b7193e10c7c9d3114b0fb0b3@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:f8bf30f290126b24c1ae52ea@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Total Tot Time: free play program for kids up to age 5
 DTSTART;TZID=America/New_York:20260930T100000
 DTEND;TZID=America/New_York:20260930T120000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 12:00 pm\nLocation: W.D. Hill Rec
- reation Center\, Durham\nMore info: https://triangleonthecheap.com/total-
- tot-time/\nSource: Triangle on the Cheap (Kids Events)
+ reation Center\, Durham\nInfo: https://triangleonthecheap.com/total-tot-t
+ ime/\nSource: Triangle on the Cheap
 LOCATION:W.D. Hill Recreation Center\, Durham
 URL:https://triangleonthecheap.com/total-tot-time/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ae6632d4e832837f1286cdec@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:8729c70db8c0d3b72714e96e@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Market Bunch Kids' Activities
 DTSTART;TZID=America/New_York:20260930T150000
 DTEND;TZID=America/New_York:20260930T180000
 DESCRIPTION:Cost: FREE\nTime: 3:00 pm to 6:00 pm\nLocation: Carrboro Farmer
- s’ Market\nMore info: https://triangleonthecheap.com/carrboro-farmers-m
- arket/\nSource: Triangle on the Cheap (Kids Events)
+ s’ Market\nInfo: https://triangleonthecheap.com/carrboro-farmers-market
+ /\nSource: Triangle on the Cheap
 LOCATION:Carrboro Farmers’ Market
 URL:https://triangleonthecheap.com/carrboro-farmers-market/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:17c6c0f922d99125501ced24@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:12722b3b975585363c285c2b@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sunset Music Series at Waverly Place: 8 Track Minds
 DTSTART;TZID=America/New_York:20260930T173000
 DTEND;TZID=America/New_York:20260930T203000
 DESCRIPTION:Cost: FREE\nTime: 5:30 pm to 8:30 pm\nLocation: Waverly Place\,
-  Cary\nMore info: https://triangleonthecheap.com/waverly-place-summer-mus
- ic/\nSource: Triangle on the Cheap (Kids Events)
+  Cary\nInfo: https://triangleonthecheap.com/waverly-place-summer-music/\n
+ Source: Triangle on the Cheap
 LOCATION:Waverly Place\, Cary
 URL:https://triangleonthecheap.com/waverly-place-summer-music/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5e9c9b70770acefec60c6799@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:d2bb4ca37c82c34af40db880@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Raleigh Drum Circle and Hoop Jam
 DTSTART;TZID=America/New_York:20260930T190000
 DTEND;TZID=America/New_York:20260930T203000
 DESCRIPTION:Cost: FREE\nTime: 7:00 pm to 8:30 pm\nLocation: Pullen Park\, R
- aleigh\nMore info: https://triangleonthecheap.com/raleigh-drum-circle-hoo
- p-jam/\nSource: Triangle on the Cheap (Kids Events)
+ aleigh\nInfo: https://triangleonthecheap.com/raleigh-drum-circle-hoop-jam
+ /\nSource: Triangle on the Cheap
 LOCATION:Pullen Park\, Raleigh
 URL:https://triangleonthecheap.com/raleigh-drum-circle-hoop-jam/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2be735733bf6b58b72c37827@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:89b85f71d397cdd6aedb7999@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261001T090000
 DTEND;TZID=America/New_York:20261001T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:60162b646369239e4904c90e@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:597e771478ff10221d1c4e9d@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Raleigh Wide Open Kickoff Celebration
 DTSTART;TZID=America/New_York:20261001T180000
 DTEND;TZID=America/New_York:20261001T210000
 DESCRIPTION:Cost: FREE\nTime: 6:00 pm to 9:00 pm\nLocation: The Corner\, NC
-  State Centennial Campus\nMore info: https://triangleonthecheap.com/ralei
- gh-wide-open/\nSource: Triangle on the Cheap (Kids Events)
+  State Centennial Campus\nInfo: https://triangleonthecheap.com/raleigh-wi
+ de-open/\nSource: Triangle on the Cheap
 LOCATION:The Corner\, NC State Centennial Campus
 URL:https://triangleonthecheap.com/raleigh-wide-open/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5362ac8a0a7ea2dae94cace0@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:f25d1d745633a05ac372a724@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261002T090000
 DTEND;TZID=America/New_York:20261002T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0eb9e5b1c611774dac608c32@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:4d85f78824da2fdad6f7e1f4@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Raleigh Wide Open Music Festival
 DTSTART;TZID=America/New_York:20261002T150000
 DTEND;TZID=America/New_York:20261002T230000
 DESCRIPTION:Cost: FREE\nTime: 3:00 pm to 11:00 pm\nLocation: 100 Fayettevil
- le Street\, Raleigh\nMore info: https://triangleonthecheap.com/raleigh-wi
- de-open/\nSource: Triangle on the Cheap (Kids Events)
+ le Street\, Raleigh\nInfo: https://triangleonthecheap.com/raleigh-wide-op
+ en/\nSource: Triangle on the Cheap
 LOCATION:100 Fayetteville Street\, Raleigh
 URL:https://triangleonthecheap.com/raleigh-wide-open/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:57e9dd2ca7ebdb3532b64836@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:f2252213c589c916daf1babc@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Bands\, Bites and Boats Concert Series: Amanda Peach Duo
 DTSTART;TZID=America/New_York:20261002T170000
 DTEND;TZID=America/New_York:20261002T190000
 DESCRIPTION:Cost: FREE\nTime: 5:00 pm to 7:00 pm\nLocation: Fred G. Bond Me
- tro Park\nMore info: https://triangleonthecheap.com/bands-bites-boats-bon
- d-park-cary/\nSource: Triangle on the Cheap (Kids Events)
+ tro Park\nInfo: https://triangleonthecheap.com/bands-bites-boats-bond-par
+ k-cary/\nSource: Triangle on the Cheap
 LOCATION:Fred G. Bond Metro Park
 URL:https://triangleonthecheap.com/bands-bites-boats-bond-park-cary/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bc7b5f701d8d7bbc983d5968@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:ae3befb9a8202b2a8ca60152@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:First Friday Market & Movie: Ghostbusters
 DTSTART;TZID=America/New_York:20261002T170000
 DTEND;TZID=America/New_York:20261002T210000
 DESCRIPTION:Cost: FREE\nTime: 5:00 pm to 9:00 pm\nLocation: Moore Square\, 
- Raleigh\nMore info: https://triangleonthecheap.com/outdoor-movie-moore-sq
- uare/\nSource: Triangle on the Cheap (Kids Events)
+ Raleigh\nInfo: https://triangleonthecheap.com/outdoor-movie-moore-square/
+ \nSource: Triangle on the Cheap
 LOCATION:Moore Square\, Raleigh
 URL:https://triangleonthecheap.com/outdoor-movie-moore-square/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:79edfcd7e78fb08b78d0a9b0@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:7a6563c7f541b1b947cb42bf@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Triangle Oktoberfest at Booth Amphitheatre (free if you bring a wie
  ner dog)
 DTSTART;TZID=America/New_York:20261002T170000
 DTEND;TZID=America/New_York:20261002T220000
 DESCRIPTION:Cost: $0-37.57\nTime: 5:00 pm to 10:00 pm\nLocation: Koka Booth
-  Amphitheatre\nMore info: https://triangleonthecheap.com/triangle-oktober
- fest/\nSource: Triangle on the Cheap (Kids Events)
+  Amphitheatre\nInfo: https://triangleonthecheap.com/triangle-oktoberfest/
+ \nSource: Triangle on the Cheap
 LOCATION:Koka Booth Amphitheatre
 URL:https://triangleonthecheap.com/triangle-oktoberfest/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b2eb5ee72d12a8250a69eaea@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:d9fe65bbea664bee2a251f2f@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Movie Night: Frankenweenie
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T220000
 DESCRIPTION:Cost: FREE\nTime: 6:00 pm to 10:00 pm\nLocation: Downtown Cary 
- Park\nMore info: https://triangleonthecheap.com/movie-night-downtown-cary
- -park/\nSource: Triangle on the Cheap (Kids Events)
+ Park\nInfo: https://triangleonthecheap.com/movie-night-downtown-cary-park
+ /\nSource: Triangle on the Cheap
 LOCATION:Downtown Cary Park
 URL:https://triangleonthecheap.com/movie-night-downtown-cary-park/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:43e11cedee6e8f4dc112129c@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:a0c68b93fc1a5c909c189336@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:First Friday at Eno Arts Mill -- studio tours\, live music\, kids' 
  activities\, more...
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T210000
 DESCRIPTION:Cost: FREE\nTime: 6:00 pm to 9:00 pm\nLocation: Eno Arts Mill\,
-  Hillsborough\nMore info: https://triangleonthecheap.com/eno-arts-mill/\n
- Source: Triangle on the Cheap (Kids Events)
+  Hillsborough\nInfo: https://triangleonthecheap.com/eno-arts-mill/\nSourc
+ e: Triangle on the Cheap
 LOCATION:Eno Arts Mill\, Hillsborough
 URL:https://triangleonthecheap.com/eno-arts-mill/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d1e5990476464d49a31048c0@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:ae6f715aab84d4120fc6c68d@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Front Porch Friday at Haven Farm
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T220000
 DESCRIPTION:Cost: FREE\nTime: 6:00 pm to 10:00 pm\nLocation: Haven Farm\, K
- nightdale\nMore info: https://triangleonthecheap.com/front-porch-fridays-
- haven-farm/\nSource: Triangle on the Cheap (Kids Events)
+ nightdale\nInfo: https://triangleonthecheap.com/front-porch-fridays-haven
+ -farm/\nSource: Triangle on the Cheap
 LOCATION:Haven Farm\, Knightdale
 URL:https://triangleonthecheap.com/front-porch-fridays-haven-farm/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fe55ecaf2e4ca6d1d47d81fb@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:2f26d12a6a01c212458235c4@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:First Friday Under the Stars -- Skywatching Event
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T220000
 DESCRIPTION:Cost: FREE\nTime: 7:00 pm to 10:00 pm\nLocation: Three Bears Ac
- res\, Creedmoor\nMore info: https://triangleonthecheap.com/first-friday-s
- kywatching/\nSource: Triangle on the Cheap (Kids Events)
+ res\, Creedmoor\nInfo: https://triangleonthecheap.com/first-friday-skywat
+ ching/\nSource: Triangle on the Cheap
 LOCATION:Three Bears Acres\, Creedmoor
 URL:https://triangleonthecheap.com/first-friday-skywatching/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1bca62856e7bb4e645c3aa05@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:b97554eed39bfcd35e1bdd74@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Home Depot Kids Workshop: Witch Candy Box
 DTSTART;TZID=America/New_York:20261003T090000
 DTEND;TZID=America/New_York:20261003T120000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 12:00 pm\nLocation: The Home Depot
- \, multiple locations\nMore info: https://triangleonthecheap.com/kids-diy
- -workshops/\nSource: Triangle on the Cheap (Kids Events)
+ \, multiple locations\nInfo: https://triangleonthecheap.com/kids-diy-work
+ shops/\nSource: Triangle on the Cheap
 LOCATION:The Home Depot\, multiple locations
 URL:https://triangleonthecheap.com/kids-diy-workshops/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:40121d4b14206d45952ef0f0@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:90f62caba8ceea45d5a4544e@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Wendell Harvest Festival
 DTSTART;TZID=America/New_York:20261003T090000
 DTEND;TZID=America/New_York:20261003T210000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 9:00 pm\nLocation: J. Ashley Wall 
- Towne Square\, Wendell\nMore info: https://triangleonthecheap.com/wendell
- -harvest-festival/\nSource: Triangle on the Cheap (Kids Events)
+ Towne Square\, Wendell\nInfo: https://triangleonthecheap.com/wendell-harv
+ est-festival/\nSource: Triangle on the Cheap
 LOCATION:J. Ashley Wall Towne Square\, Wendell
 URL:https://triangleonthecheap.com/wendell-harvest-festival/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4d5683c29ead8a6bc0554dda@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:c1c2b567d32047a46073c705@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261003T090000
 DTEND;TZID=America/New_York:20261003T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e28160249e5c14dc4e7564bd@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:ffee0b64543c6260d041e47f@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Holly Springs Diwali
 DTSTART;TZID=America/New_York:20261003T093000
 DTEND;TZID=America/New_York:20261003T213000
 DESCRIPTION:Cost: FREE\nTime: 9:30 am to 9:30 pm\nLocation: Bass Lake Park\
- , Holly Springs\nMore info: https://triangleonthecheap.com/holly-springs-
- diwali/\nSource: Triangle on the Cheap (Kids Events)
+ , Holly Springs\nInfo: https://triangleonthecheap.com/holly-springs-diwal
+ i/\nSource: Triangle on the Cheap
 LOCATION:Bass Lake Park\, Holly Springs
 URL:https://triangleonthecheap.com/holly-springs-diwali/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7bf6bc2b71e4da9854ad8e83@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:7a0c341998a09ca2ebba0cbe@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Youth Aviation Academy Program (registration required)
 DTSTART;TZID=America/New_York:20261003T100000
 DTEND;TZID=America/New_York:20261003T123000
 DESCRIPTION:Cost: $10.00\nTime: 10:00 am to 12:30 pm\nLocation: John Chavis
-  Memorial Park (Raleigh)\nMore info: https://triangleonthecheap.com/youth
- -aviation-program/\nSource: Triangle on the Cheap (Kids Events)
+  Memorial Park (Raleigh)\nInfo: https://triangleonthecheap.com/youth-avia
+ tion-program/\nSource: Triangle on the Cheap
 LOCATION:John Chavis Memorial Park (Raleigh)
 URL:https://triangleonthecheap.com/youth-aviation-program/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e30359f80b76b6438a8fe98f@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:57e9f58d86fc07a0df1bd15c@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Celebrate Fuquay-Varina Festival
 DTSTART;TZID=America/New_York:20261003T100000
 DTEND;TZID=America/New_York:20261003T160000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 4:00 pm\nLocation: Downtown Fuqua
- y-Varina\nMore info: https://triangleonthecheap.com/celebrate-fuquay-vari
- na-festival/\nSource: Triangle on the Cheap (Kids Events)
+ y-Varina\nInfo: https://triangleonthecheap.com/celebrate-fuquay-varina-fe
+ stival/\nSource: Triangle on the Cheap
 LOCATION:Downtown Fuquay-Varina
 URL:https://triangleonthecheap.com/celebrate-fuquay-varina-festival/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c646e0a54730db8c828a622a@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:33608e035aefe34eed821b3e@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Saturday Slowdown Market and Open Farm Day
 DTSTART;TZID=America/New_York:20261003T100000
 DTEND;TZID=America/New_York:20261003T140000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 2:00 pm\nLocation: RambleRill Far
- m\, Hillsborough\nMore info: https://triangleonthecheap.com/ramblerill-fa
- rm/\nSource: Triangle on the Cheap (Kids Events)
+ m\, Hillsborough\nInfo: https://triangleonthecheap.com/ramblerill-farm/\n
+ Source: Triangle on the Cheap
 LOCATION:RambleRill Farm\, Hillsborough
 URL:https://triangleonthecheap.com/ramblerill-farm/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:618bcbe276d76ccfe6744086@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:f12af95c9ce4e819d900d9ae@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Open Farm at Sunrise Community Farm Center
 DTSTART;TZID=America/New_York:20261003T100000
 DTEND;TZID=America/New_York:20261003T170000
 DESCRIPTION:Cost: $8.00\nTime: 10:00 am to 5:00 pm\nLocation: Sunrise Commu
- nity Farm Center\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /open-farm-sunrise-community-farm-center/\nSource: Triangle on the Cheap 
- (Kids Events)
+ nity Farm Center\, Chapel Hill\nInfo: https://triangleonthecheap.com/open
+ -farm-sunrise-community-farm-center/\nSource: Triangle on the Cheap
 LOCATION:Sunrise Community Farm Center\, Chapel Hill
 URL:https://triangleonthecheap.com/open-farm-sunrise-community-farm-center/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:60d75f88a4855c4619791d99@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:eb8919b610b7d3d132348b11@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Falling for Local at Dix Park: live music\, free hayrides\, free pu
  mpkins\, more...
 DTSTART;TZID=America/New_York:20261003T110000
 DTEND;TZID=America/New_York:20261003T180000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 6:00 pm\nLocation: Dorothea Dix P
- ark\nMore info: https://triangleonthecheap.com/fall-fest-dix-park/\nSourc
- e: Triangle on the Cheap (Kids Events)
+ ark\nInfo: https://triangleonthecheap.com/fall-fest-dix-park/\nSource: Tr
+ iangle on the Cheap
 LOCATION:Dorothea Dix Park
 URL:https://triangleonthecheap.com/fall-fest-dix-park/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:143aa0ab5a5c0018cd6bb865@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:6463d6d41c1fffad9b8cf92e@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Taste of Asia
 DTSTART;TZID=America/New_York:20261003T110000
 DTEND;TZID=America/New_York:20261003T180000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 6:00 pm\nLocation: Moore Square\,
-  Raleigh\nMore info: https://triangleonthecheap.com/taste-of-asia/\nSourc
- e: Triangle on the Cheap (Kids Events)
+  Raleigh\nInfo: https://triangleonthecheap.com/taste-of-asia/\nSource: Tr
+ iangle on the Cheap
 LOCATION:Moore Square\, Raleigh
 URL:https://triangleonthecheap.com/taste-of-asia/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:73f6ab639cbe8dd94026bfea@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:4eea9ed8bf3420d8f25dab2e@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:The Witch's Haunted Barn
 DTSTART;TZID=America/New_York:20261003T110000
 DTEND;TZID=America/New_York:20261003T190000
 DESCRIPTION:Cost: $13.00\nTime: 11:00 am to 7:00 pm\nLocation: Firefly Farm
- \, Hillsborough\nMore info: https://triangleonthecheap.com/witchs-haunted
- -barn-firefly-farm/\nSource: Triangle on the Cheap (Kids Events)
+ \, Hillsborough\nInfo: https://triangleonthecheap.com/witchs-haunted-barn
+ -firefly-farm/\nSource: Triangle on the Cheap
 LOCATION:Firefly Farm\, Hillsborough
 URL:https://triangleonthecheap.com/witchs-haunted-barn-firefly-farm/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fb0671862a30265bfedf765e@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:13f9d079d4781aaa5897e326@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Family Saturday Series: Heartland Marimba
 DTSTART;TZID=America/New_York:20261003T110000
 DTEND;TZID=America/New_York:20261003T120000
 DESCRIPTION:Cost: $5.00\nTime: 11:00 am\nLocation: The Carolina Theatre\, D
- urham\nMore info: https://triangleonthecheap.com/carolina-theatre-durham/
- \nSource: Triangle on the Cheap (Kids Events)
+ urham\nInfo: https://triangleonthecheap.com/carolina-theatre-durham/\nSou
+ rce: Triangle on the Cheap
 LOCATION:The Carolina Theatre\, Durham
 URL:https://triangleonthecheap.com/carolina-theatre-durham/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a89bc5673b2748a1661f147e@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:354073b675208872dbd4bd54@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Free Guided Tour of N.C. State Capitol (three start times: 11 a.m.\
  , 1 p.m.\, and 3 p.m.)
 DTSTART;TZID=America/New_York:20261003T110000
 DTEND;TZID=America/New_York:20261003T160000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 4:00 pm\nLocation: North Carolina
-  State Capitol\, Raleigh\nMore info: https://triangleonthecheap.com/tours
- -north-carolina-state-capitol/\nSource: Triangle on the Cheap (Kids Event
- s)
+  State Capitol\, Raleigh\nInfo: https://triangleonthecheap.com/tours-nort
+ h-carolina-state-capitol/\nSource: Triangle on the Cheap
 LOCATION:North Carolina State Capitol\, Raleigh
 URL:https://triangleonthecheap.com/tours-north-carolina-state-capitol/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8df21f485cbfd35467093c82@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:8a7b2c1d1798a67ebf2d14bd@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Wake Forest Diwali Festival
 DTSTART;TZID=America/New_York:20261003T120000
 DTEND;TZID=America/New_York:20261003T150000
 DESCRIPTION:Cost: FREE\nTime: 12:00 pm to 3:00 pm\nLocation: E. Carroll Joy
- ner Park\, Wake Forest\nMore info: https://triangleonthecheap.com/diwali-
- wake-forest/\nSource: Triangle on the Cheap (Kids Events)
+ ner Park\, Wake Forest\nInfo: https://triangleonthecheap.com/diwali-wake-
+ forest/\nSource: Triangle on the Cheap
 LOCATION:E. Carroll Joyner Park\, Wake Forest
 URL:https://triangleonthecheap.com/diwali-wake-forest/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b3536ef22ee79848d9b7622f@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:093cc0fc801c190daa6cc9d8@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Duke Regional Cares Community Day
 DTSTART;TZID=America/New_York:20261003T120000
 DTEND;TZID=America/New_York:20261003T160000
 DESCRIPTION:Cost: FREE\nTime: 12:00 pm to 4:00 pm\nLocation: Durham County 
- Memorial Stadium\nMore info: https://triangleonthecheap.com/duke-regional
- -cares-community-day/\nSource: Triangle on the Cheap (Kids Events)
+ Memorial Stadium\nInfo: https://triangleonthecheap.com/duke-regional-care
+ s-community-day/\nSource: Triangle on the Cheap
 LOCATION:Durham County Memorial Stadium
 URL:https://triangleonthecheap.com/duke-regional-cares-community-day/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:63690fc43ab57f63bf19ee24@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:b902149eb1bbe680ce6f0860@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Triangle Oktoberfest at Booth Amphitheatre (free if you bring a wie
  ner dog)
 DTSTART;TZID=America/New_York:20261003T120000
 DTEND;TZID=America/New_York:20261003T200000
 DESCRIPTION:Cost: $0-37.57\nTime: 12:00 pm to 8:00 pm\nLocation: Koka Booth
-  Amphitheatre\nMore info: https://triangleonthecheap.com/triangle-oktober
- fest/\nSource: Triangle on the Cheap (Kids Events)
+  Amphitheatre\nInfo: https://triangleonthecheap.com/triangle-oktoberfest/
+ \nSource: Triangle on the Cheap
 LOCATION:Koka Booth Amphitheatre
 URL:https://triangleonthecheap.com/triangle-oktoberfest/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6ef7cb834bd77c6422525eff@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:fbb0475896963bc651bd65fd@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Oktoberfest
 DTSTART;TZID=America/New_York:20261003T120000
 DTEND;TZID=America/New_York:20261003T210000
 DESCRIPTION:Cost: FREE\nTime: 12:00 pm to 9:00 pm\nLocation: Steel String B
- rewery\, Pluck Farm (Mebane)\nMore info: https://triangleonthecheap.com/s
- teel-string-brewery-pluck-farm/\nSource: Triangle on the Cheap (Kids Even
- ts)
+ rewery\, Pluck Farm (Mebane)\nInfo: https://triangleonthecheap.com/steel-
+ string-brewery-pluck-farm/\nSource: Triangle on the Cheap
 LOCATION:Steel String Brewery\, Pluck Farm (Mebane)
 URL:https://triangleonthecheap.com/steel-string-brewery-pluck-farm/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7b1fdb3e7b9af6c7ce474cc6@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:7820f3e1ffe310e83602d969@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Raleigh Wide Open Music Festival
 DTSTART;TZID=America/New_York:20261003T120000
 DTEND;TZID=America/New_York:20261003T230000
 DESCRIPTION:Cost: FREE\nTime: 12:00 pm to 11:00 pm\nLocation: 100 Fayettevi
- lle Street\, Raleigh\nMore info: https://triangleonthecheap.com/raleigh-w
- ide-open/\nSource: Triangle on the Cheap (Kids Events)
+ lle Street\, Raleigh\nInfo: https://triangleonthecheap.com/raleigh-wide-o
+ pen/\nSource: Triangle on the Cheap
 LOCATION:100 Fayetteville Street\, Raleigh
 URL:https://triangleonthecheap.com/raleigh-wide-open/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4d049ed0ee194e05dc281490@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:555db7fda14e56332868ce42@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Free pumpkin painting (with purchase of pumpkin)
 DTSTART;TZID=America/New_York:20261003T130000
 DTEND;TZID=America/New_York:20261003T160000
 DESCRIPTION:Time: 1:00 pm to 4:00 pm\nLocation: For Garden’s Sake\, Durha
- m\nMore info: https://triangleonthecheap.com/for-gardens-sake-garden/\nSo
- urce: Triangle on the Cheap (Kids Events)
+ m\nInfo: https://triangleonthecheap.com/for-gardens-sake-garden/\nSource:
+  Triangle on the Cheap
 LOCATION:For Garden’s Sake\, Durham
 URL:https://triangleonthecheap.com/for-gardens-sake-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2502fc7e22cae7a1d4258ef9@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:bfcdd9404110681e9a203371@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Fall Film Series: Beetlejuice
 DTSTART;TZID=America/New_York:20261003T193000
 DTEND;TZID=America/New_York:20261003T203000
-DESCRIPTION:Cost: FREE\nTime: 7:30 pm\nLocation: Durham Central Park\nMore 
- info: https://triangleonthecheap.com/durham-film-series/\nSource: Triangl
- e on the Cheap (Kids Events)
+DESCRIPTION:Cost: FREE\nTime: 7:30 pm\nLocation: Durham Central Park\nInfo:
+  https://triangleonthecheap.com/durham-film-series/\nSource: Triangle on 
+ the Cheap
 LOCATION:Durham Central Park
 URL:https://triangleonthecheap.com/durham-film-series/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9fbf80eec12d1f740f05cee8@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:c7162bfb5e21bd298f17808d@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261004T090000
 DTEND;TZID=America/New_York:20261004T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4e0234adfed3d8c90b462a6a@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:d57bd61ed7a745b5e337c68c@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Move-A-Bull City Open Streets Event
 DTSTART;TZID=America/New_York:20261004T120000
 DTEND;TZID=America/New_York:20261004T160000
 DESCRIPTION:Cost: FREE\nTime: 12:00 pm to 4:00 pm\nLocation: Locations thro
- ughout Downtown Durham\nMore info: https://triangleonthecheap.com/move-a-
- bull-city/\nSource: Triangle on the Cheap (Kids Events)
+ ughout Downtown Durham\nInfo: https://triangleonthecheap.com/move-a-bull-
+ city/\nSource: Triangle on the Cheap
 LOCATION:Locations throughout Downtown Durham
 URL:https://triangleonthecheap.com/move-a-bull-city/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:63dce1b977bfa8109853cf15@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:83155e296836690444ef361d@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Free pumpkin painting (with purchase of pumpkin)
 DTSTART;TZID=America/New_York:20261004T130000
 DTEND;TZID=America/New_York:20261004T160000
 DESCRIPTION:Time: 1:00 pm to 4:00 pm\nLocation: For Garden’s Sake\, Durha
- m\nMore info: https://triangleonthecheap.com/for-gardens-sake-garden/\nSo
- urce: Triangle on the Cheap (Kids Events)
+ m\nInfo: https://triangleonthecheap.com/for-gardens-sake-garden/\nSource:
+  Triangle on the Cheap
 LOCATION:For Garden’s Sake\, Durham
 URL:https://triangleonthecheap.com/for-gardens-sake-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f3d430d9872f24608b20f4ec@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:5355019f1b108abc723cfaa7@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Instrument Petting Zoo
 DTSTART;TZID=America/New_York:20261004T140000
 DTEND;TZID=America/New_York:20261004T160000
 DESCRIPTION:Cost: FREE\nTime: 2:00 pm to 4:00 pm\nLocation: Gipson Play Pla
- za\, Dix Park\, Raleigh\nMore info: https://triangleonthecheap.com/instru
- ment-petting-zoo-dix-park/\nSource: Triangle on the Cheap (Kids Events)
+ za\, Dix Park\, Raleigh\nInfo: https://triangleonthecheap.com/instrument-
+ petting-zoo-dix-park/\nSource: Triangle on the Cheap
 LOCATION:Gipson Play Plaza\, Dix Park\, Raleigh
 URL:https://triangleonthecheap.com/instrument-petting-zoo-dix-park/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:60c1b40a027cf729a3e087d9@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:5f033a82bf360a5aee2e16df@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Total Tot Time: free play program for kids up to age 5
 DTSTART;TZID=America/New_York:20261005T100000
 DTEND;TZID=America/New_York:20261005T120000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 12:00 pm\nLocation: W.D. Hill Rec
- reation Center\, Durham\nMore info: https://triangleonthecheap.com/total-
- tot-time/\nSource: Triangle on the Cheap (Kids Events)
+ reation Center\, Durham\nInfo: https://triangleonthecheap.com/total-tot-t
+ ime/\nSource: Triangle on the Cheap
 LOCATION:W.D. Hill Recreation Center\, Durham
 URL:https://triangleonthecheap.com/total-tot-time/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a98df6ec7bbea266efbbd906@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:5aa706923d90ebc51de95204@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Wake Forest National Night Out
 DTSTART;TZID=America/New_York:20261005T170000
 DTEND;TZID=America/New_York:20261005T193000
 DESCRIPTION:Cost: FREE\nTime: 5:00 pm to 7:30 pm\nLocation: E. Carroll Joyn
- er Park\, Wake Forest\nMore info: https://triangleonthecheap.com/national
- -night-out-wake-forest/\nSource: Triangle on the Cheap (Kids Events)
+ er Park\, Wake Forest\nInfo: https://triangleonthecheap.com/national-nigh
+ t-out-wake-forest/\nSource: Triangle on the Cheap
 LOCATION:E. Carroll Joyner Park\, Wake Forest
 URL:https://triangleonthecheap.com/national-night-out-wake-forest/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:71fc2996f70bde0330764987@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:49be4e288efd221d9d23138c@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261006T090000
 DTEND;TZID=America/New_York:20261006T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:279f1935a60072b0a7884768@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:5f6983eee9ecfd87661826ab@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:North Hills Kids: Tuts & Trucks
 DTSTART;TZID=America/New_York:20261006T093000
 DTEND;TZID=America/New_York:20261006T110000
 DESCRIPTION:Cost: FREE\nTime: 9:30 am to 11:00 am\nLocation: The Commons at
-  North Hills\, Raleigh\nMore info: https://triangleonthecheap.com/north-h
- ills-kids/\nSource: Triangle on the Cheap (Kids Events)
+  North Hills\, Raleigh\nInfo: https://triangleonthecheap.com/north-hills-
+ kids/\nSource: Triangle on the Cheap
 LOCATION:The Commons at North Hills\, Raleigh
 URL:https://triangleonthecheap.com/north-hills-kids/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:89bd94aca235a1d36695ff61@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:8b0e6cfc498ef55ad5d9da08@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Horn-free hour of Apex Night Out's Touch-a-Truck
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T173000
 DESCRIPTION:Cost: FREE\nTime: 4:30 pm to 5:30 pm\nLocation: Apex Town Hall\
- nMore info: https://triangleonthecheap.com/apex-night-out/\nSource: Trian
- gle on the Cheap (Kids Events)
+ nInfo: https://triangleonthecheap.com/apex-night-out/\nSource: Triangle o
+ n the Cheap
 LOCATION:Apex Town Hall
 URL:https://triangleonthecheap.com/apex-night-out/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:009e0aa787e4fd53ad7bc888@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:a6d7e54dc367f4dc4ea6f3b1@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Apex Night Out\, featuring Touch-a-Truck
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T190000
 DESCRIPTION:Cost: FREE\nTime: 4:30 pm to 7:00 pm\nLocation: Apex Town Hall\
- nMore info: https://triangleonthecheap.com/apex-night-out/\nSource: Trian
- gle on the Cheap (Kids Events)
+ nInfo: https://triangleonthecheap.com/apex-night-out/\nSource: Triangle o
+ n the Cheap
 LOCATION:Apex Town Hall
 URL:https://triangleonthecheap.com/apex-night-out/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ae7af97b28ef7e0c5f8c67ef@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:c25285599e3de9950d6e5ed3@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Outdoor movie at Pullen Park: Toy Story 5
 DTSTART;TZID=America/New_York:20261006T180000
 DTEND;TZID=America/New_York:20261006T190000
-DESCRIPTION:Cost: FREE\nTime: 6:00 pm\nLocation: Pullen Park\, Raleigh\nMor
- e info: https://triangleonthecheap.com/free-outdoor-movie-series-pullen-p
- ark/\nSource: Triangle on the Cheap (Kids Events)
+DESCRIPTION:Cost: FREE\nTime: 6:00 pm\nLocation: Pullen Park\, Raleigh\nInf
+ o: https://triangleonthecheap.com/free-outdoor-movie-series-pullen-park/\
+ nSource: Triangle on the Cheap
 LOCATION:Pullen Park\, Raleigh
 URL:https://triangleonthecheap.com/free-outdoor-movie-series-pullen-park/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2e07bb230aae053f387a523f@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:599c107f7b830420cb7a6d50@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261007T090000
 DTEND;TZID=America/New_York:20261007T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f3dec6f0c350ad29e996f475@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:88b5ab11c501379647e0f105@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Total Tot Time: free play program for kids up to age 5
 DTSTART;TZID=America/New_York:20261007T100000
 DTEND;TZID=America/New_York:20261007T120000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 12:00 pm\nLocation: W.D. Hill Rec
- reation Center\, Durham\nMore info: https://triangleonthecheap.com/total-
- tot-time/\nSource: Triangle on the Cheap (Kids Events)
+ reation Center\, Durham\nInfo: https://triangleonthecheap.com/total-tot-t
+ ime/\nSource: Triangle on the Cheap
 LOCATION:W.D. Hill Recreation Center\, Durham
 URL:https://triangleonthecheap.com/total-tot-time/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d06ff6ee9365ae79df8c4a73@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:708a110e035f607119bc4231@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Market Bunch Kids' Activities
 DTSTART;TZID=America/New_York:20261007T150000
 DTEND;TZID=America/New_York:20261007T180000
 DESCRIPTION:Cost: FREE\nTime: 3:00 pm to 6:00 pm\nLocation: Carrboro Farmer
- s’ Market\nMore info: https://triangleonthecheap.com/carrboro-farmers-m
- arket/\nSource: Triangle on the Cheap (Kids Events)
+ s’ Market\nInfo: https://triangleonthecheap.com/carrboro-farmers-market
+ /\nSource: Triangle on the Cheap
 LOCATION:Carrboro Farmers’ Market
 URL:https://triangleonthecheap.com/carrboro-farmers-market/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:54d730c88bcdb0ce293f5b7a@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:1c8f901931efed7ea0813cb1@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Raleigh Drum Circle and Hoop Jam
 DTSTART;TZID=America/New_York:20261007T190000
 DTEND;TZID=America/New_York:20261007T203000
 DESCRIPTION:Cost: FREE\nTime: 7:00 pm to 8:30 pm\nLocation: Pullen Park\, R
- aleigh\nMore info: https://triangleonthecheap.com/raleigh-drum-circle-hoo
- p-jam/\nSource: Triangle on the Cheap (Kids Events)
+ aleigh\nInfo: https://triangleonthecheap.com/raleigh-drum-circle-hoop-jam
+ /\nSource: Triangle on the Cheap
 LOCATION:Pullen Park\, Raleigh
 URL:https://triangleonthecheap.com/raleigh-drum-circle-hoop-jam/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c97c7f66b6d6f1745f66c2f5@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:209a1aef785536fa23bb68f6@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261008T090000
 DTEND;TZID=America/New_York:20261008T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8e974f931fcb702856e38269@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:20d7b918957ca32d0a29b2d0@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Durham Community Day at Museum of Life + Science: free admission fo
  r Durham County residents
 DTSTART;TZID=America/New_York:20261008T100000
 DTEND;TZID=America/New_York:20261008T170000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 5:00 pm\nLocation: Museum of Life
- +Science\, Durham\nMore info: https://triangleonthecheap.com/museum-life-
- science/\nSource: Triangle on the Cheap (Kids Events)
+ +Science\, Durham\nInfo: https://triangleonthecheap.com/museum-life-scien
+ ce/\nSource: Triangle on the Cheap
 LOCATION:Museum of Life+Science\, Durham
 URL:https://triangleonthecheap.com/museum-life-science/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:402eda0424990038c1570da6@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:5f24cd09bc4697ccc2f63d0b@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261009T090000
 DTEND;TZID=America/New_York:20261009T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:47bc7d20afcf0af5e818bc5d@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:a5c6949e7dcac53a1947e285@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Scented Storytime
 DTSTART;TZID=America/New_York:20261009T110000
 DTEND;TZID=America/New_York:20261009T120000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 12:00 pm\nLocation: North Regiona
- l Library\, Durham\nMore info: https://triangleonthecheap.com/scented-sto
- rytime/\nSource: Triangle on the Cheap (Kids Events)
+ l Library\, Durham\nInfo: https://triangleonthecheap.com/scented-storytim
+ e/\nSource: Triangle on the Cheap
 LOCATION:North Regional Library\, Durham
 URL:https://triangleonthecheap.com/scented-storytime/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:114c65ce6957fbc06ad84108@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:518b6a41dc07cdd4af20f70b@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:The Witch's Haunted Barn (No actor version)
 DTSTART;TZID=America/New_York:20261009T120000
 DTEND;TZID=America/New_York:20261009T170000
 DESCRIPTION:Cost: $13.00\nTime: 12:00 pm to 5:00 pm\nLocation: Firefly Farm
- \, Hillsborough\nMore info: https://triangleonthecheap.com/witchs-haunted
- -barn-firefly-farm/\nSource: Triangle on the Cheap (Kids Events)
+ \, Hillsborough\nInfo: https://triangleonthecheap.com/witchs-haunted-barn
+ -firefly-farm/\nSource: Triangle on the Cheap
 LOCATION:Firefly Farm\, Hillsborough
 URL:https://triangleonthecheap.com/witchs-haunted-barn-firefly-farm/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:625523d9eb0ddb06353d30f7@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:ecbb50196340db0eda7b3b14@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Friday Family Flicks in Garner -- Toy Story 5
 DTSTART;TZID=America/New_York:20261009T180000
 DTEND;TZID=America/New_York:20261009T190000
 DESCRIPTION:Cost: FREE\nTime: 6:00 pm\nLocation: Garner Recreation Center\n
- More info: https://triangleonthecheap.com/outdoor-movies-garner/\nSource:
-  Triangle on the Cheap (Kids Events)
+ Info: https://triangleonthecheap.com/outdoor-movies-garner/\nSource: Tria
+ ngle on the Cheap
 LOCATION:Garner Recreation Center
 URL:https://triangleonthecheap.com/outdoor-movies-garner/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3c0b43f78b1c86c8ff9739f4@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:353547f6578ea7ce97eda0e0@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Front Porch Friday at Haven Farm
 DTSTART;TZID=America/New_York:20261009T180000
 DTEND;TZID=America/New_York:20261009T220000
 DESCRIPTION:Cost: FREE\nTime: 6:00 pm to 10:00 pm\nLocation: Haven Farm\, K
- nightdale\nMore info: https://triangleonthecheap.com/front-porch-fridays-
- haven-farm/\nSource: Triangle on the Cheap (Kids Events)
+ nightdale\nInfo: https://triangleonthecheap.com/front-porch-fridays-haven
+ -farm/\nSource: Triangle on the Cheap
 LOCATION:Haven Farm\, Knightdale
 URL:https://triangleonthecheap.com/front-porch-fridays-haven-farm/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:848e37011e3f3260f399dbac@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:4bf990455e9da888aca52e1b@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Holly Springs Haunted Trail
 DTSTART;TZID=America/New_York:20261009T190000
 DTEND;TZID=America/New_York:20261009T223000
 DESCRIPTION:Cost: $10.00\nTime: 7:00 pm to 10:30 pm\nLocation: Jefferson L.
-  Sugg Farm at Bass Lake Park\nMore info: https://triangleonthecheap.com/h
- alloween-sugg-farm-holly-springs/\nSource: Triangle on the Cheap (Kids Ev
- ents)
+  Sugg Farm at Bass Lake Park\nInfo: https://triangleonthecheap.com/hallow
+ een-sugg-farm-holly-springs/\nSource: Triangle on the Cheap
 LOCATION:Jefferson L. Sugg Farm at Bass Lake Park
 URL:https://triangleonthecheap.com/halloween-sugg-farm-holly-springs/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8fae6259ec28d8f39aadb588@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:6bdcb4e452f1dc5e991d183a@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Kids in Nature Day
 DTSTART;TZID=America/New_York:20261010T130000
 DTEND;TZID=America/New_York:20261010T160000
 DESCRIPTION:Cost: FREE\nTime: 1:00 pm to 4:00 pm\nLocation: Lake Benson Par
- k\, Garner\nMore info: https://triangleonthecheap.com/kids-in-nature-day/
- \nSource: Triangle on the Cheap (Kids Events)
+ k\, Garner\nInfo: https://triangleonthecheap.com/kids-in-nature-day/\nSou
+ rce: Triangle on the Cheap
 LOCATION:Lake Benson Park\, Garner
 URL:https://triangleonthecheap.com/kids-in-nature-day/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f4c442ec177a6d0a08f2fd6e@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:ae1f7b67fb2a2462f1ebe70e@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Hum Sub Diwali (free admission\, $10 parking)
 DTSTART;TZID=America/New_York:20261010T090000
 DTEND;TZID=America/New_York:20261010T210000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 9:00 pm\nLocation: Koka Booth Amph
- itheatre\nMore info: https://triangleonthecheap.com/cary-diwali-celebrati
- on/\nSource: Triangle on the Cheap (Kids Events)
+ itheatre\nInfo: https://triangleonthecheap.com/cary-diwali-celebration/\n
+ Source: Triangle on the Cheap
 LOCATION:Koka Booth Amphitheatre
 URL:https://triangleonthecheap.com/cary-diwali-celebration/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a7b86b638f0f5ec335405898@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:a4dd54370a27360b5cfb2a9e@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261010T090000
 DTEND;TZID=America/New_York:20261010T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0f31ba5a3611d366be61d631@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:c05974afce553a0198ac3151@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Lowe's DIY-U Kids' Workshop: Firefighting Plane
 DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T130000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 1:00 pm\nLocation: Lowe’s (mult
- iple stores)\nMore info: https://triangleonthecheap.com/kids-diy-workshop
- s/\nSource: Triangle on the Cheap (Kids Events)
+ iple stores)\nInfo: https://triangleonthecheap.com/kids-diy-workshops/\nS
+ ource: Triangle on the Cheap
 LOCATION:Lowe’s (multiple stores)
 URL:https://triangleonthecheap.com/kids-diy-workshops/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:00580636b9436cf69f4abc6c@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:cdc717e9dbe1f13df391c3c6@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Visit Raleigh Fire Museum 2nd Saturday of month (for free)
 DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T140000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 2:00 pm\nLocation: Raleigh Fire M
- useum\nMore info: https://triangleonthecheap.com/visit-raleigh-fire-museu
- m-2nd-saturday-month-free/\nSource: Triangle on the Cheap (Kids Events)
+ useum\nInfo: https://triangleonthecheap.com/visit-raleigh-fire-museum-2nd
+ -saturday-month-free/\nSource: Triangle on the Cheap
 LOCATION:Raleigh Fire Museum
 URL:https://triangleonthecheap.com/visit-raleigh-fire-museum-2nd-saturday-m
  onth-free/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:397267940560f46b5190dce6@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:bfc4b060b1e9c50cd8511bca@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Open Farm at Sunrise Community Farm Center
 DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T170000
 DESCRIPTION:Cost: $8.00\nTime: 10:00 am to 5:00 pm\nLocation: Sunrise Commu
- nity Farm Center\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /open-farm-sunrise-community-farm-center/\nSource: Triangle on the Cheap 
- (Kids Events)
+ nity Farm Center\, Chapel Hill\nInfo: https://triangleonthecheap.com/open
+ -farm-sunrise-community-farm-center/\nSource: Triangle on the Cheap
 LOCATION:Sunrise Community Farm Center\, Chapel Hill
 URL:https://triangleonthecheap.com/open-farm-sunrise-community-farm-center/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4e6d50009afcee97ac29eef6@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:293b5352cbbb6b68a5f18df1@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Apex Oktoberfest
 DTSTART;TZID=America/New_York:20261010T110000
 DTEND;TZID=America/New_York:20261010T190000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 7:00 pm\nLocation: Apex Town Hall
- \nMore info: https://triangleonthecheap.com/oktoberfest-apex/\nSource: Tr
- iangle on the Cheap (Kids Events)
+ \nInfo: https://triangleonthecheap.com/oktoberfest-apex/\nSource: Triangl
+ e on the Cheap
 LOCATION:Apex Town Hall
 URL:https://triangleonthecheap.com/oktoberfest-apex/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4721ca9e3b7b9c11dce30bc8@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:1a54062dc29529ddfc568632@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:JCPenney Kids Zone: free crafts for kids
 DTSTART;TZID=America/New_York:20261010T110000
 DTEND;TZID=America/New_York:20261010T120000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 12:00 pm\nLocation: JCPenney\, pa
- rticipating locations\nMore info: https://triangleonthecheap.com/jcpenney
- -kids-zone/\nSource: Triangle on the Cheap (Kids Events)
+ rticipating locations\nInfo: https://triangleonthecheap.com/jcpenney-kids
+ -zone/\nSource: Triangle on the Cheap
 LOCATION:JCPenney\, participating locations
 URL:https://triangleonthecheap.com/jcpenney-kids-zone/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fa6c82b8f627d298331e47b6@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:f957b84a4a2f92c2d02aa386@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Free Guided Tour of N.C. State Capitol (three start times: 11 a.m.\
  , 1 p.m.\, and 3 p.m.)
 DTSTART;TZID=America/New_York:20261010T110000
 DTEND;TZID=America/New_York:20261010T160000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 4:00 pm\nLocation: North Carolina
-  State Capitol\, Raleigh\nMore info: https://triangleonthecheap.com/tours
- -north-carolina-state-capitol/\nSource: Triangle on the Cheap (Kids Event
- s)
+  State Capitol\, Raleigh\nInfo: https://triangleonthecheap.com/tours-nort
+ h-carolina-state-capitol/\nSource: Triangle on the Cheap
 LOCATION:North Carolina State Capitol\, Raleigh
 URL:https://triangleonthecheap.com/tours-north-carolina-state-capitol/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e8d32722144ea128b998fa58@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:1b33707c623b2a28a0211cb5@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:The Witch's Haunted Barn
 DTSTART;TZID=America/New_York:20261010T110000
 DTEND;TZID=America/New_York:20261010T190000
 DESCRIPTION:Cost: $13.00\nTime: 11:00 am to 7:00 pm\nLocation: Firefly Farm
- \, Hillsborough\nMore info: https://triangleonthecheap.com/witchs-haunted
- -barn-firefly-farm/\nSource: Triangle on the Cheap (Kids Events)
+ \, Hillsborough\nInfo: https://triangleonthecheap.com/witchs-haunted-barn
+ -firefly-farm/\nSource: Triangle on the Cheap
 LOCATION:Firefly Farm\, Hillsborough
 URL:https://triangleonthecheap.com/witchs-haunted-barn-firefly-farm/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4cc0804aa22ef5a0b6e5ef1d@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:285ae350f8509016d054e5fa@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Blessing of the Animals at Trinity Episcopal Church\, including foo
  d trucks\, music\, face painting\, more...
 DTSTART;TZID=America/New_York:20261010T120000
 DTEND;TZID=America/New_York:20261010T150000
 DESCRIPTION:Cost: FREE\nTime: 12:00 pm to 3:00 pm\nLocation: Trinity Episco
- pal Church\, Fuquay-Varina\nMore info: https://triangleonthecheap.com/ble
- ssing-of-the-animals-trinity-fuquay/\nSource: Triangle on the Cheap (Kids
-  Events)
+ pal Church\, Fuquay-Varina\nInfo: https://triangleonthecheap.com/blessing
+ -of-the-animals-trinity-fuquay/\nSource: Triangle on the Cheap
 LOCATION:Trinity Episcopal Church\, Fuquay-Varina
 URL:https://triangleonthecheap.com/blessing-of-the-animals-trinity-fuquay/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4778309276071906a89c6a49@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:1fa0c99061e6fea6bacefbf1@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Smithfield Oktoberfest
 DTSTART;TZID=America/New_York:20261010T120000
 DTEND;TZID=America/New_York:20261010T160000
 DESCRIPTION:Cost: FREE\nTime: 12:00 pm to 4:00 pm\nLocation: Historic Downt
- own Smithfield\nMore info: https://triangleonthecheap.com/smithfield-okto
- berfest/\nSource: Triangle on the Cheap (Kids Events)
+ own Smithfield\nInfo: https://triangleonthecheap.com/smithfield-oktoberfe
+ st/\nSource: Triangle on the Cheap
 LOCATION:Historic Downtown Smithfield
 URL:https://triangleonthecheap.com/smithfield-oktoberfest/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a952c318e25c20a63fcc15af@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:fcbd0fae20b4126c7d5d160a@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Triangle Barkitecture -- pet architecture and design competition
 DTSTART;TZID=America/New_York:20261010T130000
 DTEND;TZID=America/New_York:20261010T170000
 DESCRIPTION:Cost: FREE\nTime: 1:00 pm to 5:00 pm\nLocation: Downtown Cary P
- ark\nMore info: https://triangleonthecheap.com/triangle-barkitecture/\nSo
- urce: Triangle on the Cheap (Kids Events)
+ ark\nInfo: https://triangleonthecheap.com/triangle-barkitecture/\nSource:
+  Triangle on the Cheap
 LOCATION:Downtown Cary Park
 URL:https://triangleonthecheap.com/triangle-barkitecture/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:505992d767597ac1cf54e515@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:87a2aef253953735f89a42b3@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Free pumpkin painting (with purchase of pumpkin)
 DTSTART;TZID=America/New_York:20261010T130000
 DTEND;TZID=America/New_York:20261010T160000
 DESCRIPTION:Time: 1:00 pm to 4:00 pm\nLocation: For Garden’s Sake\, Durha
- m\nMore info: https://triangleonthecheap.com/for-gardens-sake-garden/\nSo
- urce: Triangle on the Cheap (Kids Events)
+ m\nInfo: https://triangleonthecheap.com/for-gardens-sake-garden/\nSource:
+  Triangle on the Cheap
 LOCATION:For Garden’s Sake\, Durham
 URL:https://triangleonthecheap.com/for-gardens-sake-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2253a1f3f2714aecb993bd0b@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:e115b5c4b5b50f6000825ae8@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Track 'n' Treat Halloween Train Ride (5 start times)
 DTSTART;TZID=America/New_York:20261010T141500
 DTEND;TZID=America/New_York:20261010T204500
 DESCRIPTION:Cost: $18.61\nTime: 2:15 pm to 8:45 pm\nLocation: New Hope Vall
- ey Railway\nMore info: https://triangleonthecheap.com/track-or-treat-hall
- oween-express/\nSource: Triangle on the Cheap (Kids Events)
+ ey Railway\nInfo: https://triangleonthecheap.com/track-or-treat-halloween
+ -express/\nSource: Triangle on the Cheap
 LOCATION:New Hope Valley Railway
 URL:https://triangleonthecheap.com/track-or-treat-halloween-express/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ef9343d6ae42532cae171ffa@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:6c0e803b1034dd478e689d91@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261011T090000
 DTEND;TZID=America/New_York:20261011T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bfcb1032a72e60a74aa1a3e8@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:45dd4f377924f8ab291f87b3@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Bazaar Craft & Art Market in Carrboro
 DTSTART;TZID=America/New_York:20261011T120000
 DTEND;TZID=America/New_York:20261011T170000
 DESCRIPTION:Cost: FREE\nTime: 12:00 pm to 5:00 pm\nLocation: Carrboro Town 
- Commons\nMore info: https://triangleonthecheap.com/bazaar-craft-art-marke
- t-carrboro/\nSource: Triangle on the Cheap (Kids Events)
+ Commons\nInfo: https://triangleonthecheap.com/bazaar-craft-art-market-car
+ rboro/\nSource: Triangle on the Cheap
 LOCATION:Carrboro Town Commons
 URL:https://triangleonthecheap.com/bazaar-craft-art-market-carrboro/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5dce7ab6f12e1fc6365f4def@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:7f8c5f59180872810aa3534b@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Free pumpkin painting (with purchase of pumpkin)
 DTSTART;TZID=America/New_York:20261011T130000
 DTEND;TZID=America/New_York:20261011T160000
 DESCRIPTION:Time: 1:00 pm to 4:00 pm\nLocation: For Garden’s Sake\, Durha
- m\nMore info: https://triangleonthecheap.com/for-gardens-sake-garden/\nSo
- urce: Triangle on the Cheap (Kids Events)
+ m\nInfo: https://triangleonthecheap.com/for-gardens-sake-garden/\nSource:
+  Triangle on the Cheap
 LOCATION:For Garden’s Sake\, Durham
 URL:https://triangleonthecheap.com/for-gardens-sake-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3cc8016baee420c6a325e1a7@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:8744b73f7065822809aa5e90@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Total Tot Time: free play program for kids up to age 5
 DTSTART;TZID=America/New_York:20261012T100000
 DTEND;TZID=America/New_York:20261012T120000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 12:00 pm\nLocation: W.D. Hill Rec
- reation Center\, Durham\nMore info: https://triangleonthecheap.com/total-
- tot-time/\nSource: Triangle on the Cheap (Kids Events)
+ reation Center\, Durham\nInfo: https://triangleonthecheap.com/total-tot-t
+ ime/\nSource: Triangle on the Cheap
 LOCATION:W.D. Hill Recreation Center\, Durham
 URL:https://triangleonthecheap.com/total-tot-time/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bb623fddfb848003c4a12ff4@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:93b499deb9760fca550d8b1b@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261013T090000
 DTEND;TZID=America/New_York:20261013T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d29d63792cee9a75e2c56274@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:a3ee64e2a2bfec580a5a53da@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:North Hills Kids: Bubbles & Books
 DTSTART;TZID=America/New_York:20261013T093000
 DTEND;TZID=America/New_York:20261013T110000
 DESCRIPTION:Cost: FREE\nTime: 9:30 am to 11:00 am\nLocation: The Commons at
-  North Hills\, Raleigh\nMore info: https://triangleonthecheap.com/north-h
- ills-kids/\nSource: Triangle on the Cheap (Kids Events)
+  North Hills\, Raleigh\nInfo: https://triangleonthecheap.com/north-hills-
+ kids/\nSource: Triangle on the Cheap
 LOCATION:The Commons at North Hills\, Raleigh
 URL:https://triangleonthecheap.com/north-hills-kids/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:27417bed61a079a893316901@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:f81e91cd9b24c743dfc6e66d@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261014T090000
 DTEND;TZID=America/New_York:20261014T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d3f767d4a8eb53e43e21e636@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:f22a97e9f803f15280f8a41e@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Total Tot Time: free play program for kids up to age 5
 DTSTART;TZID=America/New_York:20261014T100000
 DTEND;TZID=America/New_York:20261014T120000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 12:00 pm\nLocation: W.D. Hill Rec
- reation Center\, Durham\nMore info: https://triangleonthecheap.com/total-
- tot-time/\nSource: Triangle on the Cheap (Kids Events)
+ reation Center\, Durham\nInfo: https://triangleonthecheap.com/total-tot-t
+ ime/\nSource: Triangle on the Cheap
 LOCATION:W.D. Hill Recreation Center\, Durham
 URL:https://triangleonthecheap.com/total-tot-time/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:51c87791e656292989c59552@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:8b24d3b27a8be3cd3590ce8c@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Market Bunch Kids' Activities
 DTSTART;TZID=America/New_York:20261014T150000
 DTEND;TZID=America/New_York:20261014T180000
 DESCRIPTION:Cost: FREE\nTime: 3:00 pm to 6:00 pm\nLocation: Carrboro Farmer
- s’ Market\nMore info: https://triangleonthecheap.com/carrboro-farmers-m
- arket/\nSource: Triangle on the Cheap (Kids Events)
+ s’ Market\nInfo: https://triangleonthecheap.com/carrboro-farmers-market
+ /\nSource: Triangle on the Cheap
 LOCATION:Carrboro Farmers’ Market
 URL:https://triangleonthecheap.com/carrboro-farmers-market/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:136abf3edf02079389aac3bb@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:4d1d08845e754c1554b00665@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Raleigh Drum Circle and Hoop Jam
 DTSTART;TZID=America/New_York:20261014T190000
 DTEND;TZID=America/New_York:20261014T203000
 DESCRIPTION:Cost: FREE\nTime: 7:00 pm to 8:30 pm\nLocation: Pullen Park\, R
- aleigh\nMore info: https://triangleonthecheap.com/raleigh-drum-circle-hoo
- p-jam/\nSource: Triangle on the Cheap (Kids Events)
+ aleigh\nInfo: https://triangleonthecheap.com/raleigh-drum-circle-hoop-jam
+ /\nSource: Triangle on the Cheap
 LOCATION:Pullen Park\, Raleigh
 URL:https://triangleonthecheap.com/raleigh-drum-circle-hoop-jam/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4da682872cdab6a2a731b7db@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:b1d04983b7c40f58065328cb@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261015T090000
 DTEND;TZID=America/New_York:20261015T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f28af0e483b3a4847735db3e@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:7b6281d6a558026af943c208@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261016T090000
 DTEND;TZID=America/New_York:20261016T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8a48094782e7a8ae9fec6075@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:d6f7e87c7ff983064f1f2dee@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:The Witch's Haunted Barn (No actor version)
 DTSTART;TZID=America/New_York:20261016T120000
 DTEND;TZID=America/New_York:20261016T170000
 DESCRIPTION:Cost: $13.00\nTime: 12:00 pm to 5:00 pm\nLocation: Firefly Farm
- \, Hillsborough\nMore info: https://triangleonthecheap.com/witchs-haunted
- -barn-firefly-farm/\nSource: Triangle on the Cheap (Kids Events)
+ \, Hillsborough\nInfo: https://triangleonthecheap.com/witchs-haunted-barn
+ -firefly-farm/\nSource: Triangle on the Cheap
 LOCATION:Firefly Farm\, Hillsborough
 URL:https://triangleonthecheap.com/witchs-haunted-barn-firefly-farm/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0b7d0e764e904cb8d3e3446e@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:ff476c88527014ec40698ded@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Love Local Fall Into Downtown Apex: Fall Harvest Night
 DTSTART;TZID=America/New_York:20261016T170000
 DTEND;TZID=America/New_York:20261016T200000
 DESCRIPTION:Cost: FREE\nTime: 5:00 pm to 8:00 pm\nLocation: Apex Historic D
- epot\nMore info: https://triangleonthecheap.com/love-local-fall-into-down
- town-apex/\nSource: Triangle on the Cheap (Kids Events)
+ epot\nInfo: https://triangleonthecheap.com/love-local-fall-into-downtown-
+ apex/\nSource: Triangle on the Cheap
 LOCATION:Apex Historic Depot
 URL:https://triangleonthecheap.com/love-local-fall-into-downtown-apex/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:beb61169d60dd11919a15c70@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:f07a5e919c7f1eb55e409d84@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Town of Garner Diwali Celebration
 DTSTART;TZID=America/New_York:20261016T170000
 DTEND;TZID=America/New_York:20261016T210000
 DESCRIPTION:Cost: FREE\nTime: 5:00 pm to 9:00 pm\nLocation: Garner Recreati
- on Center\nMore info: https://triangleonthecheap.com/garner-diwali/\nSour
- ce: Triangle on the Cheap (Kids Events)
+ on Center\nInfo: https://triangleonthecheap.com/garner-diwali/\nSource: T
+ riangle on the Cheap
 LOCATION:Garner Recreation Center
 URL:https://triangleonthecheap.com/garner-diwali/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4520c49344f41e22a0393904@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:ba5a327b06f354f7bd233e57@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Front Porch Friday at Haven Farm
 DTSTART;TZID=America/New_York:20261016T180000
 DTEND;TZID=America/New_York:20261016T220000
 DESCRIPTION:Cost: FREE\nTime: 6:00 pm to 10:00 pm\nLocation: Haven Farm\, K
- nightdale\nMore info: https://triangleonthecheap.com/front-porch-fridays-
- haven-farm/\nSource: Triangle on the Cheap (Kids Events)
+ nightdale\nInfo: https://triangleonthecheap.com/front-porch-fridays-haven
+ -farm/\nSource: Triangle on the Cheap
 LOCATION:Haven Farm\, Knightdale
 URL:https://triangleonthecheap.com/front-porch-fridays-haven-farm/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4de38e72d6a2701317b9d4be@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:d3b9a830d3c153665c413ea6@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Haunted Trolley at Mordecai Park (3 tours)
 DTSTART;TZID=America/New_York:20261016T190000
 DTEND;TZID=America/New_York:20261016T220000
 DESCRIPTION:Cost: $15.00\nTime: 7:00 pm to 10:00 pm\nLocation: Mordecai His
- toric Park\, Raleigh\nMore info: https://triangleonthecheap.com/halloween
- -events-mordecai-historic-park/\nSource: Triangle on the Cheap (Kids Even
- ts)
+ toric Park\, Raleigh\nInfo: https://triangleonthecheap.com/halloween-even
+ ts-mordecai-historic-park/\nSource: Triangle on the Cheap
 LOCATION:Mordecai Historic Park\, Raleigh
 URL:https://triangleonthecheap.com/halloween-events-mordecai-historic-park/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0987465766cf98cfb758423f@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:cb5239bb87dee62bd29ba6c2@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261017T090000
 DTEND;TZID=America/New_York:20261017T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c25b5534e51efdd4a784c909@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:5901df03cf2741268add88b5@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Halloween Boo Bash in Downtown Wake Forest
 DTSTART;TZID=America/New_York:20261017T100000
 DTEND;TZID=America/New_York:20261017T130000
 DESCRIPTION:Cost: FREE\nTime: 10:00 am to 1:00 pm\nLocation: Downtown Wake 
- Forest\nMore info: https://triangleonthecheap.com/halloween-spooktacular-
- in-wake-forest/\nSource: Triangle on the Cheap (Kids Events)
+ Forest\nInfo: https://triangleonthecheap.com/halloween-spooktacular-in-wa
+ ke-forest/\nSource: Triangle on the Cheap
 LOCATION:Downtown Wake Forest
 URL:https://triangleonthecheap.com/halloween-spooktacular-in-wake-forest/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:68bb5c16415ad7911f6df18b@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:34898c8ee90b2cf317ee33fd@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Open Farm at Sunrise Community Farm Center
 DTSTART;TZID=America/New_York:20261017T100000
 DTEND;TZID=America/New_York:20261017T170000
 DESCRIPTION:Cost: $8.00\nTime: 10:00 am to 5:00 pm\nLocation: Sunrise Commu
- nity Farm Center\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /open-farm-sunrise-community-farm-center/\nSource: Triangle on the Cheap 
- (Kids Events)
+ nity Farm Center\, Chapel Hill\nInfo: https://triangleonthecheap.com/open
+ -farm-sunrise-community-farm-center/\nSource: Triangle on the Cheap
 LOCATION:Sunrise Community Farm Center\, Chapel Hill
 URL:https://triangleonthecheap.com/open-farm-sunrise-community-farm-center/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3e81a27ec1445095f9e5e87e@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:4f6bf8787b8e57cf6d24df42@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Free Guided Tour of N.C. State Capitol (three start times: 11 a.m.\
  , 1 p.m.\, and 3 p.m.)
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T160000
 DESCRIPTION:Cost: FREE\nTime: 11:00 am to 4:00 pm\nLocation: North Carolina
-  State Capitol\, Raleigh\nMore info: https://triangleonthecheap.com/tours
- -north-carolina-state-capitol/\nSource: Triangle on the Cheap (Kids Event
- s)
+  State Capitol\, Raleigh\nInfo: https://triangleonthecheap.com/tours-nort
+ h-carolina-state-capitol/\nSource: Triangle on the Cheap
 LOCATION:North Carolina State Capitol\, Raleigh
 URL:https://triangleonthecheap.com/tours-north-carolina-state-capitol/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:25d608de4a7ee3ce03de024e@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:d53678bec72a73e957c17cf8@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:The Witch's Haunted Barn
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T190000
 DESCRIPTION:Cost: $13.00\nTime: 11:00 am to 7:00 pm\nLocation: Firefly Farm
- \, Hillsborough\nMore info: https://triangleonthecheap.com/witchs-haunted
- -barn-firefly-farm/\nSource: Triangle on the Cheap (Kids Events)
+ \, Hillsborough\nInfo: https://triangleonthecheap.com/witchs-haunted-barn
+ -firefly-farm/\nSource: Triangle on the Cheap
 LOCATION:Firefly Farm\, Hillsborough
 URL:https://triangleonthecheap.com/witchs-haunted-barn-firefly-farm/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2c185c19438255790b9edf0c@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:c3b77e89db56546831c7ad7d@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sixth Annual Bullhorn Fest music festival in Durham (suggested dona
  tion: $15-25)
 DTSTART;TZID=America/New_York:20261017T123000
 DTEND;TZID=America/New_York:20261017T213000
-DESCRIPTION:Time: 12:30 pm to 9:30 pm\nLocation: Shadowbox Studio\nMore inf
- o: https://triangleonthecheap.com/bullhorn-fest/\nSource: Triangle on the
-  Cheap (Kids Events)
+DESCRIPTION:Time: 12:30 pm to 9:30 pm\nLocation: Shadowbox Studio\nInfo: ht
+ tps://triangleonthecheap.com/bullhorn-fest/\nSource: Triangle on the Chea
+ p
 LOCATION:Shadowbox Studio
 URL:https://triangleonthecheap.com/bullhorn-fest/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9607909740d8966fe1ef1a4a@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:753aef5831948968c62ffaee@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Free pumpkin painting (with purchase of pumpkin)
 DTSTART;TZID=America/New_York:20261017T130000
 DTEND;TZID=America/New_York:20261017T160000
 DESCRIPTION:Time: 1:00 pm to 4:00 pm\nLocation: For Garden’s Sake\, Durha
- m\nMore info: https://triangleonthecheap.com/for-gardens-sake-garden/\nSo
- urce: Triangle on the Cheap (Kids Events)
+ m\nInfo: https://triangleonthecheap.com/for-gardens-sake-garden/\nSource:
+  Triangle on the Cheap
 LOCATION:For Garden’s Sake\, Durham
 URL:https://triangleonthecheap.com/for-gardens-sake-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3c0dae68ae123bc31b602665@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:c3ff969650efa0eaee37ba8a@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Track 'n' Treat Halloween Train Ride (5 start times)
 DTSTART;TZID=America/New_York:20261017T141500
 DTEND;TZID=America/New_York:20261017T204500
 DESCRIPTION:Cost: $18.61\nTime: 2:15 pm to 8:45 pm\nLocation: New Hope Vall
- ey Railway\nMore info: https://triangleonthecheap.com/track-or-treat-hall
- oween-express/\nSource: Triangle on the Cheap (Kids Events)
+ ey Railway\nInfo: https://triangleonthecheap.com/track-or-treat-halloween
+ -express/\nSource: Triangle on the Cheap
 LOCATION:New Hope Valley Railway
 URL:https://triangleonthecheap.com/track-or-treat-halloween-express/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8e8b33fa4d2e6f90a7deb820@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:c78ef858fafe55af018b8c74@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Bull City BOOs Fest
 DTSTART;TZID=America/New_York:20261017T160000
 DTEND;TZID=America/New_York:20261017T230000
 DESCRIPTION:Cost: $16.11-12.51\nTime: 4:00 pm to 11:00 pm\nLocation: Durham
-  Central Park\nMore info: https://triangleonthecheap.com/bull-city-boos-f
- est/\nSource: Triangle on the Cheap (Kids Events)
+  Central Park\nInfo: https://triangleonthecheap.com/bull-city-boos-fest/\
+ nSource: Triangle on the Cheap
 LOCATION:Durham Central Park
 URL:https://triangleonthecheap.com/bull-city-boos-fest/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:61a0238d7b011a4894daa0dd@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:d9cae54a22db12a699077d60@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Haunted Trolley at Mordecai Park (3 tours)
 DTSTART;TZID=America/New_York:20261017T190000
 DTEND;TZID=America/New_York:20261017T220000
 DESCRIPTION:Cost: $15.00\nTime: 7:00 pm to 10:00 pm\nLocation: Mordecai His
- toric Park\, Raleigh\nMore info: https://triangleonthecheap.com/halloween
- -events-mordecai-historic-park/\nSource: Triangle on the Cheap (Kids Even
- ts)
+ toric Park\, Raleigh\nInfo: https://triangleonthecheap.com/halloween-even
+ ts-mordecai-historic-park/\nSource: Triangle on the Cheap
 LOCATION:Mordecai Historic Park\, Raleigh
 URL:https://triangleonthecheap.com/halloween-events-mordecai-historic-park/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e7fa88f1b2862d775ab30483@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:56f022db33409a03f821d3db@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261018T090000
 DTEND;TZID=America/New_York:20261018T170000
 DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nMore info: https://triangleonthecheap.com
- /sculpture-in-the-garden/\nSource: Triangle on the Cheap (Kids Events)
+ Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
+ pture-in-the-garden/\nSource: Triangle on the Cheap
 LOCATION:North Carolina Botanical Garden\, Chapel Hill
 URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ee046ad9cbdb76931a911f21@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:53b7c036c248b92beaf7af16@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Free pumpkin painting (with purchase of pumpkin)
 DTSTART;TZID=America/New_York:20261018T130000
 DTEND;TZID=America/New_York:20261018T160000
 DESCRIPTION:Time: 1:00 pm to 4:00 pm\nLocation: For Garden’s Sake\, Durha
- m\nMore info: https://triangleonthecheap.com/for-gardens-sake-garden/\nSo
- urce: Triangle on the Cheap (Kids Events)
+ m\nInfo: https://triangleonthecheap.com/for-gardens-sake-garden/\nSource:
+  Triangle on the Cheap
 LOCATION:For Garden’s Sake\, Durham
 URL:https://triangleonthecheap.com/for-gardens-sake-garden/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:98ca265c360d7455fac2edc9@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:e9d5028c7181f6807b190595@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Instrument Petting Zoo
 DTSTART;TZID=America/New_York:20261018T140000
 DTEND;TZID=America/New_York:20261018T160000
 DESCRIPTION:Cost: FREE\nTime: 2:00 pm to 4:00 pm\nLocation: Gipson Play Pla
- za\, Dix Park\, Raleigh\nMore info: https://triangleonthecheap.com/instru
- ment-petting-zoo-dix-park/\nSource: Triangle on the Cheap (Kids Events)
+ za\, Dix Park\, Raleigh\nInfo: https://triangleonthecheap.com/instrument-
+ petting-zoo-dix-park/\nSource: Triangle on the Cheap
 LOCATION:Gipson Play Plaza\, Dix Park\, Raleigh
 URL:https://triangleonthecheap.com/instrument-petting-zoo-dix-park/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b0c1ff42e6f0a4072c0ef145@triangleonthecheap.com
-DTSTAMP:20260920T003517Z
+UID:e7e0156ac0a4fe0efac24da2@triangleonthecheap.com
+DTSTAMP:20260920T010336Z
 SUMMARY:Hillsborough Street Trick or Treat
 DTSTART;TZID=America/New_York:20261018T140000
 DTEND;TZID=America/New_York:20261018T170000
 DESCRIPTION:Cost: FREE\nTime: 2:00 pm to 5:00 pm\nLocation: Hillsborough St
- reet\, Raleigh\nMore info: https://triangleonthecheap.com/live-it-up-hill
- sborough-halloween/\nSource: Triangle on the Cheap (Kids Events)
+ reet\, Raleigh\nInfo: https://triangleonthecheap.com/live-it-up-hillsboro
+ ugh-halloween/\nSource: Triangle on the Cheap
 LOCATION:Hillsborough Street\, Raleigh
 URL:https://triangleonthecheap.com/live-it-up-hillsborough-halloween/
-CATEGORIES:Kids,Family,Community
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
