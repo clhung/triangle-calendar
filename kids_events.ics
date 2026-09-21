@@ -25,269 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e68e4418a4bfad2373bbbada@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:Asia Fest\, including dragon boat races
-DTSTART;TZID=America/New_York:20260919T090000
-DTEND;TZID=America/New_York:20260919T170000
-DESCRIPTION:Cost: $0-12.00\nTime: 9:00 am to 5:00 pm\nLocation: Koka Booth 
- Amphitheatre\nInfo: https://triangleonthecheap.com/dragon-boat-festival-c
- ary/\nSource: Triangle on the Cheap
-LOCATION:Koka Booth Amphitheatre
-URL:https://triangleonthecheap.com/dragon-boat-festival-cary/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:5440bd29fe278f33b1701cca@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
-DTSTART;TZID=America/New_York:20260919T090000
-DTEND;TZID=America/New_York:20260919T170000
-DESCRIPTION:Cost: FREE\nTime: 9:00 am to 5:00 am\nLocation: North Carolina 
- Botanical Garden\, Chapel Hill\nInfo: https://triangleonthecheap.com/scul
- pture-in-the-garden/\nSource: Triangle on the Cheap
-LOCATION:North Carolina Botanical Garden\, Chapel Hill
-URL:https://triangleonthecheap.com/sculpture-in-the-garden/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:79d6a8a7cc33984d6140ff7f@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:DISCover Ultimate Day: Intro to Ultimate for Youth
-DTSTART;TZID=America/New_York:20260919T093000
-DTEND;TZID=America/New_York:20260919T113000
-DESCRIPTION:Cost: FREE\nTime: 9:30 am to 11:30 am\nLocation: Mills Park\, C
- ary\nInfo: https://triangleonthecheap.com/discover-ultimate-day/\nSource:
-  Triangle on the Cheap
-LOCATION:Mills Park\, Cary
-URL:https://triangleonthecheap.com/discover-ultimate-day/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:e12aef751427d896c220bc4e@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:DISCover Ultimate Day: Intro to Ultimate for Youth
-DTSTART;TZID=America/New_York:20260919T100000
-DTEND;TZID=America/New_York:20260919T120000
-DESCRIPTION:Cost: FREE\nTime: 10:00 am to 12:00 pm\nLocation: Piney Wood Pa
- rk\, Durham\nInfo: https://triangleonthecheap.com/discover-ultimate-day/\
- nSource: Triangle on the Cheap
-LOCATION:Piney Wood Park\, Durham
-URL:https://triangleonthecheap.com/discover-ultimate-day/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:5c515cdac4fff5657be0dd65@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:CenterFest Downtown Durham Arts Festival
-DTSTART;TZID=America/New_York:20260919T100000
-DTEND;TZID=America/New_York:20260919T180000
-DESCRIPTION:Cost: FREE\nTime: 10:00 am to 6:00 pm\nLocation: CCB Plaza\, Du
- rham\nInfo: https://triangleonthecheap.com/centerfest-arts-festival-durha
- m/\nSource: Triangle on the Cheap
-LOCATION:CCB Plaza\, Durham
-URL:https://triangleonthecheap.com/centerfest-arts-festival-durham/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:0ef9b66acb27b77f665c488a@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:Hillsborough Hog Day
-DTSTART;TZID=America/New_York:20260919T100000
-DTEND;TZID=America/New_York:20260919T180000
-DESCRIPTION:Cost: FREE\nTime: 10:00 am to 6:00 pm\nLocation: River Park\, H
- illsborough\nInfo: https://triangleonthecheap.com/hillsborough-hog-day/\n
- Source: Triangle on the Cheap
-LOCATION:River Park\, Hillsborough
-URL:https://triangleonthecheap.com/hillsborough-hog-day/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bebccc2f490bcfba4ab39d68@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:NC Museum of Natural Science's BugFest
-DTSTART;TZID=America/New_York:20260919T100000
-DTEND;TZID=America/New_York:20260919T190000
-DESCRIPTION:Cost: FREE\nTime: 10:00 am to 7:00 pm\nLocation: North Carolina
-  Museum of Natural Sciences\, Raleigh\nInfo: https://triangleonthecheap.c
- om/bugfest-nc-museum-natural-sciences/\nSource: Triangle on the Cheap
-LOCATION:North Carolina Museum of Natural Sciences\, Raleigh
-URL:https://triangleonthecheap.com/bugfest-nc-museum-natural-sciences/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:abebe2a184f1bc2e9814794b@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:Grand Opening Weekend of Juliet Books
-DTSTART;TZID=America/New_York:20260919T100000
-DTEND;TZID=America/New_York:20260919T190000
-DESCRIPTION:Cost: FREE\nTime: 10:00 am to 7:00 pm\nLocation: Juliet Books\,
-  Cary\nInfo: https://triangleonthecheap.com/juliet-books/\nSource: Triang
- le on the Cheap
-LOCATION:Juliet Books\, Cary
-URL:https://triangleonthecheap.com/juliet-books/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:9676cd6935c4c3b39b6e2f3a@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:Hobbit Fest: Movie marathon and Lord of the Ring activities
-DTSTART;TZID=America/New_York:20260919T100000
-DTEND;TZID=America/New_York:20260919T200000
-DESCRIPTION:Cost: FREE\nTime: 10:00 am to 8:00 pm\nLocation: Moore Square\,
-  Raleigh\nInfo: https://triangleonthecheap.com/hobbit-fest/\nSource: Tria
- ngle on the Cheap
-LOCATION:Moore Square\, Raleigh
-URL:https://triangleonthecheap.com/hobbit-fest/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:0855a4bbcd8d8a3bd65bdc60@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:Open Farm at Sunrise Community Farm Center
-DTSTART;TZID=America/New_York:20260919T100000
-DTEND;TZID=America/New_York:20260919T170000
-DESCRIPTION:Cost: $8.00\nTime: 10:00 am to 5:00 pm\nLocation: Sunrise Commu
- nity Farm Center\, Chapel Hill\nInfo: https://triangleonthecheap.com/open
- -farm-sunrise-community-farm-center/\nSource: Triangle on the Cheap
-LOCATION:Sunrise Community Farm Center\, Chapel Hill
-URL:https://triangleonthecheap.com/open-farm-sunrise-community-farm-center/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:77a960c29ece4c5d208e37a8@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:Cary Farmers Fall Festival
-DTSTART;TZID=America/New_York:20260919T110000
-DTEND;TZID=America/New_York:20260919T160000
-DESCRIPTION:Cost: FREE\nTime: 11:00 am to 4:00 pm\nLocation: Downtown Cary 
- Park\nInfo: https://triangleonthecheap.com/cary-downtown-farmers-market/\
- nSource: Triangle on the Cheap
-LOCATION:Downtown Cary Park
-URL:https://triangleonthecheap.com/cary-downtown-farmers-market/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:ef51a8bfc5144f510a3045e6@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:Festa Italiana in Apex
-DTSTART;TZID=America/New_York:20260919T110000
-DTEND;TZID=America/New_York:20260919T190000
-DESCRIPTION:Cost: FREE\nTime: 11:00 am to 7:00 pm\nLocation: Apex Town Hall
- \nInfo: https://triangleonthecheap.com/festa-italiana-raleigh/\nSource: T
- riangle on the Cheap
-LOCATION:Apex Town Hall
-URL:https://triangleonthecheap.com/festa-italiana-raleigh/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:f29f894287a6600a14ecb53d@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:Taste of Lebanon Festival
-DTSTART;TZID=America/New_York:20260919T110000
-DTEND;TZID=America/New_York:20260919T220000
-DESCRIPTION:Cost: FREE\nTime: 11:00 am to 10:00 pm\nLocation: Saint Sharbel
-  Church\nInfo: https://triangleonthecheap.com/taste-of-lebanon-festival/\
- nSource: Triangle on the Cheap
-LOCATION:Saint Sharbel Church
-URL:https://triangleonthecheap.com/taste-of-lebanon-festival/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:11607a2b72865871ade3984a@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:Free Guided Tour of N.C. State Capitol (three start times: 11 a.m.\
- , 1 p.m.\, and 3 p.m.)
-DTSTART;TZID=America/New_York:20260919T110000
-DTEND;TZID=America/New_York:20260919T160000
-DESCRIPTION:Cost: FREE\nTime: 11:00 am to 4:00 pm\nLocation: North Carolina
-  State Capitol\, Raleigh\nInfo: https://triangleonthecheap.com/tours-nort
- h-carolina-state-capitol/\nSource: Triangle on the Cheap
-LOCATION:North Carolina State Capitol\, Raleigh
-URL:https://triangleonthecheap.com/tours-north-carolina-state-capitol/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:51ad3d675acc3f9f9e924d21@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:Come Out and Play sculpture show
-DTSTART;TZID=America/New_York:20260919T120000
-DTEND;TZID=America/New_York:20260919T190000
-DESCRIPTION:Cost: FREE\nTime: 12:00 pm to 7:00 pm\nLocation: JimGin Farm\nI
- nfo: https://triangleonthecheap.com/come-play-sculpture-show/\nSource: Tr
- iangle on the Cheap
-LOCATION:JimGin Farm
-URL:https://triangleonthecheap.com/come-play-sculpture-show/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:132671245905ae05aefa9a1d@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:Good Neighbor Day in Wake Forest
-DTSTART;TZID=America/New_York:20260919T130000
-DTEND;TZID=America/New_York:20260919T160000
-DESCRIPTION:Cost: FREE\nTime: 1:00 pm to 4:00 pm\nLocation: E. Carroll Joyn
- er Park\, Wake Forest\nInfo: https://triangleonthecheap.com/wake-forest-g
- ood-neighbor-day/\nSource: Triangle on the Cheap
-LOCATION:E. Carroll Joyner Park\, Wake Forest
-URL:https://triangleonthecheap.com/wake-forest-good-neighbor-day/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:40cccdd0bf87e1eb2abbfb37@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:Gold and Gem Panning
-DTSTART;TZID=America/New_York:20260919T130000
-DTEND;TZID=America/New_York:20260919T160000
-DESCRIPTION:Cost: $15.00\nTime: 1:00 pm to 4:00 pm\nLocation: Hi-Wire Brewi
- ng at Golden Belt\, Durham\nInfo: https://triangleonthecheap.com/hi-wire-
- brewing-golden-belt/\nSource: Triangle on the Cheap
-LOCATION:Hi-Wire Brewing at Golden Belt\, Durham
-URL:https://triangleonthecheap.com/hi-wire-brewing-golden-belt/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:4a0245eac97b6fd529d2bbc7@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:Chapel Hill Soap Box Derby (free to watch)
-DTSTART;TZID=America/New_York:20260919T130000
-DTEND;TZID=America/New_York:20260919T180000
-DESCRIPTION:Cost: FREE\nTime: 1:00 pm to 6:00 pm\nLocation: Homestead Commu
- nity Park\, Chapel Hill\nInfo: https://triangleonthecheap.com/chapel-hill
- -soap-box-derby/\nSource: Triangle on the Cheap
-LOCATION:Homestead Community Park\, Chapel Hill
-URL:https://triangleonthecheap.com/chapel-hill-soap-box-derby/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:c8d916e72cc8646aac19351b@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:Free fencing class with Research Triangle Fencing
-DTSTART;TZID=America/New_York:20260919T150000
-DTEND;TZID=America/New_York:20260919T163000
-DESCRIPTION:Cost: FREE\nTime: 3:00 pm to 4:30 pm\nLocation: Research Triang
- le Fencing\nInfo: https://triangleonthecheap.com/free-fencing-class-durha
- m/\nSource: Triangle on the Cheap
-LOCATION:Research Triangle Fencing
-URL:https://triangleonthecheap.com/free-fencing-class-durham/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:4be95aeac98e50074c523181@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
-SUMMARY:Morrisville International Festival
-DTSTART;TZID=America/New_York:20260919T160000
-DTEND;TZID=America/New_York:20260919T190000
-DESCRIPTION:Cost: FREE\nTime: 4:00 pm to 7:00 pm\nLocation: Indian Creek Pa
- rk in Morrisville\nInfo: https://triangleonthecheap.com/morrisville-inter
- national-festival/\nSource: Triangle on the Cheap
-LOCATION:Indian Creek Park in Morrisville
-URL:https://triangleonthecheap.com/morrisville-international-festival/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:8b5b6c98d2fe51b47ce126e6@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260920T090000
 DTEND;TZID=America/New_York:20260920T170000
@@ -300,7 +39,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6e6d751176a74a9c0dd3b65e@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:CenterFest Downtown Durham Arts Festival
 DTSTART;TZID=America/New_York:20260920T110000
 DTEND;TZID=America/New_York:20260920T170000
@@ -313,7 +52,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:95131bf912b76b288ab499e9@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Cervantino Bilingual Book Fair
 DTSTART;TZID=America/New_York:20260920T120000
 DTEND;TZID=America/New_York:20260920T153000
@@ -326,7 +65,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:12900068081b1adca7a8b9cd@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Taste of Lebanon Festival
 DTSTART;TZID=America/New_York:20260920T120000
 DTEND;TZID=America/New_York:20260920T180000
@@ -339,7 +78,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6d61add1742c6a00f0546732@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Mama Afrika Festival
 DTSTART;TZID=America/New_York:20260920T130000
 DTEND;TZID=America/New_York:20260920T180000
@@ -352,7 +91,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d7571cb3dcda90913190fe15@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Instrument Petting Zoo
 DTSTART;TZID=America/New_York:20260920T140000
 DTEND;TZID=America/New_York:20260920T160000
@@ -365,7 +104,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1c95306e12b55f23842d9971@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Black August Book Drive's Really Free Book Fair
 DTSTART;TZID=America/New_York:20260920T140000
 DTEND;TZID=America/New_York:20260920T180000
@@ -378,7 +117,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2e9f12e5e7972094439b5da6@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Family Day
 DTSTART;TZID=America/New_York:20260920T140000
 DTEND;TZID=America/New_York:20260920T200000
@@ -391,7 +130,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a55675d5201cc41f3007acda@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:3rd Annual "Love Your Falls Lake" Special Event
 DTSTART;TZID=America/New_York:20260921T100000
 DTEND;TZID=America/New_York:20260921T140000
@@ -404,7 +143,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9c86854f7e20a7670a9ab760@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Total Tot Time: free play program for kids up to age 5
 DTSTART;TZID=America/New_York:20260921T100000
 DTEND;TZID=America/New_York:20260921T120000
@@ -417,7 +156,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4558baf7da99b4834158c7b7@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260922T090000
 DTEND;TZID=America/New_York:20260922T170000
@@ -430,7 +169,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:22404659903a015c86d5fb7d@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:North Hills Kids: Autumn Adventures
 DTSTART;TZID=America/New_York:20260922T093000
 DTEND;TZID=America/New_York:20260922T110000
@@ -443,7 +182,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1f43b03552211f6ca8143009@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Durham Community Day at Museum of Life + Science: free admission fo
  r Durham County residents
 DTSTART;TZID=America/New_York:20260922T100000
@@ -457,7 +196,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3d5297b52ef7e1c01960bd75@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Swift Night Out on Rooftop of The Durham Hotel
 DTSTART;TZID=America/New_York:20260922T183000
 DTEND;TZID=America/New_York:20260922T210000
@@ -470,7 +209,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ec2cdc9653749bf794c8d9c5@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260923T090000
 DTEND;TZID=America/New_York:20260923T170000
@@ -483,7 +222,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:507346dee98c0d2b51216f09@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Total Tot Time: free play program for kids up to age 5
 DTSTART;TZID=America/New_York:20260923T100000
 DTEND;TZID=America/New_York:20260923T120000
@@ -496,7 +235,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0d6950230d9cae67c8e97498@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Market Bunch Kids' Activities
 DTSTART;TZID=America/New_York:20260923T150000
 DTEND;TZID=America/New_York:20260923T180000
@@ -509,7 +248,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e8be2e968bc770eac4d219ab@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Math Makers: Free playful math exploration
 DTSTART;TZID=America/New_York:20260923T160000
 DTEND;TZID=America/New_York:20260923T180000
@@ -522,7 +261,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:afa896b2cbdb40edb8a49920@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Free Sensory Friendly Playtime and Movie at Marbles Kids Museum
 DTSTART;TZID=America/New_York:20260923T170000
 DTEND;TZID=America/New_York:20260923T193000
@@ -535,7 +274,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:26f22e398f99bb034936f17e@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sunset Music Series at Waverly Place: North Tower
 DTSTART;TZID=America/New_York:20260923T173000
 DTEND;TZID=America/New_York:20260923T203000
@@ -548,7 +287,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cef0c04ee4a6828c4f45debb@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Raleigh Drum Circle and Hoop Jam
 DTSTART;TZID=America/New_York:20260923T190000
 DTEND;TZID=America/New_York:20260923T203000
@@ -561,7 +300,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:56856b7753498fae79686795@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Movie Night Under the Stars: Monsters Inc
 DTSTART;TZID=America/New_York:20260923T193000
 DTEND;TZID=America/New_York:20260923T213000
@@ -574,7 +313,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c351f671e619ef8d9f63fe6a@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260924T090000
 DTEND;TZID=America/New_York:20260924T170000
@@ -587,7 +326,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5c6e148bfe9d760b1580f06d@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Benson Mule Days
 DTSTART;TZID=America/New_York:20260924T150000
 DTEND;TZID=America/New_York:20260924T230000
@@ -600,7 +339,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0bb5012e182759b6ea0f4ebb@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Benson Mule Days
 DTSTART;TZID=America/New_York:20260925T090000
 DTEND;TZID=America/New_York:20260925T230000
@@ -613,7 +352,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e0754fbf0d5b863c7e680842@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260925T090000
 DTEND;TZID=America/New_York:20260925T170000
@@ -626,7 +365,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:35c93308810e7b6882ed8201@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Garden Storytime
 DTSTART;TZID=America/New_York:20260925T100000
 DTEND;TZID=America/New_York:20260925T110000
@@ -639,7 +378,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:414b3721f0764a37fe28e794@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Last Fridays Makers Market
 DTSTART;TZID=America/New_York:20260925T173000
 DTEND;TZID=America/New_York:20260925T203000
@@ -652,7 +391,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5945c0364069593599738a5a@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Last Fridays Art Walk in Hillsborough
 DTSTART;TZID=America/New_York:20260925T173000
 DTEND;TZID=America/New_York:20260925T210000
@@ -665,7 +404,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c3176201afac38324501f8c4@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Front Porch Friday at Haven Farm
 DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T220000
@@ -678,7 +417,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:00c10fd4f8e919e761c0d29e@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Movie on the Lawn at Halifax Park: Toy Story 5
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T210000
@@ -691,7 +430,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:004ded4feb169c4f2a440875@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Movies Under the Stars in Chapel Hill: A Nightmare Before Christmas
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T213000
@@ -704,7 +443,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1e7a5e3042e825c966f2e544@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Hillsborough Street Makers & Music Series: Relay Relay
 DTSTART;TZID=America/New_York:20260925T183000
 DTEND;TZID=America/New_York:20260925T213000
@@ -717,7 +456,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:493fd188f91c6bf185c07943@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260926T090000
 DTEND;TZID=America/New_York:20260926T170000
@@ -730,7 +469,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:221b582644d14dee28bcf09a@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Benson Mule Days
 DTSTART;TZID=America/New_York:20260926T090000
 DTEND;TZID=America/New_York:20260926T230000
@@ -743,7 +482,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:45475183996ddb65673d9944@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Open Farm at Sunrise Community Farm Center
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T170000
@@ -756,7 +495,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:58c908a9c71849e05256a328@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:AppleFest at Weaver Street Market
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T130000
@@ -769,7 +508,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:16e24291de941cdeddbbe22b@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Raleigh Tamale Festival
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T140000
@@ -782,7 +521,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ccfb13ae27f0dff48c1cef4e@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Crooktober Family Fest
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T160000
@@ -795,7 +534,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:67f44dd7f361c2b3c3433a57@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:St. Eugene International Food & Music Festival
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T170000
@@ -809,7 +548,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:49d192ab492cf5a2dab38fa2@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sensory-Friendly Film Series: Kung Fu Panda
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T120000
@@ -823,7 +562,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:469256dace20cacbc6d85751@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Free Guided Tour of N.C. State Capitol (three start times: 11 a.m.\
  , 1 p.m.\, and 3 p.m.)
 DTSTART;TZID=America/New_York:20260926T110000
@@ -837,7 +576,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:92af2db023beaa2cd50729bd@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Mead Fest at Starrlight Mead: Like a Free mini-Renaissance Festival
 DTSTART;TZID=America/New_York:20260926T120000
 DTEND;TZID=America/New_York:20260926T170000
@@ -850,7 +589,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9c7217a4ec4df4172808f345@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Come Out and Play sculpture show
 DTSTART;TZID=America/New_York:20260926T120000
 DTEND;TZID=America/New_York:20260926T190000
@@ -863,7 +602,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d6d7e24ff3c8fbd53c379093@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Free pumpkin painting (with purchase of pumpkin)
 DTSTART;TZID=America/New_York:20260926T130000
 DTEND;TZID=America/New_York:20260926T160000
@@ -876,7 +615,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9a0da0e2b15c74611ca35598@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Free open house at Duke Lemur Center Museum of Natural History
 DTSTART;TZID=America/New_York:20260926T130000
 DTEND;TZID=America/New_York:20260926T160000
@@ -891,7 +630,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5d1cc735a77a2353eeb04baf@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Apex Latino Arts Festival
 DTSTART;TZID=America/New_York:20260926T150000
 DTEND;TZID=America/New_York:20260926T190000
@@ -904,7 +643,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:12a2a15e7a814f0bd1f914d5@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:The Common Market Durham's 3rd Anniversary Party
 DTSTART;TZID=America/New_York:20260926T150000
 DTEND;TZID=America/New_York:20260926T200000
@@ -917,7 +656,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:946f29b0ab85f0bfe533e520@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Durham Oktoberfest at Durham Central Park\, presented by The Glass 
  Jug Beer Lab
 DTSTART;TZID=America/New_York:20260926T150000
@@ -931,7 +670,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:05010aa46f6a552fab361b36@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Cars and Coffee Raleigh
 DTSTART;TZID=America/New_York:20260927T080000
 DTEND;TZID=America/New_York:20260927T110000
@@ -944,7 +683,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d98d348ce424e45727287c28@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260927T090000
 DTEND;TZID=America/New_York:20260927T170000
@@ -957,7 +696,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a4cb2e9bdef4488bb77c8127@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Benson Mule Days
 DTSTART;TZID=America/New_York:20260927T120000
 DTEND;TZID=America/New_York:20260927T170000
@@ -970,7 +709,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:62d4edc7f9799b6c2a650d5c@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Free pumpkin painting (with purchase of pumpkin)
 DTSTART;TZID=America/New_York:20260927T130000
 DTEND;TZID=America/New_York:20260927T160000
@@ -983,7 +722,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8fb14306b574fbb5a0625d81@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Kermes\, Community Fiesta
 DTSTART;TZID=America/New_York:20260927T150000
 DTEND;TZID=America/New_York:20260927T190000
@@ -996,7 +735,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:419ccec7f84f0762abf16d61@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Total Tot Time: free play program for kids up to age 5
 DTSTART;TZID=America/New_York:20260928T100000
 DTEND;TZID=America/New_York:20260928T120000
@@ -1009,7 +748,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9997c9d021fc57c704f0fa80@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260929T090000
 DTEND;TZID=America/New_York:20260929T170000
@@ -1022,7 +761,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a1f2239066bb721438632a6c@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:North Hills Kids: Fall\, Fun & Fitness
 DTSTART;TZID=America/New_York:20260929T093000
 DTEND;TZID=America/New_York:20260929T110000
@@ -1035,7 +774,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3da2d44ec4910ff6baba818b@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20260930T090000
 DTEND;TZID=America/New_York:20260930T170000
@@ -1048,7 +787,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f8bf30f290126b24c1ae52ea@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Total Tot Time: free play program for kids up to age 5
 DTSTART;TZID=America/New_York:20260930T100000
 DTEND;TZID=America/New_York:20260930T120000
@@ -1061,7 +800,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8729c70db8c0d3b72714e96e@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Market Bunch Kids' Activities
 DTSTART;TZID=America/New_York:20260930T150000
 DTEND;TZID=America/New_York:20260930T180000
@@ -1074,7 +813,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:12722b3b975585363c285c2b@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sunset Music Series at Waverly Place: 8 Track Minds
 DTSTART;TZID=America/New_York:20260930T173000
 DTEND;TZID=America/New_York:20260930T203000
@@ -1087,7 +826,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d2bb4ca37c82c34af40db880@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Raleigh Drum Circle and Hoop Jam
 DTSTART;TZID=America/New_York:20260930T190000
 DTEND;TZID=America/New_York:20260930T203000
@@ -1100,7 +839,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:89b85f71d397cdd6aedb7999@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261001T090000
 DTEND;TZID=America/New_York:20261001T170000
@@ -1113,7 +852,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:597e771478ff10221d1c4e9d@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Raleigh Wide Open Kickoff Celebration
 DTSTART;TZID=America/New_York:20261001T180000
 DTEND;TZID=America/New_York:20261001T210000
@@ -1126,7 +865,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f25d1d745633a05ac372a724@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261002T090000
 DTEND;TZID=America/New_York:20261002T170000
@@ -1139,7 +878,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d85f78824da2fdad6f7e1f4@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Raleigh Wide Open Music Festival
 DTSTART;TZID=America/New_York:20261002T150000
 DTEND;TZID=America/New_York:20261002T230000
@@ -1152,7 +891,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f2252213c589c916daf1babc@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Bands\, Bites and Boats Concert Series: Amanda Peach Duo
 DTSTART;TZID=America/New_York:20261002T170000
 DTEND;TZID=America/New_York:20261002T190000
@@ -1165,7 +904,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ae3befb9a8202b2a8ca60152@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:First Friday Market & Movie: Ghostbusters
 DTSTART;TZID=America/New_York:20261002T170000
 DTEND;TZID=America/New_York:20261002T210000
@@ -1178,7 +917,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7a6563c7f541b1b947cb42bf@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Triangle Oktoberfest at Booth Amphitheatre (free if you bring a wie
  ner dog)
 DTSTART;TZID=America/New_York:20261002T170000
@@ -1192,7 +931,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d9fe65bbea664bee2a251f2f@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Movie Night: Frankenweenie
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T220000
@@ -1205,7 +944,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a0c68b93fc1a5c909c189336@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:First Friday at Eno Arts Mill -- studio tours\, live music\, kids' 
  activities\, more...
 DTSTART;TZID=America/New_York:20261002T180000
@@ -1219,7 +958,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ae6f715aab84d4120fc6c68d@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Front Porch Friday at Haven Farm
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T220000
@@ -1232,7 +971,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2f26d12a6a01c212458235c4@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:First Friday Under the Stars -- Skywatching Event
 DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T220000
@@ -1245,7 +984,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b97554eed39bfcd35e1bdd74@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Home Depot Kids Workshop: Witch Candy Box
 DTSTART;TZID=America/New_York:20261003T090000
 DTEND;TZID=America/New_York:20261003T120000
@@ -1258,7 +997,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:90f62caba8ceea45d5a4544e@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Wendell Harvest Festival
 DTSTART;TZID=America/New_York:20261003T090000
 DTEND;TZID=America/New_York:20261003T210000
@@ -1271,7 +1010,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c1c2b567d32047a46073c705@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261003T090000
 DTEND;TZID=America/New_York:20261003T170000
@@ -1284,7 +1023,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ffee0b64543c6260d041e47f@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Holly Springs Diwali
 DTSTART;TZID=America/New_York:20261003T093000
 DTEND;TZID=America/New_York:20261003T213000
@@ -1297,7 +1036,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7a0c341998a09ca2ebba0cbe@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Youth Aviation Academy Program (registration required)
 DTSTART;TZID=America/New_York:20261003T100000
 DTEND;TZID=America/New_York:20261003T123000
@@ -1310,7 +1049,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:57e9f58d86fc07a0df1bd15c@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Celebrate Fuquay-Varina Festival
 DTSTART;TZID=America/New_York:20261003T100000
 DTEND;TZID=America/New_York:20261003T160000
@@ -1323,7 +1062,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:33608e035aefe34eed821b3e@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Saturday Slowdown Market and Open Farm Day
 DTSTART;TZID=America/New_York:20261003T100000
 DTEND;TZID=America/New_York:20261003T140000
@@ -1336,7 +1075,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f12af95c9ce4e819d900d9ae@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Open Farm at Sunrise Community Farm Center
 DTSTART;TZID=America/New_York:20261003T100000
 DTEND;TZID=America/New_York:20261003T170000
@@ -1349,7 +1088,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:eb8919b610b7d3d132348b11@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Falling for Local at Dix Park: live music\, free hayrides\, free pu
  mpkins\, more...
 DTSTART;TZID=America/New_York:20261003T110000
@@ -1363,7 +1102,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6463d6d41c1fffad9b8cf92e@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Taste of Asia
 DTSTART;TZID=America/New_York:20261003T110000
 DTEND;TZID=America/New_York:20261003T180000
@@ -1376,7 +1115,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4eea9ed8bf3420d8f25dab2e@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:The Witch's Haunted Barn
 DTSTART;TZID=America/New_York:20261003T110000
 DTEND;TZID=America/New_York:20261003T190000
@@ -1389,7 +1128,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:13f9d079d4781aaa5897e326@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Family Saturday Series: Heartland Marimba
 DTSTART;TZID=America/New_York:20261003T110000
 DTEND;TZID=America/New_York:20261003T120000
@@ -1402,7 +1141,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:354073b675208872dbd4bd54@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Free Guided Tour of N.C. State Capitol (three start times: 11 a.m.\
  , 1 p.m.\, and 3 p.m.)
 DTSTART;TZID=America/New_York:20261003T110000
@@ -1416,7 +1155,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a7b2c1d1798a67ebf2d14bd@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Wake Forest Diwali Festival
 DTSTART;TZID=America/New_York:20261003T120000
 DTEND;TZID=America/New_York:20261003T150000
@@ -1429,7 +1168,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:093cc0fc801c190daa6cc9d8@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Duke Regional Cares Community Day
 DTSTART;TZID=America/New_York:20261003T120000
 DTEND;TZID=America/New_York:20261003T160000
@@ -1442,7 +1181,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b902149eb1bbe680ce6f0860@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Triangle Oktoberfest at Booth Amphitheatre (free if you bring a wie
  ner dog)
 DTSTART;TZID=America/New_York:20261003T120000
@@ -1456,7 +1195,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fbb0475896963bc651bd65fd@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Oktoberfest
 DTSTART;TZID=America/New_York:20261003T120000
 DTEND;TZID=America/New_York:20261003T210000
@@ -1469,7 +1208,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7820f3e1ffe310e83602d969@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Raleigh Wide Open Music Festival
 DTSTART;TZID=America/New_York:20261003T120000
 DTEND;TZID=America/New_York:20261003T230000
@@ -1482,7 +1221,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:555db7fda14e56332868ce42@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Free pumpkin painting (with purchase of pumpkin)
 DTSTART;TZID=America/New_York:20261003T130000
 DTEND;TZID=America/New_York:20261003T160000
@@ -1495,7 +1234,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bfcdd9404110681e9a203371@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Fall Film Series: Beetlejuice
 DTSTART;TZID=America/New_York:20261003T193000
 DTEND;TZID=America/New_York:20261003T203000
@@ -1508,7 +1247,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c7162bfb5e21bd298f17808d@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261004T090000
 DTEND;TZID=America/New_York:20261004T170000
@@ -1521,7 +1260,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d57bd61ed7a745b5e337c68c@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Move-A-Bull City Open Streets Event
 DTSTART;TZID=America/New_York:20261004T120000
 DTEND;TZID=America/New_York:20261004T160000
@@ -1534,7 +1273,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:83155e296836690444ef361d@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Free pumpkin painting (with purchase of pumpkin)
 DTSTART;TZID=America/New_York:20261004T130000
 DTEND;TZID=America/New_York:20261004T160000
@@ -1547,7 +1286,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5355019f1b108abc723cfaa7@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Instrument Petting Zoo
 DTSTART;TZID=America/New_York:20261004T140000
 DTEND;TZID=America/New_York:20261004T160000
@@ -1560,7 +1299,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5f033a82bf360a5aee2e16df@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Total Tot Time: free play program for kids up to age 5
 DTSTART;TZID=America/New_York:20261005T100000
 DTEND;TZID=America/New_York:20261005T120000
@@ -1573,7 +1312,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5aa706923d90ebc51de95204@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Wake Forest National Night Out
 DTSTART;TZID=America/New_York:20261005T170000
 DTEND;TZID=America/New_York:20261005T193000
@@ -1586,7 +1325,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:49be4e288efd221d9d23138c@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261006T090000
 DTEND;TZID=America/New_York:20261006T170000
@@ -1599,7 +1338,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5f6983eee9ecfd87661826ab@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:North Hills Kids: Tuts & Trucks
 DTSTART;TZID=America/New_York:20261006T093000
 DTEND;TZID=America/New_York:20261006T110000
@@ -1612,7 +1351,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8b0e6cfc498ef55ad5d9da08@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Horn-free hour of Apex Night Out's Touch-a-Truck
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T173000
@@ -1625,7 +1364,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a6d7e54dc367f4dc4ea6f3b1@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Apex Night Out\, featuring Touch-a-Truck
 DTSTART;TZID=America/New_York:20261006T163000
 DTEND;TZID=America/New_York:20261006T190000
@@ -1638,7 +1377,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c25285599e3de9950d6e5ed3@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Outdoor movie at Pullen Park: Toy Story 5
 DTSTART;TZID=America/New_York:20261006T180000
 DTEND;TZID=America/New_York:20261006T190000
@@ -1651,7 +1390,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:599c107f7b830420cb7a6d50@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261007T090000
 DTEND;TZID=America/New_York:20261007T170000
@@ -1664,7 +1403,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:88b5ab11c501379647e0f105@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Total Tot Time: free play program for kids up to age 5
 DTSTART;TZID=America/New_York:20261007T100000
 DTEND;TZID=America/New_York:20261007T120000
@@ -1677,7 +1416,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:708a110e035f607119bc4231@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Market Bunch Kids' Activities
 DTSTART;TZID=America/New_York:20261007T150000
 DTEND;TZID=America/New_York:20261007T180000
@@ -1690,7 +1429,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1c8f901931efed7ea0813cb1@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Raleigh Drum Circle and Hoop Jam
 DTSTART;TZID=America/New_York:20261007T190000
 DTEND;TZID=America/New_York:20261007T203000
@@ -1703,7 +1442,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:209a1aef785536fa23bb68f6@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261008T090000
 DTEND;TZID=America/New_York:20261008T170000
@@ -1716,7 +1455,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20d7b918957ca32d0a29b2d0@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Durham Community Day at Museum of Life + Science: free admission fo
  r Durham County residents
 DTSTART;TZID=America/New_York:20261008T100000
@@ -1730,7 +1469,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5f24cd09bc4697ccc2f63d0b@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261009T090000
 DTEND;TZID=America/New_York:20261009T170000
@@ -1743,7 +1482,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a5c6949e7dcac53a1947e285@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Scented Storytime
 DTSTART;TZID=America/New_York:20261009T110000
 DTEND;TZID=America/New_York:20261009T120000
@@ -1756,7 +1495,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:518b6a41dc07cdd4af20f70b@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:The Witch's Haunted Barn (No actor version)
 DTSTART;TZID=America/New_York:20261009T120000
 DTEND;TZID=America/New_York:20261009T170000
@@ -1769,7 +1508,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ecbb50196340db0eda7b3b14@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Friday Family Flicks in Garner -- Toy Story 5
 DTSTART;TZID=America/New_York:20261009T180000
 DTEND;TZID=America/New_York:20261009T190000
@@ -1782,7 +1521,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:353547f6578ea7ce97eda0e0@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Front Porch Friday at Haven Farm
 DTSTART;TZID=America/New_York:20261009T180000
 DTEND;TZID=America/New_York:20261009T220000
@@ -1795,7 +1534,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4bf990455e9da888aca52e1b@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Holly Springs Haunted Trail
 DTSTART;TZID=America/New_York:20261009T190000
 DTEND;TZID=America/New_York:20261009T223000
@@ -1808,7 +1547,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6bdcb4e452f1dc5e991d183a@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Kids in Nature Day
 DTSTART;TZID=America/New_York:20261010T130000
 DTEND;TZID=America/New_York:20261010T160000
@@ -1821,7 +1560,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ae1f7b67fb2a2462f1ebe70e@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Hum Sub Diwali (free admission\, $10 parking)
 DTSTART;TZID=America/New_York:20261010T090000
 DTEND;TZID=America/New_York:20261010T210000
@@ -1834,7 +1573,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a4dd54370a27360b5cfb2a9e@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261010T090000
 DTEND;TZID=America/New_York:20261010T170000
@@ -1847,7 +1586,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c05974afce553a0198ac3151@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Lowe's DIY-U Kids' Workshop: Firefighting Plane
 DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T130000
@@ -1860,7 +1599,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cdc717e9dbe1f13df391c3c6@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Visit Raleigh Fire Museum 2nd Saturday of month (for free)
 DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T140000
@@ -1874,7 +1613,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bfc4b060b1e9c50cd8511bca@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Open Farm at Sunrise Community Farm Center
 DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T170000
@@ -1887,7 +1626,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:293b5352cbbb6b68a5f18df1@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Apex Oktoberfest
 DTSTART;TZID=America/New_York:20261010T110000
 DTEND;TZID=America/New_York:20261010T190000
@@ -1900,7 +1639,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1a54062dc29529ddfc568632@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:JCPenney Kids Zone: free crafts for kids
 DTSTART;TZID=America/New_York:20261010T110000
 DTEND;TZID=America/New_York:20261010T120000
@@ -1913,7 +1652,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f957b84a4a2f92c2d02aa386@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Free Guided Tour of N.C. State Capitol (three start times: 11 a.m.\
  , 1 p.m.\, and 3 p.m.)
 DTSTART;TZID=America/New_York:20261010T110000
@@ -1927,7 +1666,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1b33707c623b2a28a0211cb5@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:The Witch's Haunted Barn
 DTSTART;TZID=America/New_York:20261010T110000
 DTEND;TZID=America/New_York:20261010T190000
@@ -1940,7 +1679,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:285ae350f8509016d054e5fa@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Blessing of the Animals at Trinity Episcopal Church\, including foo
  d trucks\, music\, face painting\, more...
 DTSTART;TZID=America/New_York:20261010T120000
@@ -1954,7 +1693,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1fa0c99061e6fea6bacefbf1@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Smithfield Oktoberfest
 DTSTART;TZID=America/New_York:20261010T120000
 DTEND;TZID=America/New_York:20261010T160000
@@ -1967,7 +1706,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fcbd0fae20b4126c7d5d160a@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Triangle Barkitecture -- pet architecture and design competition
 DTSTART;TZID=America/New_York:20261010T130000
 DTEND;TZID=America/New_York:20261010T170000
@@ -1980,7 +1719,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:87a2aef253953735f89a42b3@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Free pumpkin painting (with purchase of pumpkin)
 DTSTART;TZID=America/New_York:20261010T130000
 DTEND;TZID=America/New_York:20261010T160000
@@ -1993,7 +1732,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e115b5c4b5b50f6000825ae8@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Track 'n' Treat Halloween Train Ride (5 start times)
 DTSTART;TZID=America/New_York:20261010T141500
 DTEND;TZID=America/New_York:20261010T204500
@@ -2006,7 +1745,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6c0e803b1034dd478e689d91@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261011T090000
 DTEND;TZID=America/New_York:20261011T170000
@@ -2019,7 +1758,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:45dd4f377924f8ab291f87b3@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Bazaar Craft & Art Market in Carrboro
 DTSTART;TZID=America/New_York:20261011T120000
 DTEND;TZID=America/New_York:20261011T170000
@@ -2032,7 +1771,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7f8c5f59180872810aa3534b@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Free pumpkin painting (with purchase of pumpkin)
 DTSTART;TZID=America/New_York:20261011T130000
 DTEND;TZID=America/New_York:20261011T160000
@@ -2045,7 +1784,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8744b73f7065822809aa5e90@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Total Tot Time: free play program for kids up to age 5
 DTSTART;TZID=America/New_York:20261012T100000
 DTEND;TZID=America/New_York:20261012T120000
@@ -2058,7 +1797,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:93b499deb9760fca550d8b1b@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261013T090000
 DTEND;TZID=America/New_York:20261013T170000
@@ -2071,7 +1810,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a3ee64e2a2bfec580a5a53da@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:North Hills Kids: Bubbles & Books
 DTSTART;TZID=America/New_York:20261013T093000
 DTEND;TZID=America/New_York:20261013T110000
@@ -2084,7 +1823,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f81e91cd9b24c743dfc6e66d@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261014T090000
 DTEND;TZID=America/New_York:20261014T170000
@@ -2097,7 +1836,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f22a97e9f803f15280f8a41e@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Total Tot Time: free play program for kids up to age 5
 DTSTART;TZID=America/New_York:20261014T100000
 DTEND;TZID=America/New_York:20261014T120000
@@ -2110,7 +1849,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8b24d3b27a8be3cd3590ce8c@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Market Bunch Kids' Activities
 DTSTART;TZID=America/New_York:20261014T150000
 DTEND;TZID=America/New_York:20261014T180000
@@ -2123,7 +1862,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d1d08845e754c1554b00665@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Raleigh Drum Circle and Hoop Jam
 DTSTART;TZID=America/New_York:20261014T190000
 DTEND;TZID=America/New_York:20261014T203000
@@ -2136,7 +1875,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b1d04983b7c40f58065328cb@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261015T090000
 DTEND;TZID=America/New_York:20261015T170000
@@ -2149,7 +1888,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7b6281d6a558026af943c208@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261016T090000
 DTEND;TZID=America/New_York:20261016T170000
@@ -2162,7 +1901,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d6f7e87c7ff983064f1f2dee@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:The Witch's Haunted Barn (No actor version)
 DTSTART;TZID=America/New_York:20261016T120000
 DTEND;TZID=America/New_York:20261016T170000
@@ -2175,7 +1914,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ff476c88527014ec40698ded@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Love Local Fall Into Downtown Apex: Fall Harvest Night
 DTSTART;TZID=America/New_York:20261016T170000
 DTEND;TZID=America/New_York:20261016T200000
@@ -2188,7 +1927,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f07a5e919c7f1eb55e409d84@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Town of Garner Diwali Celebration
 DTSTART;TZID=America/New_York:20261016T170000
 DTEND;TZID=America/New_York:20261016T210000
@@ -2201,7 +1940,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ba5a327b06f354f7bd233e57@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Front Porch Friday at Haven Farm
 DTSTART;TZID=America/New_York:20261016T180000
 DTEND;TZID=America/New_York:20261016T220000
@@ -2214,7 +1953,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d3b9a830d3c153665c413ea6@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Haunted Trolley at Mordecai Park (3 tours)
 DTSTART;TZID=America/New_York:20261016T190000
 DTEND;TZID=America/New_York:20261016T220000
@@ -2227,7 +1966,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cb5239bb87dee62bd29ba6c2@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261017T090000
 DTEND;TZID=America/New_York:20261017T170000
@@ -2240,7 +1979,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5901df03cf2741268add88b5@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Halloween Boo Bash in Downtown Wake Forest
 DTSTART;TZID=America/New_York:20261017T100000
 DTEND;TZID=America/New_York:20261017T130000
@@ -2253,7 +1992,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:34898c8ee90b2cf317ee33fd@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Open Farm at Sunrise Community Farm Center
 DTSTART;TZID=America/New_York:20261017T100000
 DTEND;TZID=America/New_York:20261017T170000
@@ -2266,7 +2005,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4f6bf8787b8e57cf6d24df42@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Free Guided Tour of N.C. State Capitol (three start times: 11 a.m.\
  , 1 p.m.\, and 3 p.m.)
 DTSTART;TZID=America/New_York:20261017T110000
@@ -2280,7 +2019,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d53678bec72a73e957c17cf8@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:The Witch's Haunted Barn
 DTSTART;TZID=America/New_York:20261017T110000
 DTEND;TZID=America/New_York:20261017T190000
@@ -2293,7 +2032,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c3b77e89db56546831c7ad7d@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sixth Annual Bullhorn Fest music festival in Durham (suggested dona
  tion: $15-25)
 DTSTART;TZID=America/New_York:20261017T123000
@@ -2307,7 +2046,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:753aef5831948968c62ffaee@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Free pumpkin painting (with purchase of pumpkin)
 DTSTART;TZID=America/New_York:20261017T130000
 DTEND;TZID=America/New_York:20261017T160000
@@ -2320,7 +2059,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c3ff969650efa0eaee37ba8a@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Track 'n' Treat Halloween Train Ride (5 start times)
 DTSTART;TZID=America/New_York:20261017T141500
 DTEND;TZID=America/New_York:20261017T204500
@@ -2333,7 +2072,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c78ef858fafe55af018b8c74@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Bull City BOOs Fest
 DTSTART;TZID=America/New_York:20261017T160000
 DTEND;TZID=America/New_York:20261017T230000
@@ -2346,7 +2085,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d9cae54a22db12a699077d60@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Haunted Trolley at Mordecai Park (3 tours)
 DTSTART;TZID=America/New_York:20261017T190000
 DTEND;TZID=America/New_York:20261017T220000
@@ -2359,7 +2098,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:56f022db33409a03f821d3db@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Sculpture in the Garden (free with $5 suggested donation)
 DTSTART;TZID=America/New_York:20261018T090000
 DTEND;TZID=America/New_York:20261018T170000
@@ -2372,7 +2111,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:53b7c036c248b92beaf7af16@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Free pumpkin painting (with purchase of pumpkin)
 DTSTART;TZID=America/New_York:20261018T130000
 DTEND;TZID=America/New_York:20261018T160000
@@ -2385,7 +2124,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e9d5028c7181f6807b190595@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Instrument Petting Zoo
 DTSTART;TZID=America/New_York:20261018T140000
 DTEND;TZID=America/New_York:20261018T160000
@@ -2398,7 +2137,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e7e0156ac0a4fe0efac24da2@triangleonthecheap.com
-DTSTAMP:20260920T102221Z
+DTSTAMP:20260921T113642Z
 SUMMARY:Hillsborough Street Trick or Treat
 DTSTART;TZID=America/New_York:20261018T140000
 DTEND;TZID=America/New_York:20261018T170000
@@ -2407,6 +2146,19 @@ DESCRIPTION:Cost: FREE\nTime: 2:00 pm to 5:00 pm\nLocation: Hillsborough St
  ugh-halloween/\nSource: Triangle on the Cheap
 LOCATION:Hillsborough Street\, Raleigh
 URL:https://triangleonthecheap.com/live-it-up-hillsborough-halloween/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:298e2d94bcf5aed7a108f902@triangleonthecheap.com
+DTSTAMP:20260921T113642Z
+SUMMARY:Total Tot Time: free play program for kids up to age 5
+DTSTART;TZID=America/New_York:20261019T100000
+DTEND;TZID=America/New_York:20261019T120000
+DESCRIPTION:Cost: FREE\nTime: 10:00 am to 12:00 pm\nLocation: W.D. Hill Rec
+ reation Center\, Durham\nInfo: https://triangleonthecheap.com/total-tot-t
+ ime/\nSource: Triangle on the Cheap
+LOCATION:W.D. Hill Recreation Center\, Durham
+URL:https://triangleonthecheap.com/total-tot-time/
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
