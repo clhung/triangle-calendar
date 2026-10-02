@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:9b807c020091cb5baf0a770b@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Total Tot Time: free play program in Durham for kids up to age 5 an
  d their parents
 DTSTART;TZID=America/New_York:20260902T100000
@@ -44,7 +44,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a67b9e72d0603fa6614c5ce2@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Sunset Music Series at Waverly Place in September
 DTSTART;TZID=America/New_York:20260902T173000
 DTEND;TZID=America/New_York:20260902T203000
@@ -61,7 +61,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aa36628edd06f8d10cc4013a@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:38th Annual Sculpture in the Garden at North Carolina Botanical Gar
  den
 DTSTART;TZID=America/New_York:20260913T090000
@@ -82,85 +82,8 @@ URL:https://triangleonthecheap.com/sculpture-in-the-garden/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6b978707685ece0cac182ed3@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:Grand Opening Weekend of Juliet Books in Cary Sept. 18-19
-DTSTART;TZID=America/New_York:20260918T180000
-DTEND;TZID=America/New_York:20260918T200000
-DESCRIPTION:Cost: FREE\nTime: 6 to 8 p.m.\nLocation: 200 Parkthrough Street
- \, Cary\, North Carolina\, is holding a Grand Opening Weekend Celebration
-  on September 18 and 19\nDetails: Juliet Books\, at 200 Parkthrough Stree
- t\, Cary\, North Carolina\, is holding a Grand Opening Weekend Celebratio
- n on September 18 and 19\, 2026. On Friday\, September 18\, 2026\, there 
- will be a Kendra Scott Pop-Up from 6 to 8 p.m. Shop for jewelry while enj
- oying live music and browsing the shelves. Then celebrate from 10 a.m. to
-  7 p.m. on Saturday\, September 19\, 2026. Saturday Schedule 10:00 a.m. 
-  12:00...\nInfo: https://triangleonthecheap.com/juliet-books/\nSource: 
- Triangle on the Cheap (Kids)
-LOCATION:200 Parkthrough Street\, Cary\, North Carolina\, is holding a Gran
- d Opening Weekend Celebration on September 18 and 19
-URL:https://triangleonthecheap.com/juliet-books/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:98a09f0718a6e189788cc42a@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:Hillsborough Hog Day Sep 18-19
-DTSTART;TZID=America/New_York:20260918T180000
-DTEND;TZID=America/New_York:20260918T220000
-DESCRIPTION:Cost: FREE\nTime: 6 p.m. to 10 p.m.\nLocation: River Park\, 144
-  East Margaret Lane\, Hillsborough\nDetails: Hillsborough Hog Day brings 
- the community together to eat BBQ\, listen to live music and shop for han
- d-crafted gifts on Friday\, September 18\, and Saturday\, September 19\, 
- 2026. Friday: 6 p.m. to 10 p.m. Saturday: 10 a.m. to 6 p.m. It’s Orange
-  County’s largest and longest running festival. It takes place at River
-  Park\, 144 East Margaret Lane\, Hillsborough. The highlight of the festi
- val is the BBQ. Ve...\nInfo: https://triangleonthecheap.com/hillsborough-
- hog-day/\nSource: Triangle on the Cheap (Kids)
-LOCATION:River Park\, 144 East Margaret Lane\, Hillsborough
-URL:https://triangleonthecheap.com/hillsborough-hog-day/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:8d097f9d4b678f47834f9bd6@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:11th Annual Asia Fest\, including dragon boat races\, Sept. 19
-DTSTART;TZID=America/New_York:20260919T090000
-DTEND;TZID=America/New_York:20260919T170000
-DESCRIPTION:Cost: $12\nTime: 9 a.m. to 5 p.m.\nLocation: Koka Booth Amphith
- eatre\, 8003 Regency Pkwy\, Cary\, North Carolina\nDetails: Asia Fest is 
- returning for 2026. The festival will take place on Saturday\, September 
- 19\, 2026\, from 9 a.m. to 5 p.m.\, at Koka Booth Amphitheatre\, 8003 Reg
- ency Pkwy\, Cary\, North Carolina. Tickets are $12\, and free for those 1
- 2 and under\, or age 65 and older. The festival features: Arts and crafts
-  Games Cultural displays Asian food Performances Dragon boat races Double
- -Check Before You Head Out! We...\nInfo: https://triangleonthecheap.com/d
- ragon-boat-festival-cary/\nSource: Triangle on the Cheap (Kids)
-LOCATION:Koka Booth Amphitheatre\, 8003 Regency Pkwy\, Cary\, North Carolin
- a
-URL:https://triangleonthecheap.com/dragon-boat-festival-cary/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:53f5d8729f3de4903e412b74@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:DISCover Ultimate Day: Intro to Ultimate for Youth Sept. 19
-DTSTART;TZID=America/New_York:20260919T093000
-DTEND;TZID=America/New_York:20260919T110000
-DESCRIPTION:Cost: FREE\nTime: 9:30 to 11 a.m.\nDetails: Triangle Ultimate i
- s hosting DISCover Ultimate Day\, a nationwide event presented by USA Ult
- imate! This free\, two-hour clinic is designed specifically for middle sc
- hool to high school-aged players (ages 11-18) who are new to the sport. T
- his event is free but registration on website is required. DISCover Ultim
- ate will take place at two locations\, both on September 19\, 2026. Cary 
- 9:30 to 11 a.m. Cary...\nInfo: https://triangleonthecheap.com/discover-ul
- timate-day/\nSource: Triangle on the Cheap (Kids)
-URL:https://triangleonthecheap.com/discover-ultimate-day/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:ca7388f0252012729bd7d50d@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Durham’s CenterFest Sept. 19-20
 DTSTART;TZID=America/New_York:20260919T100000
 DTEND;TZID=America/New_York:20260919T180000
@@ -176,86 +99,8 @@ URL:https://triangleonthecheap.com/centerfest-arts-festival-durham/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d36bc67e1fd7b7f9a5c1d749@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:NC Museum of Natural Sciences’ BugFest Sept. 19
-DTSTART;TZID=America/New_York:20260919T100000
-DTEND;TZID=America/New_York:20260919T190000
-DESCRIPTION:Cost: FREE\nTime: 10 a.m. to 7 p.m.\nDetails: NC Museum of Natu
- ral Sciences BugFest \, one of North Carolina Museum of Natural Sciences
-  most popular festivals\, is returning to Downtown Raleigh on Saturday\
- , September 19\, 2026\, from 10 a.m. to 7 p.m. This is the 30th BugFest! 
- The festival will include both indoor and outdoor activities. Indoor acti
- vities will be located in the Nature Exploration Center (NEC) and Nature 
- Research Center (NRC). Ou...\nInfo: https://triangleonthecheap.com/bugfes
- t-nc-museum-natural-sciences/\nSource: Triangle on the Cheap (Kids)
-URL:https://triangleonthecheap.com/bugfest-nc-museum-natural-sciences/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:e76c9128937ae1aa5e5132be@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:Hobbit Fest at Moore Square Sept. 19 — movie marathon and Lord of
-  the Ring themed festival
-DTSTART;TZID=America/New_York:20260919T100000
-DTEND;TZID=America/New_York:20260919T200000
-DESCRIPTION:Cost: FREE\nTime: 10 a.m. to 8 p.m.\nLocation: Moore Square\, 2
- 01 S Blount Street\, Raleigh\, North Carolina\nDetails: Illustration: Dep
- ositphotos Hobbit Fest is a day-long celebration of Lord of the Rings. It
-  takes place Saturday\, September 19\, 2026\, from 10 a.m. to 8 p.m.\, at
-  Moore Square\, 201 S Blount Street\, Raleigh\, North Carolina. This is a
-  FREE event. Experience the complete Lord of the Rings theatrical trilogy
-  outdoors while exploring a festival filled with themed activities\, loca
- l vendors\, artists\, food t...\nInfo: https://triangleonthecheap.com/hob
- bit-fest/\nSource: Triangle on the Cheap (Kids)
-LOCATION:Moore Square\, 201 S Blount Street\, Raleigh\, North Carolina
-URL:https://triangleonthecheap.com/hobbit-fest/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:557b53dc9a64fb9302a756c4@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:Chapel Hill Soap Box Derby Sept. 19
-DTSTART;TZID=America/New_York:20260919T130000
-DTEND;TZID=America/New_York:20260919T180000
-DESCRIPTION:Cost: FREE\nTime: 1 to 6 p.m.\nLocation: Homestead Community Pa
- rk\, 100 Aquatic Drive\, Chapel Hill\, North Carolina\nDetails: The Chape
- l Hill Soap Box Derby takes place Saturday\, September 19\, 2026\, from 1
-  to 6 p.m.\, at Homestead Community Park\, 100 Aquatic Drive\, Chapel Hil
- l\, North Carolina. There’s probably not enough time for you to put tog
- ether a soap box derby to race (but follow the above link to register if 
- you have one on hand!) There’s a fee to enter. This event is free to at
- tend as a spectator. Cheer on your fa...\nInfo: https://triangleonthechea
- p.com/chapel-hill-soap-box-derby/\nSource: Triangle on the Cheap (Kids)
-LOCATION:Homestead Community Park\, 100 Aquatic Drive\, Chapel Hill\, North
-  Carolina
-URL:https://triangleonthecheap.com/chapel-hill-soap-box-derby/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:de5ffcfc5d53604da3b1003f@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:Morrisville International Festival Sept. 19
-DTSTART;TZID=America/New_York:20260919T160000
-DTEND;TZID=America/New_York:20260919T190000
-DESCRIPTION:Cost: FREE\nTime: 4 to 7 p.m.\nLocation: Indian Creek Trailhead
- \, 101 Town Hall Drive\, Morrisville\, North Carolina\nDetails: The Morri
- sville International Festival takes place Saturday\, September 19\, 2026\
- , from 4 to 7 p.m.\, at Indian Creek Trailhead\, 101 Town Hall Drive\, Mo
- rrisville\, North Carolina. This is a free festival. Morrisville is one o
- f North Carolina’s fastest‑growing and most diverse communities\, and
-  the Morrisville International Festival celebrates that richness with a v
- ibrant\, globally inspired experience....\nInfo: https://triangleontheche
- ap.com/morrisville-international-festival/\nSource: Triangle on the Cheap
-  (Kids)
-LOCATION:Indian Creek Trailhead\, 101 Town Hall Drive\, Morrisville\, North
-  Carolina
-URL:https://triangleonthecheap.com/morrisville-international-festival/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:1b1c0de6cf4aec73bfdbb3e8@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Cervantino Bilingual Book Fair in Raleigh Sept. 20
 DTSTART;TZID=America/New_York:20260920T120000
 DTEND;TZID=America/New_York:20260920T153000
@@ -275,28 +120,8 @@ URL:https://triangleonthecheap.com/cervantino-bilingual-book-fair/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:25643abfe6b8f1f16df92011@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:Mama Afrika Festival in Raleigh Sept. 20
-DTSTART;TZID=America/New_York:20260920T130000
-DTEND;TZID=America/New_York:20260920T180000
-DESCRIPTION:Cost: FREE\nTime: 1 to 6 p.m.\nLocation: Southeast Raleigh YMCA
- \, 1437 Rock Quarry Road\, Raleigh\, North Carolina\nDetails: Photo: Depo
- sitphotos The 15th Mama Afrika Festival takes place Sunday\, September 20
- \, 2026\, from 1 to 6 p.m.\, at Southeast Raleigh YMCA\, 1437 Rock Quarry
-  Road\, Raleigh\, North Carolina. It’s free to attend. The festival fea
- tures: African drumming Authentic food Games for adults and kids Health a
- nd wellness booth Kids’ Zone Vendors Double-Check Before You Head Out! 
- We make every effort to make sure t...\nInfo: https://triangleonthecheap.
- com/mama-afrika-festival/\nSource: Triangle on the Cheap (Kids)
-LOCATION:Southeast Raleigh YMCA\, 1437 Rock Quarry Road\, Raleigh\, North C
- arolina
-URL:https://triangleonthecheap.com/mama-afrika-festival/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:a23fc162a83a2de4fe3e3c3a@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Black August Book Drive’s Really Free Book Fair at Moore Square S
  ept. 20
 DTSTART;TZID=America/New_York:20260920T140000
@@ -316,7 +141,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e057e7651581faf6bb0c2486@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Instrument Petting Zoo at Dix Park on Sept. 20
 DTSTART;TZID=America/New_York:20260920T140000
 DTEND;TZID=America/New_York:20260920T160000
@@ -337,7 +162,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:700ed2dfe380a8adac1297f5@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:3rd Annual “Love Your Falls Lake” Special Event on Sept. 21
 DTSTART;TZID=America/New_York:20260921T100000
 DTEND;TZID=America/New_York:20260921T140000
@@ -357,7 +182,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a26e862c66c61f0ce94d9702@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Museum of Life and Science free for Durham residents Sept. 22
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
@@ -377,7 +202,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d7e5318b2676b8df9a5d3381@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Swift Night Out on Rooftop of The Durham Hotel Sept. 22
 DTSTART;TZID=America/New_York:20260922T183000
 DTEND;TZID=America/New_York:20260922T210000
@@ -394,32 +219,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0626418710bc60a991c25a4c@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Carter’s Five-Star Baby Event Sale — almost everything at least
   50% off\, plus additional 20% off with promo code
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-DESCRIPTION:Cost: FREE\nLocation: Athleta: 30% off everything Updated again
- ! lululemon’s “We Made Too Much” sale — up to 68% off Jackets! Co
- ats! Fleece! Save 40% at Lands End! More added! Discounts on Tons of Hall
- oween Decorations — Zombies\, witches\, skeletons\, evil clowns\nDetail
- s: Carter’s is holding one of their biggest sales of the year. The Five
- -Star Baby Event offers the lowest prices of the season for baby clothes.
-  Almost everything is at least 50% off. This is a chance to really stock 
- up on what your baby needs at a super-low price. In addition\, through Se
- pt. 23\, 2026\, use promo code BABY20 for an additional 20% off select it
- ems. Also\, they price match. If the price d...\nInfo: https://triangleon
- thecheap.com/carters-sale/\nSource: Triangle on the Cheap (Kids)
-LOCATION:Athleta: 30% off everything Updated again! lululemon’s “We Mad
- e Too Much” sale — up to 68% off Jackets! Coats! Fleece! Save 40% at 
- Lands End! More added! Discounts on Tons of Halloween Decorations — Zom
- bies\, witches\, skeletons\, evil clowns
+DESCRIPTION:Cost: FREE\nLocation: Lands End with new promo code\, and up to
+  70% on clearance Updated again! lululemon’s “We Made Too Much” sal
+ e — up to 68% off Macy’s Clearance Sale: Up to 80% off clothing\, hou
+ sehold\, jewelry\nDetails: Carter’s is holding one of their biggest sal
+ es of the year. The Five-Star Baby Event offers the lowest prices of the 
+ season for baby clothes. Almost everything is at least 50% off. This is a
+  chance to really stock up on what your baby needs at a super-low price. 
+ In addition\, through Sept. 23\, 2026\, use promo code BABY20 for an addi
+ tional 20% off select items. Also\, they price match. If the price d...\n
+ Info: https://triangleonthecheap.com/carters-sale/\nSource: Triangle on t
+ he Cheap (Kids)
+LOCATION:Lands End with new promo code\, and up to 70% on clearance Updated
+  again! lululemon’s “We Made Too Much” sale — up to 68% off Macy
+ s Clearance Sale: Up to 80% off clothing\, household\, jewelry
 URL:https://triangleonthecheap.com/carters-sale/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a70c5361a9976f5756cd5b32@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Math Makers: Free playful math exploration at Dix Park Sept. 23
 DTSTART;TZID=America/New_York:20260923T100000
 DTEND;TZID=America/New_York:20260923T120000
@@ -439,7 +263,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d13deca35a2d98c98a661b2@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Free Sensory Friendly Playtime and Movie at Marbles Kids Museum Sep
  t. 23
 DTSTART;TZID=America/New_York:20260923T173000
@@ -457,7 +281,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7274ff41b15527f6f50c2e4f@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Movie Night Under the Stars at Sertoma Amphitheatre Sept. 23: Monst
  ers Inc.
 DTSTART;TZID=America/New_York:20260923T193000
@@ -478,7 +302,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0d8817ab99d75a22edf9ccb8@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Benson Mule Days Sep 24-27
 DTSTART;TZID=America/New_York:20260924T150000
 DTEND;TZID=America/New_York:20260924T230000
@@ -495,7 +319,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f60a5add8d8b1ff62d39051c@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Hillsborough Last Fridays Art Walk Sept. 25\, including Makers Mark
  et\, live music and more…
 DTSTART;TZID=America/New_York:20260925T173000
@@ -512,8 +336,49 @@ URL:https://triangleonthecheap.com/hillsborough-last-fridays-art-walk/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:023857d485bd827389608beb@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:Movie on the Lawn at Halifax Park in Raleigh: Toy Story 5 on Sept. 
+ 25
+DTSTART;TZID=America/New_York:20260925T183000
+DTEND;TZID=America/New_York:20260925T210000
+DESCRIPTION:Cost: FREE\nTime: 6:30 to 9 p.m.\nLocation: Halifax Park\, 1023
+  Halifax Street\, Raleigh\, North Carolina\nDetails: Photo: Depositphotos
+  Raleigh Parks\, Recreation and Resources Department is presenting a free
+  outdoor movie and community event on Friday\, September 25\, 2026\, from
+  6:30 to 9 p.m.\, at Halifax Park\, 1023 Halifax Street\, Raleigh\, North
+  Carolina. The movie will be Toy Story 5. The movie begins at dusk. Pleas
+ e bring lawn chairs or blankets. There will be on-site food truck\, game 
+ truck\, crafts\, and activ...\nInfo: https://triangleonthecheap.com/outdo
+ or-movie-halifax-park/\nSource: Triangle on the Cheap (Kids)
+LOCATION:Halifax Park\, 1023 Halifax Street\, Raleigh\, North Carolina
+URL:https://triangleonthecheap.com/outdoor-movie-halifax-park/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7e1156991b8a3f76ef0f894e@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:Hillsborough Street Makers & Music Series in Raleigh Sept. 25
+DTSTART;TZID=America/New_York:20260925T183000
+DTEND;TZID=America/New_York:20260925T213000
+DESCRIPTION:Cost: FREE\nTime: 6:30 to 9:30 p.m.\nLocation: Hillsborough Str
+ eet Makers and Music \, a monthly series that take place at Compiegne Par
+ k\, 106 Chamberlain Street\, Raleigh\nDetails: Celebrate summer at Hillsb
+ orough Street Makers and Music \, a monthly series that take place at Com
+ piegne Park\, 106 Chamberlain Street\, Raleigh\, North Carolina. The last
+  event of the series is on September 25\, 2026\, from 6:30 to 9:30 p.m. T
+ he artist has not been announced. Hillsborough Street Makers and Music fe
+ atures live music\, local vendors\, family-friendly activities and lawn g
+ ames. Attendees a...\nInfo: https://triangleonthecheap.com/hillsborough-s
+ treet-makers-music-series/\nSource: Triangle on the Cheap (Kids)
+LOCATION:Hillsborough Street Makers and Music \, a monthly series that take
+  place at Compiegne Park\, 106 Chamberlain Street\, Raleigh
+URL:https://triangleonthecheap.com/hillsborough-street-makers-music-series/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:f348596bf752b2a2d3da1546@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Movies Under the Stars at Hargrave Community Center: The Nightmare 
  Before Christmas on Sept. 25
 DTSTART;TZID=America/New_York:20260925T183000
@@ -534,49 +399,8 @@ URL:https://triangleonthecheap.com/movies-under-stars-chapel-hill/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:023857d485bd827389608beb@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:Movie on the Lawn at Halifax Park in Raleigh: Toy Story 5 on Sept. 
- 25
-DTSTART;TZID=America/New_York:20260925T183000
-DTEND;TZID=America/New_York:20260925T210000
-DESCRIPTION:Cost: FREE\nTime: 6:30 to 9 p.m.\nLocation: Halifax Park\, 1023
-  Halifax Street\, Raleigh\, North Carolina\nDetails: Photo: Depositphotos
-  Raleigh Parks\, Recreation and Resources Department is presenting a free
-  outdoor movie and community event on Friday\, September 25\, 2026\, from
-  6:30 to 9 p.m.\, at Halifax Park\, 1023 Halifax Street\, Raleigh\, North
-  Carolina. The movie will be Toy Story 5. The movie begins at dusk. Pleas
- e bring lawn chairs or blankets. There will be on-site food truck\, game 
- truck\, crafts\, and activ...\nInfo: https://triangleonthecheap.com/outdo
- or-movie-halifax-park/\nSource: Triangle on the Cheap (Kids)
-LOCATION:Halifax Park\, 1023 Halifax Street\, Raleigh\, North Carolina
-URL:https://triangleonthecheap.com/outdoor-movie-halifax-park/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:7e1156991b8a3f76ef0f894e@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:Hillsborough Street Makers & Music Series in Raleigh Sept. 25
-DTSTART;TZID=America/New_York:20260925T183000
-DTEND;TZID=America/New_York:20260925T213000
-DESCRIPTION:Cost: FREE\nTime: 6:30 to 9:30 p.m.\nLocation: Hillsborough Str
- eet Makers and Music \, a monthly series that take place at Compiegne Par
- k\, 106 Chamberlain Street\, Raleigh\nDetails: Celebrate summer at Hillsb
- orough Street Makers and Music \, a monthly series that take place at Com
- piegne Park\, 106 Chamberlain Street\, Raleigh\, North Carolina. The last
-  event of the series is on September 25\, 2026\, from 6:30 to 9:30 p.m. T
- he artist has not been announced. Hillsborough Street Makers and Music fe
- atures live music\, local vendors\, family-friendly activities and lawn g
- ames. Attendees a...\nInfo: https://triangleonthecheap.com/hillsborough-s
- treet-makers-music-series/\nSource: Triangle on the Cheap (Kids)
-LOCATION:Hillsborough Street Makers and Music \, a monthly series that take
-  place at Compiegne Park\, 106 Chamberlain Street\, Raleigh
-URL:https://triangleonthecheap.com/hillsborough-street-makers-music-series/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:6dd0017b30caa1a291347282@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:One Tribe Final Friday drum circle and fire show Sept. 25
 DTSTART;TZID=America/New_York:20260925T190000
 DTEND;TZID=America/New_York:20260925T203000
@@ -593,7 +417,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0a0cb444c2453412ee5c5bdc@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Free programs at Historic Yates County Park: History tours\, corn g
  rinding demos\, more…
 DTSTART;VALUE=DATE:20260926
@@ -616,7 +440,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:31a4f8d5b9cbc9f16c2ee1cd@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Come Out and Play sculpture show in Pittsboro — enjoy art and liv
  e music on the farm
 DTSTART;VALUE=DATE:20260926
@@ -636,7 +460,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9f4d31d9fc3b74bd1351754f@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Free Sensory-friendly Film Series at Carolina Theatre of Durham: Ku
  ng Fu Panda on Sept. 26
 DTSTART;VALUE=DATE:20260926
@@ -659,7 +483,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f446429610deb8e2a52a84e4@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Raleigh Tamale Festival Sept. 26
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T140000
@@ -678,7 +502,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1a0346c93eb8723624d2112a@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:AppleFest at Weaver Street Market in Carrboro on Sept. 26
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T130000
@@ -697,7 +521,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8044bc17834df5acf34cf45b@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:St. Eugene International Food & Music Festival September 26
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T170000
@@ -716,7 +540,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e9f5eff5a200ea57e821e716@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Oktoberfest Party at Carolina Brewing Company (Holly Springs) on Se
  pt. 26: 100% of food sales benefit school
 DTSTART;TZID=America/New_York:20260926T120000
@@ -738,7 +562,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d1129488ca0f12843a2ab761@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Mead Fest at Starrlight Mead: Free mini-Renaissance Festival Sept. 
  26
 DTSTART;TZID=America/New_York:20260926T120000
@@ -758,7 +582,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a45b5e756cc19d3442bbb086@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Free open house at Duke Lemur Center Museum of Natural History Sept
  . 26
 DTSTART;TZID=America/New_York:20260926T130000
@@ -781,7 +605,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4f6897d8a4c18d8c743ec6a6@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Common Market Durham’s 3rd Anniversary Party Sept. 26
 DTSTART;TZID=America/New_York:20260926T150000
 DTEND;TZID=America/New_York:20260926T200000
@@ -798,7 +622,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc90bdf30f38b488ef91cce2@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Apex Latino Arts Festival Sept 26
 DTSTART;TZID=America/New_York:20260926T150000
 DTEND;TZID=America/New_York:20260926T190000
@@ -817,7 +641,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:28035d722eb0000f8a3db7cb@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Durham Oktoberfest in Durham Central Park Sept. 26
 DTSTART;TZID=America/New_York:20260926T150000
 DTEND;TZID=America/New_York:20260926T220000
@@ -836,33 +660,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e121564a2a3f3b74cb6dfd2c@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Halloween costumes on clearance — grab great deals before they’
  re gone!
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DESCRIPTION:Cost: FREE\nLocation: Athleta: 30% off everything Updated again
- ! lululemon’s “We Made Too Much” sale — up to 68% off Jackets! Co
- ats! Fleece! Save 40% at Lands End! More added! Discounts on Tons of Hall
- oween Decorations — Zombies\, witches\, skeletons\, evil clowns\nDetail
- s: Are you thinking about Halloween yet? Maybe you should be\, because Ha
- lloweenCostumes.com actually has a clearance section with some fantastic 
- deals. We wouldn’t expect to see deals this time of year\, before Hallo
- ween\, but there are tons of costumes marked down. In some cases\, one si
- ze might be on sale\, but not another. And of course all are subject to s
- elling out. There are costumes for adults\, ki...\nInfo: https://triangle
- onthecheap.com/halloween-costumes-clearance/\nSource: Triangle on the Che
- ap (Kids)
-LOCATION:Athleta: 30% off everything Updated again! lululemon’s “We Mad
- e Too Much” sale — up to 68% off Jackets! Coats! Fleece! Save 40% at 
- Lands End! More added! Discounts on Tons of Halloween Decorations — Zom
- bies\, witches\, skeletons\, evil clowns
+DESCRIPTION:Cost: FREE\nLocation: Lands End with new promo code\, and up to
+  70% on clearance Updated again! lululemon’s “We Made Too Much” sal
+ e — up to 68% off Macy’s Clearance Sale: Up to 80% off clothing\, hou
+ sehold\, jewelry\nDetails: Are you thinking about Halloween yet? Maybe yo
+ u should be\, because HalloweenCostumes.com actually has a clearance sect
+ ion with some fantastic deals. We wouldn’t expect to see deals this tim
+ e of year\, before Halloween\, but there are tons of costumes marked down
+ . In some cases\, one size might be on sale\, but not another. And of cou
+ rse all are subject to selling out. There are costumes for adults\, ki...
+ \nInfo: https://triangleonthecheap.com/halloween-costumes-clearance/\nSou
+ rce: Triangle on the Cheap (Kids)
+LOCATION:Lands End with new promo code\, and up to 70% on clearance Updated
+  again! lululemon’s “We Made Too Much” sale — up to 68% off Macy
+ s Clearance Sale: Up to 80% off clothing\, household\, jewelry
 URL:https://triangleonthecheap.com/halloween-costumes-clearance/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:84658626bd911f632903217b@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Cars and Coffee Raleigh on Sept. 27
 DTSTART;TZID=America/New_York:20260927T080000
 DTEND;TZID=America/New_York:20260927T110000
@@ -881,7 +703,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f4a2ca1845a19aba798c1539@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Kermes — Community Fiesta with El Futuro Sep 27
 DTSTART;TZID=America/New_York:20260927T150000
 DTEND;TZID=America/New_York:20260927T190000
@@ -900,7 +722,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c8e154ebd6a78ff2ae5102b4@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:The Classical Concert — family-friendly concert with pianist Dani
  el Anastasio in Cary Sept. 27
 DTSTART;TZID=America/New_York:20260927T170000
@@ -922,7 +744,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:31cd2a3340aa440195094e4a@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:North Hills Kids Sept. 29: Fall\, Fitness and Fun
 DTSTART;TZID=America/New_York:20260929T093000
 DTEND;TZID=America/New_York:20260929T110000
@@ -941,7 +763,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3cea7adf298d4e6ff17d7c41@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Raleigh Drum Circle at Pullen Park on Wednesdays
 DTSTART;TZID=America/New_York:20260929T190000
 DTEND;TZID=America/New_York:20260929T203000
@@ -960,7 +782,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:db0d71002878a27e620623ca@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Raleigh Wide Open — FREE music festival Oct. 1-3
 DTSTART;TZID=America/New_York:20261001T193000
 DTEND;TZID=America/New_York:20261001T223000
@@ -981,7 +803,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:75c6f2323b7ea7cb009ff20a@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Movie Night at Downtown Cary Park: Frankenweenie on Oct. 2
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
@@ -1000,7 +822,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ef95fa470b7f3a4bad5a3081@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:First Friday at City of Raleigh Museum: Interviews with Raleigh Wid
  e Open Artists Oct. 2
 DTSTART;TZID=America/New_York:20261002T090000
@@ -1021,28 +843,8 @@ URL:https://triangleonthecheap.com/city-of-raleigh-museum/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3a509fc45269805c1b386ec2@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:First Friday Market & Movie Night at Moore Square: Ghostbusters on 
- Oct. 2
-DTSTART;TZID=America/New_York:20261002T170000
-DTEND;TZID=America/New_York:20261002T210000
-DESCRIPTION:Cost: FREE\nTime: 5 to 9 p.m.\nLocation: Moore Square\, 200 S\n
- Details: Photo: Depositphotos Raleigh Parks and Get 2 Know Raleigh are ho
- sting First Friday Market & Movie Nights at Moore Square\, 200 S. Blount 
- Street\, Raleigh\, North Carolina. These events take place the first Frid
- ay of the month\, from May to November\, 2026. Enjoy an outdoor movie\, a
- s well as a vendor market\, food trucks\, free-to-play games\, and live m
- usic by a local artist. The events take place from 5...\nInfo: https://tr
- iangleonthecheap.com/outdoor-movie-moore-square/\nSource: Triangle on the
-  Cheap (Kids)
-LOCATION:Moore Square\, 200 S
-URL:https://triangleonthecheap.com/outdoor-movie-moore-square/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:ced074c2c7cec2a191f10e98@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Spooky Hollow First Friday Oct. 2
 DTSTART;TZID=America/New_York:20261002T170000
 DTEND;TZID=America/New_York:20261002T200000
@@ -1061,26 +863,8 @@ URL:https://triangleonthecheap.com/spooky-hollow/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ea05b0a58595e3ddb95a968e@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:Triangle Oktoberfest at Booth Amphitheatre — October 2-3 (free if
-  you bring a wiener dog)
-DTSTART;TZID=America/New_York:20261002T170000
-DTEND;TZID=America/New_York:20261002T220000
-DESCRIPTION:Cost: $31.42\nTime: 5 to 10 p.m.\nDetails: The popular Triangle
-  Oktoberfest returns to Booth Amphitheatre\, 8003 Regency Parkway\, Cary\
- , on Friday\, October 2\, and Saturday\, October 3\, 2026. Friday\, Octob
- er 2: 5 to 10 p.m. Saturday\, October 3: 12 to 8 p.m. Check out a big lis
- t of Oktoberfest celebrations throughout the Triangle! This is an authent
- ic German festival focused on family fun\, traditional Bavarian food\, lo
- cal and authentic German b...\nInfo: https://triangleonthecheap.com/trian
- gle-oktoberfest/\nSource: Triangle on the Cheap (Kids)
-URL:https://triangleonthecheap.com/triangle-oktoberfest/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:a0d6e5a44891ca4136e760d8@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Bands\, Bites and Boats Concert Series at Bond Park: Amanda Peach D
  uo Oct. 2
 DTSTART;TZID=America/New_York:20261002T170000
@@ -1101,8 +885,46 @@ URL:https://triangleonthecheap.com/bands-bites-boats-bond-park-cary/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:3a509fc45269805c1b386ec2@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:First Friday Market & Movie Night at Moore Square: Ghostbusters on 
+ Oct. 2
+DTSTART;TZID=America/New_York:20261002T170000
+DTEND;TZID=America/New_York:20261002T210000
+DESCRIPTION:Cost: FREE\nTime: 5 to 9 p.m.\nLocation: Moore Square\, 200 S\n
+ Details: Photo: Depositphotos Raleigh Parks and Get 2 Know Raleigh are ho
+ sting First Friday Market & Movie Nights at Moore Square\, 200 S. Blount 
+ Street\, Raleigh\, North Carolina. These events take place the first Frid
+ ay of the month\, from May to November\, 2026. Enjoy an outdoor movie\, a
+ s well as a vendor market\, food trucks\, free-to-play games\, and live m
+ usic by a local artist. The events take place from 5...\nInfo: https://tr
+ iangleonthecheap.com/outdoor-movie-moore-square/\nSource: Triangle on the
+  Cheap (Kids)
+LOCATION:Moore Square\, 200 S
+URL:https://triangleonthecheap.com/outdoor-movie-moore-square/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea05b0a58595e3ddb95a968e@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:Triangle Oktoberfest at Booth Amphitheatre — October 2-3 (free if
+  you bring a wiener dog)
+DTSTART;TZID=America/New_York:20261002T170000
+DTEND;TZID=America/New_York:20261002T220000
+DESCRIPTION:Cost: $31.42\nTime: 5 to 10 p.m.\nDetails: The popular Triangle
+  Oktoberfest returns to Booth Amphitheatre\, 8003 Regency Parkway\, Cary\
+ , on Friday\, October 2\, and Saturday\, October 3\, 2026. Friday\, Octob
+ er 2: 5 to 10 p.m. Saturday\, October 3: 12 to 8 p.m. Check out a big lis
+ t of Oktoberfest celebrations throughout the Triangle! This is an authent
+ ic German festival focused on family fun\, traditional Bavarian food\, lo
+ cal and authentic German b...\nInfo: https://triangleonthecheap.com/trian
+ gle-oktoberfest/\nSource: Triangle on the Cheap (Kids)
+URL:https://triangleonthecheap.com/triangle-oktoberfest/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:f2c0a9a2099cd821cc219d7e@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Eno Arts Mill — First Friday event on Oct. 2
 DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T210000
@@ -1122,7 +944,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ca20598e516b979103d5735f@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Free Family Movie Night at Relentless Church in Garner Oct. 2
 DTSTART;TZID=America/New_York:20261002T183000
 DTEND;TZID=America/New_York:20261002T200000
@@ -1139,7 +961,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f99d6b273e2bc2b8aa6019ff@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Friday Under the Stars with Raleigh Astronomy Club and Triangle Lan
  d Conservancy Oct. 2
 DTSTART;TZID=America/New_York:20261002T203000
@@ -1157,7 +979,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:64f8f735913882b04e5e6608@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Duke Homestead Vintage Baseball Game on Oct. 3 will feature histori
  c uniforms and rules
 DTSTART;VALUE=DATE:20261003
@@ -1177,8 +999,30 @@ URL:https://triangleonthecheap.com/duke-homestead-vintage-baseball-game/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:5606b0ccf4a3897bda564b11@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:Carolina Theatre’s Family Saturday Series: Heartland Marimba Oct.
+  3
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DESCRIPTION:Cost: $5\nLocation: 309 West Morgan Street\, Durham\, is presen
+ ting Family Saturday Series \, with performances perfect for all ages\nDe
+ tails: Carolina Theatre\, at 309 West Morgan Street\, Durham\, is present
+ ing Family Saturday Series \, with performances perfect for all ages. The
+ se music\, storytelling\, dance\, and magic performances will introduce y
+ oung audiences to the magic of live performances\, but will also be enjoy
+ able to the older members of the family. The Family Saturday Series will 
+ take place once a month (most months)\, at 11 a.m....\nInfo: https://tria
+ ngleonthecheap.com/carolina-theatre-durham/\nSource: Triangle on the Chea
+ p (Kids)
+LOCATION:309 West Morgan Street\, Durham\, is presenting Family Saturday Se
+ ries \, with performances perfect for all ages
+URL:https://triangleonthecheap.com/carolina-theatre-durham/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:7827155364ee7dbcd1ebb868@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Deadford Manor: animatronic singing skeleton show in a Raleigh fron
  t yard
 DTSTART;VALUE=DATE:20261003
@@ -1196,8 +1040,25 @@ URL:https://triangleonthecheap.com/deadford-manor/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:ad6579c15c4ac120208ed85f@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:98th Wendell Harvest Festival Oct. 3
+DTSTART;TZID=America/New_York:20261003T090000
+DTEND;TZID=America/New_York:20261003T210000
+DESCRIPTION:Cost: FREE\nTime: 9 a.m. to 9 p.m.\nDetails: The 98th Wendell H
+ arvest Festival takes place Saturday\, October 3\, 2026\, in Downtown Wen
+ dell\, from 9 a.m. to 9 p.m. This event is brought to you by the Wendell 
+ Chamber of Commerce. Over 100 vendors and eighteen food trucks fill the s
+ treets of Wendell\, along with 10\,000 visitors. Booths and food trucks o
+ pen at 9 a.m. The Harvest Festival Parade starts at 10 a.m. and circles t
+ he festival grounds. Th...\nInfo: https://triangleonthecheap.com/wendell-
+ harvest-festival/\nSource: Triangle on the Cheap (Kids)
+URL:https://triangleonthecheap.com/wendell-harvest-festival/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:abe2f22ba977b1b7beb3d49d@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Holly Springs Diwali on Oct. 3
 DTSTART;TZID=America/New_York:20261003T093000
 DTEND;TZID=America/New_York:20261003T213000
@@ -1218,7 +1079,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:19c40fb7720d54d92e07134b@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Celebrate Fuquay-Varina Festival Oct. 3
 DTSTART;TZID=America/New_York:20261003T100000
 DTEND;TZID=America/New_York:20261003T160000
@@ -1235,7 +1096,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:50e44745f1e7da92a6fbb719@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Saturday Slowdown Market and Open Farm Day at RambleRill Farm in Hi
  llsborough Oct. 3
 DTSTART;TZID=America/New_York:20261003T100000
@@ -1255,7 +1116,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5e93db44f664f19778ee3c22@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Kids can make a Witch Candy Box at Home Depot Oct. 3 (registration 
  required)
 DTSTART;TZID=America/New_York:20261003T100000
@@ -1272,8 +1133,27 @@ URL:https://triangleonthecheap.com/kids-diy-workshops/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:f864f271d7011b27ab2be8e0@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:Taste of Asia comes to Moore Square in Raleigh on Oct. 3
+DTSTART;TZID=America/New_York:20261003T110000
+DTEND;TZID=America/New_York:20261003T180000
+DESCRIPTION:Cost: FREE\nTime: 11 a.m. to 6 p.m.\nLocation: Moore Square\, 2
+ 01 S Blount Street\, Raleigh\, North Carolina\nDetails: Taste of Asia is 
+ a multicultural festival celebrating the foods\, traditions\, arts\, and 
+ entrepreneurial spirit of Asian communities. It takes place October 3\, 2
+ 026\, from 11 a.m. to 6 p.m.\, at Moore Square\, 201 S Blount Street\, Ra
+ leigh\, North Carolina. It’s free to attend. Enjoy an incredible day of
+  food\, culture\, music and community. Celebrate the rich diversity of As
+ ian cultures\, connect with frie...\nInfo: https://triangleonthecheap.com
+ /taste-of-asia/\nSource: Triangle on the Cheap (Kids)
+LOCATION:Moore Square\, 201 S Blount Street\, Raleigh\, North Carolina
+URL:https://triangleonthecheap.com/taste-of-asia/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:3a6ca7aa4a96fee34bd2733d@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Falling for Local at Dix Park Oct 3: free hayrides\, inflatables\, 
  pumpkin patch\, more
 DTSTART;TZID=America/New_York:20261003T110000
@@ -1292,27 +1172,8 @@ URL:https://triangleonthecheap.com/fall-fest-dix-park/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f864f271d7011b27ab2be8e0@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:Taste of Asia comes to Moore Square in Raleigh on Oct. 3
-DTSTART;TZID=America/New_York:20261003T110000
-DTEND;TZID=America/New_York:20261003T180000
-DESCRIPTION:Cost: FREE\nTime: 11 a.m. to 6 p.m.\nLocation: Moore Square\, 2
- 01 S Blount Street\, Raleigh\, North Carolina\nDetails: Taste of Asia is 
- a multicultural festival celebrating the foods\, traditions\, arts\, and 
- entrepreneurial spirit of Asian communities. It takes place October 3\, 2
- 026\, from 11 a.m. to 6 p.m.\, at Moore Square\, 201 S Blount Street\, Ra
- leigh\, North Carolina. It’s free to attend. The festival features: Aut
- hentic Asian cuisine Live cultural performances Traditional fashion show 
- Dragon boat-themed activities...\nInfo: https://triangleonthecheap.com/ta
- ste-of-asia/\nSource: Triangle on the Cheap (Kids)
-LOCATION:Moore Square\, 201 S Blount Street\, Raleigh\, North Carolina
-URL:https://triangleonthecheap.com/taste-of-asia/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:7b39c3cf6df1f47be3683a4c@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Duke Regional Cares Community Day Oct. 3
 DTSTART;TZID=America/New_York:20261003T120000
 DTEND;TZID=America/New_York:20261003T160000
@@ -1332,7 +1193,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:47023c18167ca4a0f63856d2@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Wake Forest Diwali Festival Oct. 3
 DTSTART;TZID=America/New_York:20261003T120000
 DTEND;TZID=America/New_York:20261003T150000
@@ -1349,7 +1210,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7d779b83fa4d7311748bc070@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Free Fall Film Series in Durham Central Park: Beetlejuice Oct. 3
 DTSTART;TZID=America/New_York:20261003T193000
 DTEND;TZID=America/New_York:20261003T213000
@@ -1368,7 +1229,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:21e6d9031c266b71774c0320@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Move-A-Bull City — Open Streets event in Downtown Durham Oct. 4
 DTSTART;TZID=America/New_York:20261004T120000
 DTEND;TZID=America/New_York:20261004T160000
@@ -1385,7 +1246,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d05a00b522ea55004be95c69@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Blessing of the Animals at Duke University Chapel Quad Oct. 4
 DTSTART;TZID=America/New_York:20261004T150000
 DTEND;TZID=America/New_York:20261004T153000
@@ -1403,27 +1264,8 @@ URL:https://triangleonthecheap.com/blessing-of-the-animals-duke-university-
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:176e4d3a3954e79364b5f93c@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:Fall Festival at Highland United Methodist Church Oct. 4
-DTSTART;TZID=America/New_York:20261004T160000
-DTEND;TZID=America/New_York:20261004T180000
-DESCRIPTION:Cost: FREE\nTime: 4 to 6 p.m.\nDetails: Highland United Methodi
- st Church\, 1901 Ridge Road\, Raleigh\, North Carolina\, is hosting a Fal
- l Festival on Sunday\, October 4\, 2026\, from 4 to 6 p.m. Admission is f
- ree. Enjoy delicious food\, fun games\, and the chance to make new friend
- s. And who could forget the super fun train rides? Dang Good Dogs will be
-  on-site selling hot dogs\, chips\, drinks\, and sno-cones\, but admissio
- n\, rides\, and games are F...\nInfo: https://triangleonthecheap.com/fall
- -festival-highland-united-methodist-church/\nSource: Triangle on the Chea
- p (Kids)
-URL:https://triangleonthecheap.com/fall-festival-highland-united-methodist-
- church/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:d4a0d84130386153cc24b34c@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Movies in the Garden at Raleigh Little Theatre Oct. 8: Hocus Pocus 
  (early bird tickets are $5)
 DTSTART;VALUE=DATE:20261008
@@ -1442,8 +1284,49 @@ URL:https://triangleonthecheap.com/movies-in-the-garden/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:3ef659a571fd967b6332ccd7@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:The Witch’s Haunted Barn at Firefly Farm in Hillsborough
+DTSTART;TZID=America/New_York:20261009T110000
+DTEND;TZID=America/New_York:20261009T190000
+DESCRIPTION:Cost: $13\nTime: 11 a.m. to 7 p.m.\nLocation: 4911 Hunt Road\, 
+ Hillsborough\, is bringing back its popular fall and Halloween attraction
+ \, The Witch’s Haunted Barn\nDetails: Photo: Mace Publishing\, LLC Fire
+ fly Farm \, at 4911 Hunt Road\, Hillsborough\, is bringing back its popul
+ ar fall and Halloween attraction\, The Witch’s Haunted Barn\, in 2026. 
+ This is a low-priced\, family-friendly activity. It’s not meant to be a
+  very scary experience\, but\, instead\, a whimsical look at Halloween\, 
+ so it should be suitable for all kids of all ages (although\, you know yo
+ ur child best.) Th...\nInfo: https://triangleonthecheap.com/witchs-haunte
+ d-barn-firefly-farm/\nSource: Triangle on the Cheap (Kids)
+LOCATION:4911 Hunt Road\, Hillsborough\, is bringing back its popular fall 
+ and Halloween attraction\, The Witch’s Haunted Barn
+URL:https://triangleonthecheap.com/witchs-haunted-barn-firefly-farm/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9e429070ccd97a77c1287afe@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:Hargraves Fall Carnival in Chapel Hill on Oct 9
+DTSTART;TZID=America/New_York:20261009T170000
+DTEND;TZID=America/New_York:20261009T190000
+DESCRIPTION:Cost: FREE\nTime: 5 to 7 p.m.\nLocation: Hargraves Community Ce
+ nter\, 216 N Roberson Street\, Chapel Hill\, North Carolina\nDetails: Cha
+ pel Hill Parks and Recreation is hosting Hargraves Fall Carnival on Frida
+ y\, October 19\, 2026\, from 5 to 7 p.m. It takes place at Hargraves Comm
+ unity Center\, 216 N Roberson Street\, Chapel Hill\, North Carolina. This
+  is a free event\, and no registration is required. It will feature games
+ \, entertainment and more fun\, but will skip the ghouls\, goblins and go
+ re. The event is geared toward kids ages 6...\nInfo: https://triangleonth
+ echeap.com/hargraves-fall-carnival/\nSource: Triangle on the Cheap (Kids)
+LOCATION:Hargraves Community Center\, 216 N Roberson Street\, Chapel Hill\,
+  North Carolina
+URL:https://triangleonthecheap.com/hargraves-fall-carnival/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:e6be70e99c0719af29d09872@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Cardinal Community Fall Festival in Wendell
 DTSTART;TZID=America/New_York:20261009T170000
 DTEND;TZID=America/New_York:20261009T193000
@@ -1462,7 +1345,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2bb4d16912e0d81ebc366cbc@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:A Weekend of Family-Friendly Comedy with The Unintentionals Oct. 9-
  11
 DTSTART;TZID=America/New_York:20261009T190000
@@ -1482,7 +1365,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:57ed14d649e65318d59e3dbe@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Track or Treat Halloween Express at New Hope Valley Railway
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
@@ -1503,7 +1386,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2760b1b0f27de376ce5cb67a@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Fletcher Field Day Oct. 10
 DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T140000
@@ -1521,8 +1404,27 @@ URL:https://triangleonthecheap.com/fletcher-field-day/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:1cce2f0d540d47c9c80a8d73@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:Pup-kin Fall Event at Mitchell Mill Animal Hospital Rescue Oct. 10
+DTSTART;TZID=America/New_York:20261010T110000
+DTEND;TZID=America/New_York:20261010T140000
+DESCRIPTION:Cost: FREE\nTime: 11 a.m. to 2 p.m.\nLocation: 4012 Mitchell Mi
+ ll Road\, Raleigh\, North Carolina\nDetails: Mitchell Mill Animal Hospita
+ l Rescue\, at 4012 Mitchell Mill Road\, Raleigh\, North Carolina\, is hos
+ ting Pup-kin Fall Event on Saturday\, October 10\, 2026\, from 11 a.m. to
+  2 p.m. It’s free to attend. Meet some costumed pups who are available 
+ for adoption. Also\, enjoy game\, prizes and trunk or treat fun. Double-C
+ heck Before You Head Out! We make every effort to make sure that everythi
+ ng on Triangle on...\nInfo: https://triangleonthecheap.com/mitchell-mill-
+ animal-hospital-rescue/\nSource: Triangle on the Cheap (Kids)
+LOCATION:4012 Mitchell Mill Road\, Raleigh\, North Carolina
+URL:https://triangleonthecheap.com/mitchell-mill-animal-hospital-rescue/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:8258eb2c4e8f88acbb5ba786@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Fall for Five Points Festival Oct 10
 DTSTART;TZID=America/New_York:20261010T110000
 DTEND;TZID=America/New_York:20261010T180000
@@ -1540,8 +1442,28 @@ URL:https://triangleonthecheap.com/fall-for-five-points-festival/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:fa1704f3f5537e1655e3f3e5@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:Fall Festival at West & Woodall Oct. 10\, including Wool E. Bull an
+ d more
+DTSTART;TZID=America/New_York:20261010T130000
+DTEND;TZID=America/New_York:20261010T160000
+DESCRIPTION:Cost: FREE\nTime: 1 to 4 p.m.\nLocation: 1901 Hillandale Road\,
+  Durham\, North Carolina\, on Saturday\nDetails: West & Woodall Real Esta
+ te is hosting a Fall Festival at 1901 Hillandale Road\, Durham\, North Ca
+ rolina\, on Saturday\, October 10\, 2026\, from 1 to 4 p.m. This is a fre
+ e event. Fall is looking great around the Triangle\, whether you’re loo
+ king for something spooky or totally kid-friendly! Check out our HUGE lis
+ t of fall festivals \, as well as our list of Raleigh area haunted trails
+  and pumpkin patches\,...\nInfo: https://triangleonthecheap.com/west-wood
+ all/\nSource: Triangle on the Cheap (Kids)
+LOCATION:1901 Hillandale Road\, Durham\, North Carolina\, on Saturday
+URL:https://triangleonthecheap.com/west-woodall/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:a9cdc323daf2161a812f06ee@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:PoeFest Community Festival Oct. 10 — free dental screenings\, bik
  e giveaway\, more…
 DTSTART;TZID=America/New_York:20261010T130000
@@ -1559,7 +1481,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:00f9ac90cdf00eb5739e894a@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Trick or Eat on Main Street in Garner Oct. 10\, including touch-a-t
  ruck and food truck rodeo
 DTSTART;TZID=America/New_York:20261010T170000
@@ -1577,7 +1499,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a28c43a47b8d02db345cca92@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:The Bazaar Craft & Art Market in Carrboro Oct. 11
 DTSTART;TZID=America/New_York:20261011T120000
 DTEND;TZID=America/New_York:20261011T170000
@@ -1595,8 +1517,46 @@ URL:https://triangleonthecheap.com/bazaar-craft-art-market-carrboro/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:970cf9d455a1c6fbc0ea3994@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:Fall Festival at Highland United Methodist Church rescheduled to Oc
+ t. 11
+DTSTART;TZID=America/New_York:20261011T160000
+DTEND;TZID=America/New_York:20261011T180000
+DESCRIPTION:Cost: FREE\nTime: 4 to 6 p.m.\nDetails: Highland United Methodi
+ st Church\, 1901 Ridge Road\, Raleigh\, North Carolina\, is hosting a Fal
+ l Festival on Sunday\, October 11\, 2026\, from 4 to 6 p.m. This is a res
+ chedule date\, due to the weather forecast on October 4. Admission is fre
+ e. Enjoy delicious food\, fun games\, and the chance to make new friends.
+  And who could forget the super fun train rides? Dang Good Dogs will be o
+ n-site selling hot dog...\nInfo: https://triangleonthecheap.com/fall-fest
+ ival-highland-united-methodist-church/\nSource: Triangle on the Cheap (Ki
+ ds)
+URL:https://triangleonthecheap.com/fall-festival-highland-united-methodist-
+ church/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d1d9ea9d68e939d02852e1ab@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:Get ready! Pullen Park’s Holiday Express tickets go on sale Oct 1
+ 5
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+DESCRIPTION:Cost: $21\nDetails: Photo courtesy of Crabtree Rotary Pullen Pa
+ rk Holiday Express \, presented by WRAL\, is back in December\, 2026. Tic
+ kets will go on sale the morning of October 15\, 2026 \, at 9 a.m. The ti
+ ckets are being sold on Ticketmaster. For your best chance at getting tic
+ kets\, go to the Ticketmaster page 10 minutes before 9 a.m.\, and make su
+ re you’re signed in to your Ticketmaster account and that you have a va
+ l...\nInfo: https://triangleonthecheap.com/pullen-parks-holiday-express/\
+ nSource: Triangle on the Cheap (Kids)
+URL:https://triangleonthecheap.com/pullen-parks-holiday-express/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:e12b104bcfc1dbcb1a86afe7@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Trunk or Treat at Lightbridge Academy in Apex Oct. 16
 DTSTART;TZID=America/New_York:20261016T180000
 DTEND;TZID=America/New_York:20261016T200000
@@ -1615,7 +1575,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7d0b8ace367e5cbfff806005@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Gather at Grace: Fall Festival with Free Cookout at Grace Lutheran 
  Church in Durham Oct. 17
 DTSTART;TZID=America/New_York:20261017T113000
@@ -1637,7 +1597,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:daf60993602f2274a2bca7d1@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Halloween Events with Raleigh Parks
 DTSTART;TZID=America/New_York:20261023T183000
 DTEND;TZID=America/New_York:20261023T203000
@@ -1657,7 +1617,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:65ceef1cbd8962d9a9540f0b@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:MrBeast Day at Lowe’s Oct. 24: Get 2 FREE exclusive Lowe’s Swar
  ms\, plus Rewards members save now on Swarm Kits
 DTSTART;VALUE=DATE:20261024
@@ -1675,7 +1635,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:22a00208570a62cdc75a1a1f@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Raleigh Zombie Walk Oct 24
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
@@ -1694,7 +1654,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ce316ce99fac129d97dd0c6b@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Day of the Dead Festival at Vollis Simpson Whirligig Park in Wilson
   Oct 24
 DTSTART;TZID=America/New_York:20261024T100000
@@ -1716,7 +1676,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:416e150614c064e369809c97@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Spellbound at Mordecai — family Halloween event Oct. 24\, plus Ha
  unted Mordecai tours
 DTSTART;TZID=America/New_York:20261024T100000
@@ -1738,7 +1698,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:61459ba3be647f506b4c7b30@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Filipino Fall Fiesta in Durham Oct. 24
 DTSTART;TZID=America/New_York:20261024T120000
 DTEND;TZID=America/New_York:20261024T170000
@@ -1756,8 +1716,27 @@ URL:https://triangleonthecheap.com/filipino-fiesta-gawad-kalinga/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:d77db1199fbe532c4650f9f2@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:Trunk or Treat at SAFEchild on Oct. 24
+DTSTART;TZID=America/New_York:20261024T130000
+DTEND;TZID=America/New_York:20261024T150000
+DESCRIPTION:Cost: FREE\nTime: 1 to 3 p.m.\nLocation: 2841 Kidd Road\, Ralei
+ gh\, North Carolina\nDetails: SAFEchild\, at 2841 Kidd Road\, Raleigh\, N
+ orth Carolina\, is hosting Trunk or Treat on Saturday\, October 24\, 2026
+ \, from 1 to 3 p.m. This is a free event. Enjoy: Treats and candy Books C
+ ostumes for kids Pumpkins Double-Check Before You Head Out! We make every
+  effort to make sure that everything on Triangle on the Cheap is 100% acc
+ urate. However\, sometimes things change without notice\, and it’s also
+  po...\nInfo: https://triangleonthecheap.com/trunk-or-treat-safechild/\nS
+ ource: Triangle on the Cheap (Kids)
+LOCATION:2841 Kidd Road\, Raleigh\, North Carolina
+URL:https://triangleonthecheap.com/trunk-or-treat-safechild/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:98d37b16d57f872690ae73bd@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Halloween Spooktacular in Hillsborough Oct. 24
 DTSTART;TZID=America/New_York:20261024T130000
 DTEND;TZID=America/New_York:20261024T160000
@@ -1774,7 +1753,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bedf531cbb8299fc05c9a27c@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:PokéFest Apex on Oct. 24
 DTSTART;TZID=America/New_York:20261024T140000
 DTEND;TZID=America/New_York:20261024T170000
@@ -1792,27 +1771,8 @@ URL:https://triangleonthecheap.com/pokefest-apex/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:83d2fce9eeb6f9519d3a1eb9@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:North Raleigh Sensory Friendly Trunk or Treat Oct. 24
-DTSTART;TZID=America/New_York:20261024T140000
-DTEND;TZID=America/New_York:20261024T160000
-DESCRIPTION:Cost: FREE\nTime: 2 to 4 p.m.\nDetails: Bloomwell Autism Therap
- y — North Raleigh\, 2910 Sumner Blvd\, Suite 101\, Raleigh\, North Caro
- lina\, is hosting a Sensory Friendly Trunk or Treat event on Saturday\, O
- ctober 24\, 2026\, from 2 to 4 p.m. It’s FREE to attend. Celebrate hall
- oween with decorated trunks\, trick-or-treating\, face painting\, a bounc
- e house\, carnival-style games\, sensory activities\, crafts\, indoor pla
- y\, and plenty of fun for the wh...\nInfo: https://triangleonthecheap.com
- /north-raleigh-sensory-friendly-trunk-or-treat/\nSource: Triangle on the 
- Cheap (Kids)
-URL:https://triangleonthecheap.com/north-raleigh-sensory-friendly-trunk-or-
- treat/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:4a68ea30c3340f64bba7a9bc@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Trunk or Treat at Saint Francis United Methodist Church\, Cary Oct.
   25\, with free hot dogs
 DTSTART;TZID=America/New_York:20261025T160000
@@ -1832,25 +1792,49 @@ URL:https://triangleonthecheap.com/trunk-or-treat-saint-francis-united-meth
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:39218eeabc02f0ea73274298@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:Trunk or Treat at St. Paul’s Christian Church Oct. 30
-DTSTART;TZID=America/New_York:20261030T180000
+UID:f7606421bdff7e2f1a1c64d9@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:Durham Community Concert Band: Spooktacular Fall Concert and Trunk 
+ or Treat Oct. 29
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DESCRIPTION:Cost: FREE\nDetails: Durham Community Concert Band is one of th
+ e largest community bands in North Carolina\, with over 100 musicians. Th
+ e band offers several free concerts every year. Here’s what’s coming 
+ up. Spooktacular Fall Concert Thursday\, October 29\, 2026 6:30 p.m. (Tru
+ nk or Treat at 6 p.m.) Durham Central Park 501 Foster Street\, Durham\, N
+ orth Carolina Free Costumes are encouraged! Bring the kids for trunk-or-t
+ re...\nInfo: https://triangleonthecheap.com/durham-community-concert-band
+ /\nSource: Triangle on the Cheap (Kids)
+URL:https://triangleonthecheap.com/durham-community-concert-band/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:30598df5a32c131f9c7902bc@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:First Responders Unified Softball Showcase: Police vs. Fire\, plus 
+ Truck or Treat\, on Oct. 30
+DTSTART;TZID=America/New_York:20261030T173000
 DTEND;TZID=America/New_York:20261030T200000
-DESCRIPTION:Cost: FREE\nTime: 6 to 8 p.m.\nDetails: St. Paul’s Christian 
- Church\, 3331 Blue Ridge Road\, Raleigh\, North Carolina\, is hosting a C
- ommunity Trunk or Treat on Friday\, October 30\, 2026\, from 6 to 8 p.m. 
- It’s free to attend and open to all. All are welcome for a night of cos
- tumes\, treats\, and lots of fun! Decorated cars will be set up in St. Pa
- ul’s parking lot\, welcoming treaters and tricksters alike! Hot dogs wi
- ll be served from 6 to 6:30...\nInfo: https://triangleonthecheap.com/st-p
- auls-christian-church-halloween/\nSource: Triangle on the Cheap (Kids)
-URL:https://triangleonthecheap.com/st-pauls-christian-church-halloween/
+DESCRIPTION:Cost: $10\nTime: 5:30 to 8 p.m.\nLocation: Historic Durham Athl
+ etic Park\, 500 W Corporation Street\, Durham\, North Carolina\nDetails: 
+ Special Olympics of North Carolina is teaming up with the Durham Police D
+ epartment and Durham Fire Department to present the inaugural First Respo
+ nders Unified Softball Showcase: Police vs. Fire \, an exciting community
+  event highlighting the power of Unified Sports by bringing Special Olymp
+ ics athletes and first responders together on the same team. This event t
+ akes place Friday\, October 30\, 2026\,...\nInfo: https://triangleonthech
+ eap.com/first-responders-unified-softball-showcase/\nSource: Triangle on 
+ the Cheap (Kids)
+LOCATION:Historic Durham Athletic Park\, 500 W Corporation Street\, Durham\
+ , North Carolina
+URL:https://triangleonthecheap.com/first-responders-unified-softball-showca
+ se/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f259b7a74739d7799990c20c@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Front Porch Fridays at Haven Farm in Knightdale
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T220000
@@ -1868,26 +1852,61 @@ URL:https://triangleonthecheap.com/front-porch-fridays-haven-farm/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7e89d4be7d8256da882db1a0@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:Family Fall Fest and Trunk or Treat at Rawls Baptist Church in Fuqu
- ay-Varina
-DTSTART;TZID=America/New_York:20261031T180000
-DTEND;TZID=America/New_York:20261031T200000
-DESCRIPTION:Cost: FREE\nTime: 6 to 8 p.m.\nDetails: Rawls Baptist Church\, 
- 10665 US-401\, Fuquay-Varina\, North Carolina\, is hosting Family Fall Fe
- stival and Trunk or Treat on Saturday\, October 31\, 2026\, from 6 to 8 p
- .m. Families can enjoy decorated trunks\, candy\, games\, fall activities
- \, and free hot dogs in a safe\, welcoming\, family-friendly environment.
-  Costumes are welcome\, and the event is intentionally designed to be fun
-  and not scary\, making it...\nInfo: https://triangleonthecheap.com/rawls
- -baptist-church-fall-fest/\nSource: Triangle on the Cheap (Kids)
-URL:https://triangleonthecheap.com/rawls-baptist-church-fall-fest/
+UID:39218eeabc02f0ea73274298@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:Trunk or Treat at St. Paul’s Christian Church Oct. 30
+DTSTART;TZID=America/New_York:20261030T180000
+DTEND;TZID=America/New_York:20261030T200000
+DESCRIPTION:Cost: FREE\nTime: 6 to 8 p.m.\nDetails: St. Paul’s Christian 
+ Church\, 3331 Blue Ridge Road\, Raleigh\, North Carolina\, is hosting a C
+ ommunity Trunk or Treat on Friday\, October 30\, 2026\, from 6 to 8 p.m. 
+ It’s free to attend and open to all. All are welcome for a night of cos
+ tumes\, treats\, and lots of fun! Decorated cars will be set up in St. Pa
+ ul’s parking lot\, welcoming treaters and tricksters alike! Hot dogs wi
+ ll be served from 6 to 6:30...\nInfo: https://triangleonthecheap.com/st-p
+ auls-christian-church-halloween/\nSource: Triangle on the Cheap (Kids)
+URL:https://triangleonthecheap.com/st-pauls-christian-church-halloween/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9187837c539652a6db3f5a12@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:Duke Homestead’s Halloween Phantasmagoria Oct. 30
+DTSTART;TZID=America/New_York:20261030T183000
+DTEND;TZID=America/New_York:20261030T213000
+DESCRIPTION:Cost: $15\nTime: 6:30 p.m. to 9:30 p.m.\nDetails: Duke Homestea
+ d \, 2828 Duke Homestead Rd\, Durham\, presents Halloween Phantasmagoria 
+ on Friday\, October 30\, 2026\, from 6:30 p.m. to 9:30 p.m. Tickets are $
+ 15\, plus fees and taxes. Kids age 3 and under are admitted for free. Tic
+ kets go on sale October 6. Purchase on Eventbrite. There will be tickets 
+ available at the door\, so even if they sell out online\, you should stil
+ l come! This experience promise...\nInfo: https://triangleonthecheap.com/
+ duke-homesteads-halloween-phantasmagoria/\nSource: Triangle on the Cheap 
+ (Kids)
+URL:https://triangleonthecheap.com/duke-homesteads-halloween-phantasmagoria
+ /
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8058bbff21bb45186eb734ec@triangleonthecheap.com
+DTSTAMP:20261002T114014Z
+SUMMARY:Trick or Treat (and Trunk or Treat) events in the Triangle in 2026
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DESCRIPTION:Cost: FREE\nDetails: Photo: depositphotos When is Trick or Trea
+ ting in the Triangle in 2026? This is a commonly asked question and the a
+ nswer is simple. October 31st. Neighborhood trick or treating is always o
+ n October 31st in the Triangle. It doesn’t matter what day of the week 
+ it is\, or what else is going on. It’s always on Halloween. That said\,
+  there are many\, many events at shopping centers\, festivals\, churches\
+ , a...\nInfo: https://triangleonthecheap.com/trick-or-treat/\nSource: Tri
+ angle on the Cheap (Kids)
+URL:https://triangleonthecheap.com/trick-or-treat/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1aca7a2e2a96f755e3bc637a@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Annual Day of the Dead celebration at City of Raleigh Museum Nov 6
 DTSTART;TZID=America/New_York:20261106T183000
 DTEND;TZID=America/New_York:20261106T210000
@@ -1905,29 +1924,8 @@ URL:https://triangleonthecheap.com/day-dead-event-city-raleigh-museum/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:93103d95e26cbb7c684813bc@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
-SUMMARY:Vault Theatre Presents: The Little Engine That Could
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-DESCRIPTION:Cost: $8\nLocation: 4221 Garrett Road\, Durham\, North Carolina
- \, at the following dates and times: Wednesday\nDetails: Vault Theatre pr
- esents The Little Engine That Could at 4221 Garrett Road\, Durham\, North
-  Carolina\, at the following dates and times: Wednesday\, November 11\, 2
- 026: 9 a.m. and 10:30 a.m. Friday\, November 13\, 2026: 9 a.m. and 10:30 
- a.m. Saturday\, November 14\, 2026: 9 a.m.\, 10:30 a.m.\, 12:45 p.m.\, an
- d 2:15 p.m. Sunday\, November 15 2026: 12:45 p.m. and 2:15 p.m. Tickets a
- re $8. Purchase here. Each perfo...\nInfo: https://triangleonthecheap.com
- /vault-theatre-little-engine-that-could/\nSource: Triangle on the Cheap (
- Kids)
-LOCATION:4221 Garrett Road\, Durham\, North Carolina\, at the following dat
- es and times: Wednesday
-URL:https://triangleonthecheap.com/vault-theatre-little-engine-that-could/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:70971cec8a3981e487cfcceb@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:Smashfest returns to The Scrap Exchange Nov 27 — smash stuff on B
  lack Friday
 DTSTART;TZID=America/New_York:20261127T150000
@@ -1945,7 +1943,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:af82a95d35a58cba8d2de0ef@triangleonthecheap.com
-DTSTAMP:20261001T121001Z
+DTSTAMP:20261002T114014Z
 SUMMARY:19th Annual St. Nicholas European Christmas Market Dec 4-5
 DTSTART;TZID=America/New_York:20261204T170000
 DTEND;TZID=America/New_York:20261204T210000
